@@ -1,0 +1,11 @@
+Data center infrastructure (Physical Topology) : example-edge/edge.physical.json
+Virtual Machine and Network requests (Virtual Topology) : example-edge/edge.virtual.json
+Workloads in example-edge/ :
+  edge.workload_host1.csv
+  edge.workload_host2.csv
+Starting CloudSim SDN...
+Initialising...
+Starting CloudSim version 3.0
+Datacenter_0 is starting...
+Entities started.
+Unwanted errors happen
