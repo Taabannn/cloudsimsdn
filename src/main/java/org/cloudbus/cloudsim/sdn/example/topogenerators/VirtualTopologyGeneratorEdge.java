@@ -3,6 +3,7 @@ package org.cloudbus.cloudsim.sdn.example.topogenerators;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 
 public class VirtualTopologyGeneratorEdge extends VirtualTopologyGeneratorVmTypes {
     public static void main(String [] argv) {
@@ -23,10 +24,11 @@ public class VirtualTopologyGeneratorEdge extends VirtualTopologyGeneratorVmType
                 1500000L, 1500000L, 1500000L, 1500000L, 1500000L, 1500000L, 1500000L, 1500000L, 1500000L,
                 1500000L, 1500000L, 1500000L};
 
-        //Random rand = new Random(SEED);
+        Random rand1 = new Random(210);
+        Random rand2 = new Random(210);
         for(int vmGroupId = 0;vmGroupId < groupNum; vmGroupId++) {
-            VirtualTopologyGeneratorVmTypes.TimeGen startTime = new VirtualTopologyGeneratorVmTypes.TimeGen(-1);
-            VirtualTopologyGeneratorVmTypes.TimeGen endTime = new VirtualTopologyGeneratorVmTypes.TimeGen(-1);
+            VirtualTopologyGeneratorVmTypes.TimeGen startTime = new VirtualTopologyGeneratorVmTypes.TimeGen(0.0, true, rand1);
+            VirtualTopologyGeneratorVmTypes.TimeGen endTime = new VirtualTopologyGeneratorVmTypes.TimeGen(0.0, true, rand2);
 
             generateVMGroupComplex(numWeb, numApp, numDB, startTime, endTime, linkBW[vmGroupId], vmGroupId, noscale);
         }
@@ -161,14 +163,14 @@ public class VirtualTopologyGeneratorEdge extends VirtualTopologyGeneratorVmType
     }
 
     public void createSFCPolicy(VirtualTopologyGenerator.VMSpec[] webs, VirtualTopologyGenerator.VMSpec[] apps, VirtualTopologyGenerator.VMSpec[] dbs, VirtualTopologyGeneratorVmTypes.TimeGen startTime, VirtualTopologyGeneratorVmTypes.TimeGen endTime, Long linkBw, int groupId, boolean noscale) {
-        int lb1Num = 1;
-        int fwNum = 1;
+        //int lb1Num = 1;
+        int fwNum = 2;
 		/*
 		int lb2Num = 1;
 		int idsNum = 1;
 		*/
         if(noscale) {
-            lb1Num = 1;
+            //lb1Num = 1;
             fwNum = 3;
 			 /*
 			 lb2Num = 1;
@@ -176,15 +178,15 @@ public class VirtualTopologyGeneratorEdge extends VirtualTopologyGeneratorVmType
 			 */
         }
 
-        VirtualTopologyGenerator.SFSpec[] lb1s = new VirtualTopologyGenerator.SFSpec[lb1Num];
-        for(int i=0; i<lb1Num; i++)
+        //VirtualTopologyGenerator.SFSpec[] lb1s = new VirtualTopologyGenerator.SFSpec[lb1Num];
+        /*for(int i=0; i<lb1Num; i++)
         {
             lb1s[i] = addSFLoadBalancer("lb1"+i, linkBw, startTime, endTime, noscale);
-        }
+        }*/
         VirtualTopologyGenerator.SFSpec[] fws = new VirtualTopologyGenerator.SFSpec[fwNum];
         for(int i=0; i<fwNum; i++)
         {
-            fws[i] = addSFFirewall("fw"+i, linkBw, startTime, endTime, noscale);
+            fws[i] = addSFFirewall("vnf"+(i+1), linkBw, startTime, endTime, noscale);
         }
 		/*
 		SFSpec [] lb2s = new SFSpec[lb2Num];
@@ -202,20 +204,31 @@ public class VirtualTopologyGeneratorEdge extends VirtualTopologyGeneratorVmType
         // Policy for Web -> App
         {
             //List<SFSpec>[] chains = createSFCombination(fws, lb1s);
-            List<VirtualTopologyGenerator.SFSpec>[] chains = createSFCombination(fws, null);
+            VirtualTopologyGenerator.SFSpec[] fws1 = new VirtualTopologyGenerator.SFSpec[1];
+            fws1[0] = fws[0];
+            VirtualTopologyGenerator.SFSpec[] fws2 = new VirtualTopologyGenerator.SFSpec[1];
+            fws2[0] = fws[1];
+
+            List<VirtualTopologyGenerator.SFSpec>[] chains1 = createSFCombination(fws1, null);
             double expTime = 1.0;
             if(groupId == 1)
                 expTime = 2.0;
-            addSFCPolicyCollective(webs, apps, chains, expTime);
+
+            List<VirtualTopologyGenerator.SFSpec>[] chains2 = createSFCombination(fws2, null);
+            if(groupId == 1)
+                expTime = 2.0;
+
+            addSFCPolicyCollective(apps, webs, chains1, expTime);
+            addSFCPolicyCollective(webs, apps, chains2, expTime);
         }
 
-        {
+        /*{
             List<VirtualTopologyGenerator.SFSpec>[] chains = createSFCombination(lb1s, null);
             double expTime = 1.0;
             if(groupId == 1)
                 expTime = 2.0;
             addSFCPolicyCollective(apps, webs, chains, expTime);
-        }
+        }*/
 
         // Policy for App -> DB
 		/*
