@@ -1,0 +1,9 @@
+Data center infrastructure (Physical Topology) : sfc-example-physical.json
+Virtual Machine and Network requests (Virtual Topology) : sfc-example-scale-virtual.json
+Workloads in example-edge/ :
+  sfc-example-scale-workload.csv
+Starting CloudSim SDN...
+Initialising...
+Starting CloudSim version 3.0
+Entities started.
+Unwanted errors happen

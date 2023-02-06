@@ -9,7 +9,7 @@ netcloudhost3,5.0,0.0
 netcloudhost2,5.0,0.0
 netcloudhost1,5.0,0.0
 netcloudhost4,5.0,0.0
-internethost,5.0,0.16666699490241071
+internethost,5.0,0.16666697527720914
 edgeuser3,10.0,0.0
 edgenode4,10.0,0.22006188750930555
 edgenode3,10.0,0.2200618875734722
@@ -21,7 +21,7 @@ netcloudhost3,10.0,0.0
 netcloudhost2,10.0,0.0
 netcloudhost1,10.0,0.0
 netcloudhost4,10.0,0.0
-internethost,10.0,0.16666682960937657
+internethost,10.0,0.1666668363730855
 edgeuser3,15.0,0.0
 edgenode4,15.0,0.22021588745583331
 edgenode3,15.0,0.22021588755208335
@@ -33,7 +33,7 @@ netcloudhost3,15.0,0.0
 netcloudhost2,15.0,0.0
 netcloudhost1,15.0,0.0
 netcloudhost4,15.0,0.0
-internethost,15.0,0.1666670743172331
+internethost,15.0,0.16666702016838933
 edgeuser3,20.0,0.0
 edgenode4,20.0,0.20881561038388888
 edgenode3,20.0,0.22003942973208332
@@ -45,7 +45,7 @@ netcloudhost3,20.0,0.0
 netcloudhost2,20.0,0.0
 netcloudhost1,20.0,0.0
 netcloudhost4,20.0,0.0
-internethost,20.0,0.16666778811050081
+internethost,20.0,0.16666782856218146
 edgeuser3,25.0,0.0
 edgenode4,25.0,0.2501667485669445
 edgenode3,25.0,0.27047335933583333
@@ -57,7 +57,7 @@ netcloudhost3,25.0,0.0
 netcloudhost2,25.0,0.0
 netcloudhost1,25.0,0.0
 netcloudhost4,25.0,0.0
-internethost,25.0,0.166667498798726
+internethost,25.0,0.16666744105911008
 edgeuser3,30.0,0.0
 edgenode4,30.0,0.25053356808625
 edgenode3,30.0,0.25612890136611105
@@ -69,7 +69,7 @@ netcloudhost3,30.0,0.0
 netcloudhost2,30.0,0.0
 netcloudhost1,30.0,0.0
 netcloudhost4,30.0,0.0
-internethost,30.0,0.16666855664019095
+internethost,30.0,0.16666852949395414
 edgeuser3,35.0,0.0
 edgenode4,35.0,0.26107401173930556
 edgenode3,35.0,0.2562123174552778
@@ -81,7 +81,7 @@ netcloudhost3,35.0,0.0
 netcloudhost2,35.0,0.0
 netcloudhost1,35.0,0.0
 netcloudhost4,35.0,0.0
-internethost,35.0,0.16666801949985163
+internethost,35.0,0.16666806664995426
 edgeuser3,40.0,0.0
 edgenode4,40.0,0.26149537172750004
 edgenode3,40.0,0.2612408440352778
@@ -93,7 +93,7 @@ netcloudhost3,40.0,0.0
 netcloudhost2,40.0,0.0
 netcloudhost1,40.0,0.0
 netcloudhost4,40.0,0.0
-internethost,40.0,0.16666872915393183
+internethost,40.0,0.16666860363359703
 edgeuser3,45.0,0.0
 edgenode4,45.0,0.27368382997527774
 edgenode3,45.0,0.27001242748625
@@ -105,7 +105,7 @@ netcloudhost3,45.0,0.0
 netcloudhost2,45.0,0.0
 netcloudhost1,45.0,0.0
 netcloudhost4,45.0,0.0
-internethost,45.0,0.16666907974386094
+internethost,45.0,0.16666916598767756
 edgeuser3,50.0,0.0
 edgenode4,50.0,0.2695728858623611
 edgenode3,50.0,0.26669180275361115
@@ -117,7 +117,7 @@ netcloudhost3,50.0,0.0
 netcloudhost2,50.0,0.0
 netcloudhost1,50.0,0.0
 netcloudhost4,50.0,0.0
-internethost,50.0,0.16666815310268587
+internethost,50.0,0.1666682004355913
 edgeuser3,55.0,0.0
 edgenode4,55.0,0.2680713855308334
 edgenode3,55.0,0.2670243997084722
@@ -129,7 +129,7 @@ netcloudhost3,55.0,0.0
 netcloudhost2,55.0,0.0
 netcloudhost1,55.0,0.0
 netcloudhost4,55.0,0.0
-internethost,55.0,0.16666838688153726
+internethost,55.0,0.16666827552842994
 edgeuser3,60.0,0.0
 edgenode4,60.0,0.2587255111831944
 edgenode3,60.0,0.25157627539291666
@@ -141,7 +141,7 @@ netcloudhost3,60.0,0.0
 netcloudhost2,60.0,0.0
 netcloudhost1,60.0,0.0
 netcloudhost4,60.0,0.0
-internethost,60.0,0.16666816335270873
+internethost,60.0,0.16666830690524875
 edgeuser3,65.0,0.0
 edgenode4,65.0,0.2665410110869445
 edgenode3,65.0,0.26113603916416667
@@ -153,7 +153,7 @@ netcloudhost3,65.0,0.0
 netcloudhost2,65.0,0.0
 netcloudhost1,65.0,0.0
 netcloudhost4,65.0,0.0
-internethost,65.0,0.1666685669163224
+internethost,65.0,0.16666849474833145
 edgeuser3,70.0,0.0
 edgenode4,70.0,0.2528820680434722
 edgenode3,70.0,0.2502651374451389
@@ -165,7 +165,7 @@ netcloudhost3,70.0,0.0
 netcloudhost2,70.0,0.0
 netcloudhost1,70.0,0.0
 netcloudhost4,70.0,0.0
-internethost,70.0,0.16666758833299586
+internethost,70.0,0.16666764538057163
 edgeuser3,75.0,0.0
 edgenode4,75.0,0.2605596096245833
 edgenode3,75.0,0.25379537349208336
@@ -177,7 +177,7 @@ netcloudhost3,75.0,0.0
 netcloudhost2,75.0,0.0
 netcloudhost1,75.0,0.0
 netcloudhost4,75.0,0.0
-internethost,75.0,0.1666673570089277
+internethost,75.0,0.16666732866141432
 edgeuser3,80.0,0.0
 edgenode4,80.0,0.2657817067291667
 edgenode3,80.0,0.25561449871666664
@@ -189,7 +189,7 @@ netcloudhost3,80.0,0.0
 netcloudhost2,80.0,0.0
 netcloudhost1,80.0,0.0
 netcloudhost4,80.0,0.0
-internethost,80.0,0.1666677851464792
+internethost,80.0,0.16666778736622898
 edgeuser3,85.0,0.0
 edgenode4,85.0,0.24794658185750001
 edgenode3,85.0,0.2460034013875
@@ -201,7 +201,7 @@ netcloudhost3,85.0,0.0
 netcloudhost2,85.0,0.0
 netcloudhost1,85.0,0.0
 netcloudhost4,85.0,0.0
-internethost,85.0,0.16666828052940147
+internethost,85.0,0.166668240286639
 edgeuser3,90.0,0.0
 edgenode4,90.0,0.26603730389791663
 edgenode3,90.0,0.2567106790797222
@@ -213,7 +213,7 @@ netcloudhost3,90.0,0.0
 netcloudhost2,90.0,0.0
 netcloudhost1,90.0,0.0
 netcloudhost4,90.0,0.0
-internethost,90.0,0.1666687451230824
+internethost,90.0,0.16666878765088225
 edgeuser3,95.0,0.0
 edgenode4,95.0,0.26771312294666666
 edgenode3,95.0,0.26128148432513887
@@ -225,7 +225,7 @@ netcloudhost3,95.0,0.0
 netcloudhost2,95.0,0.0
 netcloudhost1,95.0,0.0
 netcloudhost4,95.0,0.0
-internethost,95.0,0.16666853317612676
+internethost,95.0,0.1666685079754355
 edgeuser3,100.0,0.0
 edgenode4,100.0,0.2592495402015278
 edgenode3,100.0,0.25495892907972223
@@ -237,7 +237,7 @@ netcloudhost3,100.0,0.0
 netcloudhost2,100.0,0.0
 netcloudhost1,100.0,0.0
 netcloudhost4,100.0,0.0
-internethost,100.0,0.1666676432913944
+internethost,100.0,0.16666769792335964
 edgeuser3,105.0,0.0
 edgenode4,105.0,0.26520741499833334
 edgenode3,105.0,0.25842606780819444
@@ -249,7 +249,7 @@ netcloudhost3,105.0,0.0
 netcloudhost2,105.0,0.0
 netcloudhost1,105.0,0.0
 netcloudhost4,105.0,0.0
-internethost,105.0,0.16666881427482397
+internethost,105.0,0.1666687545766053
 edgeuser3,110.0,0.0
 edgenode4,110.0,0.2656704844427778
 edgenode3,110.0,0.2556562068147223
@@ -261,7 +261,7 @@ netcloudhost3,110.0,0.0
 netcloudhost2,110.0,0.0
 netcloudhost1,110.0,0.0
 netcloudhost4,110.0,0.0
-internethost,110.0,0.16666810225736042
+internethost,110.0,0.1666680412011771
 edgeuser3,115.0,0.0
 edgenode4,115.0,0.26451441474166665
 edgenode3,115.0,0.25772130385513886
@@ -273,7 +273,7 @@ netcloudhost3,115.0,0.0
 netcloudhost2,115.0,0.0
 netcloudhost1,115.0,0.0
 netcloudhost4,115.0,0.0
-internethost,115.0,0.16666804659385992
+internethost,115.0,0.16666817801611994
 edgeuser3,120.0,0.0
 edgenode4,120.0,0.2658298314938889
 edgenode3,120.0,0.2605414287802778
@@ -285,7 +285,7 @@ netcloudhost3,120.0,0.0
 netcloudhost2,120.0,0.0
 netcloudhost1,120.0,0.0
 netcloudhost4,120.0,0.0
-internethost,120.0,0.16666801039887857
+internethost,120.0,0.1666679372124139
 edgeuser3,125.0,0.0
 edgenode4,125.0,0.2554765401159722
 edgenode3,125.0,0.25002344288305556
@@ -297,7 +297,7 @@ netcloudhost3,125.0,0.0
 netcloudhost2,125.0,0.0
 netcloudhost1,125.0,0.0
 netcloudhost4,125.0,0.0
-internethost,125.0,0.1666674057389681
+internethost,125.0,0.16666744310911286
 edgeuser3,130.0,0.0
 edgenode4,130.0,0.24503127603458333
 edgenode3,130.0,0.24420245664361112
@@ -309,7 +309,7 @@ netcloudhost3,130.0,0.0
 netcloudhost2,130.0,0.0
 netcloudhost1,130.0,0.0
 netcloudhost4,130.0,0.0
-internethost,130.0,0.16666782059719254
+internethost,130.0,0.1666678221510168
 edgeuser3,135.0,0.0
 edgenode4,135.0,0.26022808072388887
 edgenode3,135.0,0.24854440060680558
@@ -321,7 +321,7 @@ netcloudhost3,135.0,0.0
 netcloudhost2,135.0,0.0
 netcloudhost1,135.0,0.0
 netcloudhost4,135.0,0.0
-internethost,135.0,0.166668077069722
+internethost,135.0,0.16666804659385992
 edgeuser3,140.0,0.0
 edgenode4,140.0,0.26639128814819446
 edgenode3,140.0,0.26131249692
@@ -333,7 +333,7 @@ netcloudhost3,140.0,0.0
 netcloudhost2,140.0,0.0
 netcloudhost1,140.0,0.0
 netcloudhost4,140.0,0.0
-internethost,140.0,0.16666854829653358
+internethost,140.0,0.16666854853156698
 edgeuser3,145.0,0.0
 edgenode4,145.0,0.27028941301986115
 edgenode3,145.0,0.26268566337277777
@@ -345,7 +345,7 @@ netcloudhost3,145.0,0.0
 netcloudhost2,145.0,0.0
 netcloudhost1,145.0,0.0
 netcloudhost4,145.0,0.0
-internethost,145.0,0.16666808526973467
+internethost,145.0,0.16666809109331351
 edgeuser3,150.0,0.0
 edgenode4,150.0,0.25374296949513886
 edgenode3,150.0,0.24846953914277775
@@ -357,7 +357,7 @@ netcloudhost3,150.0,0.0
 netcloudhost2,150.0,0.0
 netcloudhost1,150.0,0.0
 netcloudhost4,150.0,0.0
-internethost,150.0,0.16666831315972364
+internethost,150.0,0.1666683546429346
 edgeuser3,155.0,0.0
 edgenode4,155.0,0.2534863032776389
 edgenode3,155.0,0.24848130367333335
@@ -369,7 +369,7 @@ netcloudhost3,155.0,0.0
 netcloudhost2,155.0,0.0
 netcloudhost1,155.0,0.0
 netcloudhost4,155.0,0.0
-internethost,155.0,0.16666822245029086
+internethost,155.0,0.16666813872654326
 edgeuser3,160.0,0.0
 edgenode4,160.0,0.2695226217168056
 edgenode3,160.0,0.26224719148208336
@@ -381,7 +381,7 @@ netcloudhost3,160.0,0.0
 netcloudhost2,160.0,0.0
 netcloudhost1,160.0,0.0
 netcloudhost4,160.0,0.0
-internethost,160.0,0.16666738459911246
+internethost,160.0,0.16666741340363295
 edgeuser3,165.0,0.0
 edgenode4,165.0,0.2736774128166667
 edgenode3,165.0,0.26663298264611107
@@ -393,7 +393,7 @@ netcloudhost3,165.0,0.0
 netcloudhost2,165.0,0.0
 netcloudhost1,165.0,0.0
 netcloudhost4,165.0,0.0
-internethost,165.0,0.1666679544350585
+internethost,165.0,0.1666679371340658
 edgeuser3,170.0,0.0
 edgenode4,170.0,0.2263341788872222
 edgenode3,170.0,0.22253765138749998
@@ -405,7 +405,7 @@ netcloudhost3,170.0,0.0
 netcloudhost2,170.0,0.0
 netcloudhost1,170.0,0.0
 netcloudhost4,170.0,0.0
-internethost,170.0,0.16666760440659734
+internethost,170.0,0.16666766496660082
 edgeuser3,175.0,0.0
 edgenode4,175.0,0.27372233033888893
 edgenode3,175.0,0.2669195946448611
@@ -417,7 +417,7 @@ netcloudhost3,175.0,0.0
 netcloudhost2,175.0,0.0
 netcloudhost1,175.0,0.0
 netcloudhost4,175.0,0.0
-internethost,175.0,0.1666677592145719
+internethost,175.0,0.16666772125684656
 edgeuser3,180.0,0.0
 edgenode4,180.0,0.2722005107340278
 edgenode3,180.0,0.2663613443668056
@@ -429,7 +429,7 @@ netcloudhost3,180.0,0.0
 netcloudhost2,180.0,0.0
 netcloudhost1,180.0,0.0
 netcloudhost4,180.0,0.0
-internethost,180.0,0.16666941893472642
+internethost,180.0,0.16666934140016318
 edgeuser3,185.0,0.0
 edgenode4,185.0,0.2506758029140278
 edgenode3,185.0,0.24654667803166666
@@ -441,7 +441,7 @@ netcloudhost3,185.0,0.0
 netcloudhost2,185.0,0.0
 netcloudhost1,185.0,0.0
 netcloudhost4,185.0,0.0
-internethost,185.0,0.1666692144957498
+internethost,185.0,0.16666931217780828
 edgeuser3,190.0,0.0
 edgenode4,190.0,0.2421416369211111
 edgenode3,190.0,0.23849483144041667
@@ -453,7 +453,7 @@ netcloudhost3,190.0,0.0
 netcloudhost2,190.0,0.0
 netcloudhost1,190.0,0.0
 netcloudhost4,190.0,0.0
-internethost,190.0,0.16666780720034688
+internethost,190.0,0.16666780610352974
 edgeuser3,195.0,0.0
 edgenode4,195.0,0.24138874781833333
 edgenode3,195.0,0.2334759286198611
@@ -465,7 +465,7 @@ netcloudhost3,195.0,0.0
 netcloudhost2,195.0,0.0
 netcloudhost1,195.0,0.0
 netcloudhost4,195.0,0.0
-internethost,195.0,0.16666782597682023
+internethost,195.0,0.16666783433352608
 edgeuser3,200.0,0.0
 edgenode4,200.0,0.22979169271194444
 edgenode3,200.0,0.22901206802208335
@@ -477,7 +477,7 @@ netcloudhost3,200.0,0.0
 netcloudhost2,200.0,0.0
 netcloudhost1,200.0,0.0
 netcloudhost4,200.0,0.0
-internethost,200.0,0.166667407762858
+internethost,200.0,0.1666673925771568
 edgeuser3,205.0,0.0
 edgenode4,205.0,0.27058030224027774
 edgenode3,205.0,0.26064837209111114
@@ -489,7 +489,7 @@ netcloudhost3,205.0,0.0
 netcloudhost2,205.0,0.0
 netcloudhost1,205.0,0.0
 netcloudhost4,205.0,0.0
-internethost,205.0,0.16666793266845048
+internethost,205.0,0.1666679290254481
 edgeuser3,210.0,0.0
 edgenode4,210.0,0.2719245933936111
 edgenode3,210.0,0.2645785799325
@@ -501,7 +501,7 @@ netcloudhost3,210.0,0.0
 netcloudhost2,210.0,0.0
 netcloudhost1,210.0,0.0
 netcloudhost4,210.0,0.0
-internethost,210.0,0.16666760492888769
+internethost,210.0,0.16666766234207
 edgeuser3,215.0,0.0
 edgenode4,215.0,0.2736111072397222
 edgenode3,215.0,0.2658105797827778
@@ -513,7 +513,7 @@ netcloudhost3,215.0,0.0
 netcloudhost2,215.0,0.0
 netcloudhost1,215.0,0.0
 netcloudhost4,215.0,0.0
-internethost,215.0,0.1666675839848936
+internethost,215.0,0.16666756736288293
 edgeuser3,220.0,0.0
 edgenode4,220.0,0.2734913300822222
 edgenode3,220.0,0.2659816915248611
@@ -525,7 +525,7 @@ netcloudhost3,220.0,0.0
 netcloudhost2,220.0,0.0
 netcloudhost1,220.0,0.0
 netcloudhost4,220.0,0.0
-internethost,220.0,0.16666792231396962
+internethost,220.0,0.1666678806610135
 edgeuser3,225.0,0.0
 edgenode4,225.0,0.27373088544527774
 edgenode3,225.0,0.2668073023579167
@@ -537,7 +537,7 @@ netcloudhost3,225.0,0.0
 netcloudhost2,225.0,0.0
 netcloudhost1,225.0,0.0
 netcloudhost4,225.0,0.0
-internethost,225.0,0.16666812314911775
+internethost,225.0,0.1666681633004782
 edgeuser3,230.0,0.0
 edgenode4,230.0,0.27039314941972226
 edgenode3,230.0,0.26269956640722225
@@ -549,7 +549,7 @@ netcloudhost3,230.0,0.0
 netcloudhost2,230.0,0.0
 netcloudhost1,230.0,0.0
 netcloudhost4,230.0,0.0
-internethost,230.0,0.16666797497427494
+internethost,230.0,0.1666679542261407
 edgeuser3,235.0,0.0
 edgenode4,235.0,0.25328417780708334
 edgenode3,235.0,0.24669960863
@@ -561,7 +561,7 @@ netcloudhost3,235.0,0.0
 netcloudhost2,235.0,0.0
 netcloudhost1,235.0,0.0
 netcloudhost4,235.0,0.0
-internethost,235.0,0.16666811070546325
+internethost,235.0,0.16666811267712353
 edgeuser3,240.0,0.0
 edgenode4,240.0,0.25781969155694445
 edgenode3,240.0,0.25325851126875004
@@ -573,7 +573,7 @@ netcloudhost3,240.0,0.0
 netcloudhost2,240.0,0.0
 netcloudhost1,240.0,0.0
 netcloudhost4,240.0,0.0
-internethost,240.0,0.16666814556859222
+internethost,240.0,0.16666819709290775
 edgeuser3,245.0,0.0
 edgenode4,245.0,0.2682681633727778
 edgenode3,245.0,0.2630920526894444
@@ -585,7 +585,7 @@ netcloudhost3,245.0,0.0
 netcloudhost2,245.0,0.0
 netcloudhost1,245.0,0.0
 netcloudhost4,245.0,0.0
-internethost,245.0,0.1666679315063454
+internethost,245.0,0.16666788247598432
 edgeuser3,250.0,0.0
 edgenode4,250.0,0.25276121973041665
 edgenode3,250.0,0.24643010892944447
@@ -597,7 +597,7 @@ netcloudhost3,250.0,0.0
 netcloudhost2,250.0,0.0
 netcloudhost1,250.0,0.0
 netcloudhost4,250.0,0.0
-internethost,250.0,0.1666688238719742
+internethost,250.0,0.16666883092294496
 edgeuser3,255.0,0.0
 edgenode4,255.0,0.24957213612972223
 edgenode3,255.0,0.24606542806375
@@ -609,7 +609,7 @@ netcloudhost3,255.0,0.0
 netcloudhost2,255.0,0.0
 netcloudhost1,255.0,0.0
 netcloudhost4,255.0,0.0
-internethost,255.0,0.1666679623347585
+internethost,255.0,0.16666789016676856
 edgeuser3,260.0,0.0
 edgenode4,260.0,0.2531729557345833
 edgenode3,260.0,0.24429656733763888
@@ -621,7 +621,7 @@ netcloudhost3,260.0,0.0
 netcloudhost2,260.0,0.0
 netcloudhost1,260.0,0.0
 netcloudhost4,260.0,0.0
-internethost,260.0,0.16666824370766137
+internethost,260.0,0.1666681969492791
 edgeuser3,265.0,0.0
 edgenode4,265.0,0.27361110828777774
 edgenode3,265.0,0.26620520589499996
@@ -633,7 +633,7 @@ netcloudhost3,265.0,0.0
 netcloudhost2,265.0,0.0
 netcloudhost1,265.0,0.0
 netcloudhost4,265.0,0.0
-internethost,265.0,0.1666681465478941
+internethost,265.0,0.16666826589210196
 edgeuser3,270.0,0.0
 edgenode4,270.0,0.27347421950583334
 edgenode3,270.0,0.26574534485875
@@ -645,7 +645,7 @@ netcloudhost3,270.0,0.0
 netcloudhost2,270.0,0.0
 netcloudhost1,270.0,0.0
 netcloudhost4,270.0,0.0
-internethost,270.0,0.1666691177668774
+internethost,270.0,0.16666907738048425
 edgeuser3,275.0,0.0
 edgenode4,275.0,0.2737479972622222
 edgenode3,275.0,0.2661249976044444
@@ -657,7 +657,7 @@ netcloudhost3,275.0,0.0
 netcloudhost2,275.0,0.0
 netcloudhost1,275.0,0.0
 netcloudhost4,275.0,0.0
-internethost,275.0,0.1666679810459432
+internethost,275.0,0.16666794778886496
 edgeuser3,280.0,0.0
 edgenode4,280.0,0.2734121916638889
 edgenode3,280.0,0.2662854142069444
@@ -669,7 +669,7 @@ netcloudhost3,280.0,0.0
 netcloudhost2,280.0,0.0
 netcloudhost1,280.0,0.0
 netcloudhost4,280.0,0.0
-internethost,280.0,0.1666688172518956
+internethost,280.0,0.16666886633448605
 edgeuser3,285.0,0.0
 edgenode4,285.0,0.2504073729466667
 edgenode3,285.0,0.2449617618034722
@@ -681,7 +681,7 @@ netcloudhost3,285.0,0.0
 netcloudhost2,285.0,0.0
 netcloudhost1,285.0,0.0
 netcloudhost4,285.0,0.0
-internethost,285.0,0.16666762293497872
+internethost,285.0,0.16666766061849927
 edgeuser3,290.0,0.0
 edgenode4,290.0,0.2736196632444444
 edgenode3,290.0,0.2658939967595833
@@ -693,7 +693,7 @@ netcloudhost3,290.0,0.0
 netcloudhost2,290.0,0.0
 netcloudhost1,290.0,0.0
 netcloudhost4,290.0,0.0
-internethost,290.0,0.16666865961047048
+internethost,290.0,0.16666863360022363
 edgeuser3,295.0,0.0
 edgenode4,295.0,0.2605692333626389
 edgenode3,295.0,0.25441671974111113
@@ -705,7 +705,7 @@ netcloudhost3,295.0,0.0
 netcloudhost2,295.0,0.0
 netcloudhost1,295.0,0.0
 netcloudhost4,295.0,0.0
-internethost,295.0,0.16666740359755988
+internethost,295.0,0.16666738420739083
 edgeuser3,300.0,0.0
 edgenode4,300.0,0.272134205125
 edgenode3,300.0,0.2659570941743056
@@ -717,7 +717,7 @@ netcloudhost3,300.0,0.0
 netcloudhost2,300.0,0.0
 netcloudhost1,300.0,0.0
 netcloudhost4,300.0,0.0
-internethost,300.0,0.16666874821766908
+internethost,300.0,0.16666872732590338
 edgeuser3,305.0,0.0
 edgenode4,305.0,0.26265144161041665
 edgenode3,305.0,0.25682296967694446
@@ -729,7 +729,7 @@ netcloudhost3,305.0,0.0
 netcloudhost2,305.0,0.0
 netcloudhost1,305.0,0.0
 netcloudhost4,305.0,0.0
-internethost,305.0,0.16666847983683253
+internethost,305.0,0.16666844966129007
 edgeuser3,310.0,0.0
 edgenode4,310.0,0.25247460887597223
 edgenode3,310.0,0.24590928979513887
@@ -741,7 +741,7 @@ netcloudhost3,310.0,0.0
 netcloudhost2,310.0,0.0
 netcloudhost1,310.0,0.0
 netcloudhost4,310.0,0.0
-internethost,310.0,0.16666918441161124
+internethost,310.0,0.1666691827794413
 edgeuser3,315.0,0.0
 edgenode4,315.0,0.2540413451261111
 edgenode3,315.0,0.25177305348083334
@@ -753,7 +753,7 @@ netcloudhost3,315.0,0.0
 netcloudhost2,315.0,0.0
 netcloudhost1,315.0,0.0
 netcloudhost4,315.0,0.0
-internethost,315.0,0.16666773163744225
+internethost,315.0,0.16666783003765487
 edgeuser3,320.0,0.0
 edgenode4,320.0,0.23393258182541665
 edgenode3,320.0,0.22586576275527778
@@ -765,7 +765,7 @@ netcloudhost3,320.0,0.0
 netcloudhost2,320.0,0.0
 netcloudhost1,320.0,0.0
 netcloudhost4,320.0,0.0
-internethost,320.0,0.1666675990400255
+internethost,320.0,0.1666675880718496
 edgeuser3,325.0,0.0
 edgenode4,325.0,0.2735084416211111
 edgenode3,325.0,0.2667206779247222
@@ -777,7 +777,7 @@ netcloudhost3,325.0,0.0
 netcloudhost2,325.0,0.0
 netcloudhost1,325.0,0.0
 netcloudhost4,325.0,0.0
-internethost,325.0,0.1666676580200841
+internethost,325.0,0.1666676061823922
 edgeuser3,330.0,0.0
 edgenode4,330.0,0.27381216356527777
 edgenode3,330.0,0.26646508047791667
@@ -789,7 +789,7 @@ netcloudhost3,330.0,0.0
 netcloudhost2,330.0,0.0
 netcloudhost1,330.0,0.0
 netcloudhost4,330.0,0.0
-internethost,330.0,0.16666790417730654
+internethost,330.0,0.16666792644009287
 edgeuser3,335.0,0.0
 edgenode4,335.0,0.2640449281065278
 edgenode3,335.0,0.2586174976686111
@@ -801,7 +801,7 @@ netcloudhost3,335.0,0.0
 netcloudhost2,335.0,0.0
 netcloudhost1,335.0,0.0
 netcloudhost4,335.0,0.0
-internethost,335.0,0.1666688617382992
+internethost,335.0,0.16666878655406053
 edgeuser3,340.0,0.0
 edgenode4,340.0,0.27379077484750003
 edgenode3,340.0,0.26559027516833333
@@ -813,7 +813,7 @@ netcloudhost3,340.0,0.0
 netcloudhost2,340.0,0.0
 netcloudhost1,340.0,0.0
 netcloudhost4,340.0,0.0
-internethost,340.0,0.16666952724546882
+internethost,340.0,0.1666695405117402
 edgeuser3,345.0,0.0
 edgenode4,345.0,0.2717748723156944
 edgenode3,345.0,0.26430587265791666
@@ -825,7 +825,7 @@ netcloudhost3,345.0,0.0
 netcloudhost2,345.0,0.0
 netcloudhost1,345.0,0.0
 netcloudhost4,345.0,0.0
-internethost,345.0,0.166667675125217
+internethost,345.0,0.16666776237445
 edgeuser3,350.0,0.0
 edgenode4,350.0,0.26292842833111113
 edgenode3,350.0,0.2577116784808333
@@ -837,7 +837,7 @@ netcloudhost3,350.0,0.0
 netcloudhost2,350.0,0.0
 netcloudhost1,350.0,0.0
 netcloudhost4,350.0,0.0
-internethost,350.0,0.16666805848910635
+internethost,350.0,0.16666800572434218
 edgeuser3,355.0,0.0
 edgenode4,355.0,0.26112320573458336
 edgenode3,355.0,0.25455681715583334
@@ -849,7 +849,7 @@ netcloudhost3,355.0,0.0
 netcloudhost2,355.0,0.0
 netcloudhost1,355.0,0.0
 netcloudhost4,355.0,0.0
-internethost,355.0,0.16666878916553007
+internethost,355.0,0.1666688255955447
 edgeuser3,360.0,0.0
 edgenode4,360.0,0.27089258087361107
 edgenode3,360.0,0.265640539485
@@ -861,7 +861,7 @@ netcloudhost3,360.0,0.0
 netcloudhost2,360.0,0.0
 netcloudhost1,360.0,0.0
 netcloudhost4,360.0,0.0
-internethost,360.0,0.16666861559413462
+internethost,360.0,0.16666851711557745
 edgeuser3,365.0,0.0
 edgenode4,365.0,0.22131420742430555
 edgenode3,365.0,0.21933680468930558
@@ -873,7 +873,7 @@ netcloudhost3,365.0,0.0
 netcloudhost2,365.0,0.0
 netcloudhost1,365.0,0.0
 netcloudhost4,365.0,0.0
-internethost,365.0,0.16666789612092156
+internethost,365.0,0.16666800396160106
 edgeuser3,370.0,0.0
 edgenode4,370.0,0.2716668581380555
 edgenode3,370.0,0.26012220578805556
@@ -885,7 +885,7 @@ netcloudhost3,370.0,0.0
 netcloudhost2,370.0,0.0
 netcloudhost1,370.0,0.0
 netcloudhost4,370.0,0.0
-internethost,370.0,0.1666681366112493
+internethost,370.0,0.16666803443746145
 edgeuser3,375.0,0.0
 edgenode4,375.0,0.2709941779033333
 edgenode3,375.0,0.26359148372624996
@@ -897,7 +897,7 @@ netcloudhost3,375.0,0.0
 netcloudhost2,375.0,0.0
 netcloudhost1,375.0,0.0
 netcloudhost4,375.0,0.0
-internethost,375.0,0.16666868817995795
+internethost,375.0,0.16666868511148014
 edgeuser3,380.0,0.0
 edgenode4,380.0,0.2736196637791667
 edgenode3,380.0,0.2667634558415278
@@ -909,7 +909,7 @@ netcloudhost3,380.0,0.0
 netcloudhost2,380.0,0.0
 netcloudhost1,380.0,0.0
 netcloudhost4,380.0,0.0
-internethost,380.0,0.16666973582362674
+internethost,380.0,0.1666698396295843
 edgeuser3,385.0,0.0
 edgenode4,385.0,0.26747249719805555
 edgenode3,385.0,0.26211137259375
@@ -921,7 +921,7 @@ netcloudhost3,385.0,0.0
 netcloudhost2,385.0,0.0
 netcloudhost1,385.0,0.0
 netcloudhost4,385.0,0.0
-internethost,385.0,0.16666809387453413
+internethost,385.0,0.1666680482913142
 edgeuser3,390.0,0.0
 edgenode4,390.0,0.2623498586193056
 edgenode3,390.0,0.25517816437805557
@@ -933,7 +933,7 @@ netcloudhost3,390.0,0.0
 netcloudhost2,390.0,0.0
 netcloudhost1,390.0,0.0
 netcloudhost4,390.0,0.0
-internethost,390.0,0.16666783771537844
+internethost,390.0,0.16666786465269792
 edgeuser3,395.0,0.0
 edgenode4,395.0,0.2557107475616666
 edgenode3,395.0,0.24990687277555554
@@ -945,7 +945,7 @@ netcloudhost3,395.0,0.0
 netcloudhost2,395.0,0.0
 netcloudhost1,395.0,0.0
 netcloudhost4,395.0,0.0
-internethost,395.0,0.16666798229945157
+internethost,395.0,0.16666803131675492
 edgeuser3,400.0,0.0
 edgenode4,400.0,0.26767355266805554
 edgenode3,400.0,0.2608847196020833
@@ -957,7 +957,7 @@ netcloudhost3,400.0,0.0
 netcloudhost2,400.0,0.0
 netcloudhost1,400.0,0.0
 netcloudhost4,400.0,0.0
-internethost,400.0,0.16666754645805984
+internethost,400.0,0.1666675492131614
 edgeuser3,405.0,0.0
 edgenode4,405.0,0.26408663635430557
 edgenode3,405.0,0.2575491226793056
@@ -969,7 +969,7 @@ netcloudhost3,405.0,0.0
 netcloudhost2,405.0,0.0
 netcloudhost1,405.0,0.0
 netcloudhost4,405.0,0.0
-internethost,405.0,0.1666677473976671
+internethost,405.0,0.16666769262207096
 edgeuser3,410.0,0.0
 edgenode4,410.0,0.2682606776252778
 edgenode3,410.0,0.2618643307025
@@ -981,7 +981,7 @@ netcloudhost3,410.0,0.0
 netcloudhost2,410.0,0.0
 netcloudhost1,410.0,0.0
 netcloudhost4,410.0,0.0
-internethost,410.0,0.16666813809978648
+internethost,410.0,0.16666818621613255
 edgeuser3,415.0,0.0
 edgenode4,415.0,0.2648438024113889
 edgenode3,415.0,0.2598067192384722
@@ -993,7 +993,7 @@ netcloudhost3,415.0,0.0
 netcloudhost2,415.0,0.0
 netcloudhost1,415.0,0.0
 netcloudhost4,415.0,0.0
-internethost,415.0,0.1666686323075427
+internethost,415.0,0.16666858728578907
 edgeuser3,420.0,0.0
 edgenode4,420.0,0.24416288688902776
 edgenode3,420.0,0.2370189983851389
@@ -1005,7 +1005,7 @@ netcloudhost3,420.0,0.0
 netcloudhost2,420.0,0.0
 netcloudhost1,420.0,0.0
 netcloudhost4,420.0,0.0
-internethost,420.0,0.16666776069005673
+internethost,420.0,0.16666774494288925
 edgeuser3,425.0,0.0
 edgenode4,425.0,0.27361752489027774
 edgenode3,425.0,0.26660196973041667
@@ -1017,7 +1017,7 @@ netcloudhost3,425.0,0.0
 netcloudhost2,425.0,0.0
 netcloudhost1,425.0,0.0
 netcloudhost4,425.0,0.0
-internethost,425.0,0.16666796497234046
+internethost,425.0,0.16666802768680808
 edgeuser3,430.0,0.0
 edgenode4,430.0,0.2718796782455556
 edgenode3,430.0,0.26562235911125004
@@ -1029,7 +1029,7 @@ netcloudhost3,430.0,0.0
 netcloudhost2,430.0,0.0
 netcloudhost1,430.0,0.0
 netcloudhost4,430.0,0.0
-internethost,430.0,0.16666809286911555
+internethost,430.0,0.16666797992301055
 edgeuser3,435.0,0.0
 edgenode4,435.0,0.27358758036027775
 edgenode3,435.0,0.26747998343749996
@@ -1041,7 +1041,7 @@ netcloudhost3,435.0,0.0
 netcloudhost2,435.0,0.0
 netcloudhost1,435.0,0.0
 netcloudhost4,435.0,0.0
-internethost,435.0,0.16666845067976344
+internethost,435.0,0.16666854298219308
 edgeuser3,440.0,0.0
 edgenode4,440.0,0.27345924730500004
 edgenode3,440.0,0.26539028933527775
@@ -1053,7 +1053,7 @@ netcloudhost3,440.0,0.0
 netcloudhost2,440.0,0.0
 netcloudhost1,440.0,0.0
 netcloudhost4,440.0,0.0
-internethost,440.0,0.16666778783628877
+internethost,440.0,0.16666780013631505
 edgeuser3,445.0,0.0
 edgenode4,445.0,0.26271774749750004
 edgenode3,445.0,0.2579373311302778
@@ -1065,7 +1065,7 @@ netcloudhost3,445.0,0.0
 netcloudhost2,445.0,0.0
 netcloudhost1,445.0,0.0
 netcloudhost4,445.0,0.0
-internethost,445.0,0.16666797267618125
+internethost,445.0,0.16666795968411452
 edgeuser3,450.0,0.0
 edgenode4,450.0,0.2735897193347222
 edgenode3,450.0,0.26522987233708334
@@ -1077,7 +1077,7 @@ netcloudhost3,450.0,0.0
 netcloudhost2,450.0,0.0
 netcloudhost1,450.0,0.0
 netcloudhost4,450.0,0.0
-internethost,450.0,0.16666807935475458
+internethost,450.0,0.16666805720948424
 edgeuser3,455.0,0.0
 edgenode4,455.0,0.2735319692277778
 edgenode3,455.0,0.26779974720875
@@ -1089,7 +1089,7 @@ netcloudhost3,455.0,0.0
 netcloudhost2,455.0,0.0
 netcloudhost1,455.0,0.0
 netcloudhost4,455.0,0.0
-internethost,455.0,0.16666769195614545
+internethost,455.0,0.16666763907386528
 edgeuser3,460.0,0.0
 edgenode4,460.0,0.26463526155749995
 edgenode3,460.0,0.25782503944222224
@@ -1101,7 +1101,7 @@ netcloudhost3,460.0,0.0
 netcloudhost2,460.0,0.0
 netcloudhost1,460.0,0.0
 netcloudhost4,460.0,0.0
-internethost,460.0,0.16666844027305236
+internethost,460.0,0.1666685559220289
 edgeuser3,465.0,0.0
 edgenode4,465.0,0.27064767797819445
 edgenode3,465.0,0.26500421979458333
@@ -1113,7 +1113,7 @@ netcloudhost3,465.0,0.0
 netcloudhost2,465.0,0.0
 netcloudhost1,465.0,0.0
 netcloudhost4,465.0,0.0
-internethost,465.0,0.16666815960524808
+internethost,465.0,0.16666808743725725
 edgeuser3,470.0,0.0
 edgenode4,470.0,0.2735683300394445
 edgenode3,470.0,0.2667409970483333
@@ -1125,7 +1125,7 @@ netcloudhost3,470.0,0.0
 netcloudhost2,470.0,0.0
 netcloudhost1,470.0,0.0
 netcloudhost4,470.0,0.0
-internethost,470.0,0.16666878748112843
+internethost,470.0,0.16666877937251195
 edgeuser3,475.0,0.0
 edgenode4,475.0,0.27368383065972224
 edgenode3,475.0,0.26708963633291666
@@ -1137,7 +1137,7 @@ netcloudhost3,475.0,0.0
 netcloudhost2,475.0,0.0
 netcloudhost1,475.0,0.0
 netcloudhost4,475.0,0.0
-internethost,475.0,0.16666777520982912
+internethost,475.0,0.1666678140554553
 edgeuser3,480.0,0.0
 edgenode4,480.0,0.2709770666638889
 edgenode3,480.0,0.2672318723691666
@@ -1149,7 +1149,7 @@ netcloudhost3,480.0,0.0
 netcloudhost2,480.0,0.0
 netcloudhost1,480.0,0.0
 netcloudhost4,480.0,0.0
-internethost,480.0,0.16666810583506797
+internethost,480.0,0.16666810451627478
 edgeuser3,485.0,0.0
 edgenode4,485.0,0.24800433083083337
 edgenode3,485.0,0.24001771998708332
@@ -1161,7 +1161,7 @@ netcloudhost3,485.0,0.0
 netcloudhost2,485.0,0.0
 netcloudhost1,485.0,0.0
 netcloudhost4,485.0,0.0
-internethost,485.0,0.1666676973749469
+internethost,485.0,0.16666770185361884
 edgeuser3,490.0,0.0
 edgenode4,490.0,0.27375869172805556
 edgenode3,490.0,0.2671516642283333
@@ -1173,7 +1173,7 @@ netcloudhost3,490.0,0.0
 netcloudhost2,490.0,0.0
 netcloudhost1,490.0,0.0
 netcloudhost4,490.0,0.0
-internethost,490.0,0.16666721092325676
+internethost,490.0,0.1666672466742901
 edgeuser3,495.0,0.0
 edgenode4,495.0,0.2652790665248611
 edgenode3,495.0,0.25935969173875
@@ -1185,7 +1185,7 @@ netcloudhost3,495.0,0.0
 netcloudhost2,495.0,0.0
 netcloudhost1,495.0,0.0
 netcloudhost4,495.0,0.0
-internethost,495.0,0.16666728177245524
+internethost,495.0,0.16666727869091982
 edgeuser3,500.0,0.0
 edgenode4,500.0,0.27239408037097224
 edgenode3,500.0,0.2656758307666667
@@ -1197,7 +1197,7 @@ netcloudhost3,500.0,0.0
 netcloudhost2,500.0,0.0
 netcloudhost1,500.0,0.0
 netcloudhost4,500.0,0.0
-internethost,500.0,0.16666839350161386
+internethost,500.0,0.1666682940698699
 edgeuser3,505.0,0.0
 edgenode4,505.0,0.24214805344875
 edgenode3,505.0,0.2396273729145833
@@ -1209,7 +1209,7 @@ netcloudhost3,505.0,0.0
 netcloudhost2,505.0,0.0
 netcloudhost1,505.0,0.0
 netcloudhost4,505.0,0.0
-internethost,505.0,0.16666769310519552
+internethost,505.0,0.16666770514407467
 edgeuser3,510.0,0.0
 edgenode4,510.0,0.25703792808513887
 edgenode3,510.0,0.24776477552125
@@ -1221,7 +1221,7 @@ netcloudhost3,510.0,0.0
 netcloudhost2,510.0,0.0
 netcloudhost1,510.0,0.0
 netcloudhost4,510.0,0.0
-internethost,510.0,0.1666681555705282
+internethost,510.0,0.1666681467307008
 edgeuser3,515.0,0.0
 edgenode4,515.0,0.2734656633086111
 edgenode3,515.0,0.2670896357340278
@@ -1233,7 +1233,7 @@ netcloudhost3,515.0,0.0
 netcloudhost2,515.0,0.0
 netcloudhost1,515.0,0.0
 netcloudhost4,515.0,0.0
-internethost,515.0,0.16666842278925495
+internethost,515.0,0.16666849264609432
 edgeuser3,520.0,0.0
 edgenode4,520.0,0.2556166360441667
 edgenode3,520.0,0.25323177506138883
@@ -1245,7 +1245,7 @@ netcloudhost3,520.0,0.0
 netcloudhost2,520.0,0.0
 netcloudhost1,520.0,0.0
 netcloudhost4,520.0,0.0
-internethost,520.0,0.16666750970161062
+internethost,520.0,0.16666754115677476
 edgeuser3,525.0,0.0
 edgenode4,525.0,0.2663463715563889
 edgenode3,525.0,0.2567823302640278
@@ -1257,7 +1257,7 @@ netcloudhost3,525.0,0.0
 netcloudhost2,525.0,0.0
 netcloudhost1,525.0,0.0
 netcloudhost4,525.0,0.0
-internethost,525.0,0.16666854665130712
+internethost,525.0,0.16666844994854962
 edgeuser3,530.0,0.0
 edgenode4,530.0,0.2603232606163889
 edgenode3,530.0,0.25666896928125
@@ -1269,7 +1269,7 @@ netcloudhost3,530.0,0.0
 netcloudhost2,530.0,0.0
 netcloudhost1,530.0,0.0
 netcloudhost4,530.0,0.0
-internethost,530.0,0.1666677962974549
+internethost,530.0,0.16666783148702208
 edgeuser3,535.0,0.0
 edgenode4,535.0,0.22793299837444447
 edgenode3,535.0,0.22626573465666666
@@ -1281,7 +1281,7 @@ netcloudhost3,535.0,0.0
 netcloudhost2,535.0,0.0
 netcloudhost1,535.0,0.0
 netcloudhost4,535.0,0.0
-internethost,535.0,0.1666672827387
+internethost,535.0,0.16666732740790513
 edgeuser3,540.0,0.0
 edgenode4,540.0,0.24126148355513888
 edgenode3,540.0,0.23113063686763888
@@ -1293,7 +1293,7 @@ netcloudhost3,540.0,0.0
 netcloudhost2,540.0,0.0
 netcloudhost1,540.0,0.0
 netcloudhost4,540.0,0.0
-internethost,540.0,0.16666758859414138
+internethost,540.0,0.16666756221828796
 edgeuser3,545.0,0.0
 edgenode4,545.0,0.2736517466419444
 edgenode3,545.0,0.26753345546722224
@@ -1305,7 +1305,7 @@ netcloudhost3,545.0,0.0
 netcloudhost2,545.0,0.0
 netcloudhost1,545.0,0.0
 netcloudhost4,545.0,0.0
-internethost,545.0,0.1666683948987496
+internethost,545.0,0.16666840188443363
 edgeuser3,550.0,0.0
 edgenode4,550.0,0.2735298301036111
 edgenode3,550.0,0.26714845551000005
@@ -1317,7 +1317,7 @@ netcloudhost3,550.0,0.0
 netcloudhost2,550.0,0.0
 netcloudhost1,550.0,0.0
 netcloudhost4,550.0,0.0
-internethost,550.0,0.16666769097684342
+internethost,550.0,0.16666763574423973
 edgeuser3,555.0,0.0
 edgenode4,555.0,0.2699942464173611
 edgenode3,555.0,0.2645379413216667
@@ -1329,7 +1329,7 @@ netcloudhost3,555.0,0.0
 netcloudhost2,555.0,0.0
 netcloudhost1,555.0,0.0
 netcloudhost4,555.0,0.0
-internethost,555.0,0.1666684114815861
+internethost,555.0,0.16666839279651458
 edgeuser3,560.0,0.0
 edgenode4,560.0,0.2601607050822222
 edgenode3,560.0,0.25397824693069443
@@ -1341,7 +1341,7 @@ netcloudhost3,560.0,0.0
 netcloudhost2,560.0,0.0
 netcloudhost1,560.0,0.0
 netcloudhost4,560.0,0.0
-internethost,560.0,0.16666778244360356
+internethost,560.0,0.16666784045742297
 edgeuser3,565.0,0.0
 edgenode4,565.0,0.2688435238208333
 edgenode3,565.0,0.26039491312680557
@@ -1353,7 +1353,7 @@ netcloudhost3,565.0,0.0
 netcloudhost2,565.0,0.0
 netcloudhost1,565.0,0.0
 netcloudhost4,565.0,0.0
-internethost,565.0,0.16666755468419292
+internethost,565.0,0.16666753928957304
 edgeuser3,570.0,0.0
 edgenode4,570.0,0.2604441079348611
 edgenode3,570.0,0.2547995804565278
@@ -1365,7 +1365,7 @@ netcloudhost3,570.0,0.0
 netcloudhost2,570.0,0.0
 netcloudhost1,570.0,0.0
 netcloudhost4,570.0,0.0
-internethost,570.0,0.16666860147913423
+internethost,570.0,0.16666855030736802
 edgeuser3,575.0,0.0
 edgenode4,575.0,0.25355688611902777
 edgenode3,575.0,0.24745998365138888
@@ -1377,7 +1377,7 @@ netcloudhost3,575.0,0.0
 netcloudhost2,575.0,0.0
 netcloudhost1,575.0,0.0
 netcloudhost4,575.0,0.0
-internethost,575.0,0.16666812005452616
+internethost,575.0,0.166668236500001
 edgeuser3,580.0,0.0
 edgenode4,580.0,0.26002167767875
 edgenode3,580.0,0.25570433072388893
@@ -1389,7 +1389,7 @@ netcloudhost3,580.0,0.0
 netcloudhost2,580.0,0.0
 netcloudhost1,580.0,0.0
 netcloudhost4,580.0,0.0
-internethost,580.0,0.16666753055420444
+internethost,580.0,0.16666751997774823
 edgeuser3,585.0,0.0
 edgenode4,585.0,0.25482203873638887
 edgenode3,585.0,0.24763964989027779
@@ -1401,7 +1401,7 @@ netcloudhost3,585.0,0.0
 netcloudhost2,585.0,0.0
 netcloudhost1,585.0,0.0
 netcloudhost4,585.0,0.0
-internethost,585.0,0.16666793906655508
+internethost,585.0,0.16666787708329986
 edgeuser3,590.0,0.0
 edgenode4,590.0,0.26423742704777775
 edgenode3,590.0,0.2584699131909722
@@ -1413,7 +1413,7 @@ netcloudhost3,590.0,0.0
 netcloudhost2,590.0,0.0
 netcloudhost1,590.0,0.0
 netcloudhost4,590.0,0.0
-internethost,590.0,0.1666678902189973
+internethost,590.0,0.16666793759107448
 edgeuser3,595.0,0.0
 edgenode4,595.0,0.2556091497833333
 edgenode3,595.0,0.24964165005069447
@@ -1425,7 +1425,7 @@ netcloudhost3,595.0,0.0
 netcloudhost2,595.0,0.0
 netcloudhost1,595.0,0.0
 netcloudhost4,595.0,0.0
-internethost,595.0,0.16666758808490276
+internethost,595.0,0.16666755794853164
 edgeuser3,600.0,0.0
 edgenode4,600.0,0.25033465005069444
 edgenode3,600.0,0.24511255299958334
@@ -1437,7 +1437,7 @@ netcloudhost3,600.0,0.0
 netcloudhost2,600.0,0.0
 netcloudhost1,600.0,0.0
 netcloudhost4,600.0,0.0
-internethost,600.0,0.16666771342243603
+internethost,600.0,0.166667703381332
 edgeuser3,605.0,0.0
 edgenode4,605.0,0.1892533326061111
 edgenode3,605.0,0.19371291589666664
@@ -1449,7 +1449,7 @@ netcloudhost3,605.0,0.0
 netcloudhost2,605.0,0.0
 netcloudhost1,605.0,0.0
 netcloudhost4,605.0,0.0
-internethost,605.0,0.16666742126416287
+internethost,605.0,0.1666674982633738
 edgenode4,610.0,0.0
 edgenode3,610.0,0.0
 edgenode2,610.0,0.0

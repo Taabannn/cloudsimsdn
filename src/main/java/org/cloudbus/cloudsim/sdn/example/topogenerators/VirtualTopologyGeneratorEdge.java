@@ -98,9 +98,9 @@ public class VirtualTopologyGeneratorEdge extends VirtualTopologyGeneratorVmType
             host += vmGroupId;
 
         if(vmGroupSubId != -1) {
-            name += "-" + vmGroupSubId;
+            name +=  vmGroupSubId;
             if(host != null)
-                host += "-" + vmGroupSubId;
+                host += vmGroupSubId;
         }
         vmNum++;
 
@@ -218,8 +218,8 @@ public class VirtualTopologyGeneratorEdge extends VirtualTopologyGeneratorVmType
             if(groupId == 1)
                 expTime = 2.0;
 
-            addSFCPolicyCollective(apps, webs, chains1, expTime);
-            addSFCPolicyCollective(webs, apps, chains2, expTime);
+            addSFCPolicyCollective(webs, apps, chains1, expTime);
+            addSFCPolicyCollective(apps, webs, chains2, expTime);
         }
 
         /*{

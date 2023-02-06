@@ -1,3461 +1,3461 @@
+Switch: edge2core,5.0,0.0
 edgeuser3,5.0,0.0
 Switch: edge2edge1,5.0,0.0
-Switch: edge2core,5.0,0.0
-edgenode3,5.0,0.0036
 edgeuser2,5.0,0.004442
-edgenode2,5.0,0.0
 Switch: edgeedge2,5.0,0.004442
+edgenode3,5.0,0.0036
+edgeuser1,5.0,0.0066
+Switch: edgecore,5.0,0.0036
+edgenode1,5.0,0.0
+Switch: edgeedge1,5.0,0.0066
 Switch: edgeedge3,5.0,0.0036
 edgenode4,5.0,0.004758
-Switch: edgeedge1,5.0,0.0066
-edgeuser1,5.0,0.0066
-edgenode1,5.0,0.0
-Switch: edgecore,5.0,0.0036
-netcloudhost3,5.0,0.0
-Switch: netcloudedge1,5.0,0.0
-netcloudhost1,5.0,0.0
-netcloudhost2,5.0,0.0
+edgenode2,5.0,0.0
 Switch: netcloudedge2,5.0,0.0
 netcloudhost4,5.0,0.0
 Switch: netcloudcore,5.0,0.0
-Switch: internetgw,5.0,0.0
-Switch: netcloudgw,5.0,0.0
+netcloudhost2,5.0,0.0
+Switch: netcloudedge1,5.0,0.0
+netcloudhost1,5.0,0.0
+netcloudhost3,5.0,0.0
 Switch: edgegw,5.0,0.0036
+Switch: netcloudgw,5.0,0.0
+Switch: internetgw,5.0,0.0
 Switch: edge2gw,5.0,0.0
 Switch: inter2,5.0,0.0
 internethost,5.0,0.0
 Switch: internetcore,5.0,0.0
 Switch: internetedge,5.0,0.0
+Switch: edge2core,10.0,0.0
 edgeuser3,10.0,0.0
 Switch: edge2edge1,10.0,0.0
-Switch: edge2core,10.0,0.0
-edgenode3,10.0,0.003964
 edgeuser2,10.0,0.0062
-edgenode2,10.0,0.0
 Switch: edgeedge2,10.0,0.0062
+edgenode3,10.0,0.003964
+edgeuser1,10.0,0.005666
+Switch: edgecore,10.0,0.003964
+edgenode1,10.0,0.0
+Switch: edgeedge1,10.0,0.005666
 Switch: edgeedge3,10.0,0.003964
 edgenode4,10.0,0.00477
-Switch: edgeedge1,10.0,0.005666
-edgeuser1,10.0,0.005666
-edgenode1,10.0,0.0
-Switch: edgecore,10.0,0.003964
-netcloudhost3,10.0,0.0
-Switch: netcloudedge1,10.0,0.0
-netcloudhost1,10.0,0.0
-netcloudhost2,10.0,0.0
+edgenode2,10.0,0.0
 Switch: netcloudedge2,10.0,0.0
 netcloudhost4,10.0,0.0
 Switch: netcloudcore,10.0,0.0
-Switch: internetgw,10.0,0.0
-Switch: netcloudgw,10.0,0.0
+netcloudhost2,10.0,0.0
+Switch: netcloudedge1,10.0,0.0
+netcloudhost1,10.0,0.0
+netcloudhost3,10.0,0.0
 Switch: edgegw,10.0,0.003964
+Switch: netcloudgw,10.0,0.0
+Switch: internetgw,10.0,0.0
 Switch: edge2gw,10.0,0.0
 Switch: inter2,10.0,0.0
 internethost,10.0,0.0
 Switch: internetcore,10.0,0.0
 Switch: internetedge,10.0,0.0
+Switch: edge2core,15.0,0.0
 edgeuser3,15.0,0.0
 Switch: edge2edge1,15.0,0.0
-Switch: edge2core,15.0,0.0
-edgenode3,15.0,0.0038
 edgeuser2,15.0,0.006728
-edgenode2,15.0,0.0
 Switch: edgeedge2,15.0,0.006728
+edgenode3,15.0,0.0038
+edgeuser1,15.0,0.006136
+Switch: edgecore,15.0,0.0038
+edgenode1,15.0,0.0
+Switch: edgeedge1,15.0,0.006136
 Switch: edgeedge3,15.0,0.0038
 edgenode4,15.0,0.004958
-Switch: edgeedge1,15.0,0.006136
-edgeuser1,15.0,0.006136
-edgenode1,15.0,0.0
-Switch: edgecore,15.0,0.0038
-netcloudhost3,15.0,0.0
-Switch: netcloudedge1,15.0,0.0
-netcloudhost1,15.0,0.0
-netcloudhost2,15.0,0.0
+edgenode2,15.0,0.0
 Switch: netcloudedge2,15.0,0.0
 netcloudhost4,15.0,0.0
 Switch: netcloudcore,15.0,0.0
-Switch: internetgw,15.0,0.0
-Switch: netcloudgw,15.0,0.0
+netcloudhost2,15.0,0.0
+Switch: netcloudedge1,15.0,0.0
+netcloudhost1,15.0,0.0
+netcloudhost3,15.0,0.0
 Switch: edgegw,15.0,0.0038
+Switch: netcloudgw,15.0,0.0
+Switch: internetgw,15.0,0.0
 Switch: edge2gw,15.0,0.0
 Switch: inter2,15.0,0.0
 internethost,15.0,0.0
 Switch: internetcore,15.0,0.0
 Switch: internetedge,15.0,0.0
+Switch: edge2core,20.0,0.0
 edgeuser3,20.0,0.0
 Switch: edge2edge1,20.0,0.0
-Switch: edge2core,20.0,0.0
-edgenode3,20.0,0.002
 edgeuser2,20.0,0.003
-edgenode2,20.0,0.0022
 Switch: edgeedge2,20.0,0.003
+edgenode3,20.0,0.002
+edgeuser1,20.0,0.0031
+Switch: edgecore,20.0,0.0037
+edgenode1,20.0,0.0017
+Switch: edgeedge1,20.0,0.0031
 Switch: edgeedge3,20.0,0.0037
 edgenode4,20.0,0.0018
-Switch: edgeedge1,20.0,0.0031
-edgeuser1,20.0,0.0031
-edgenode1,20.0,0.0017
-Switch: edgecore,20.0,0.0037
-netcloudhost3,20.0,0.0
-Switch: netcloudedge1,20.0,0.0
-netcloudhost1,20.0,0.0
-netcloudhost2,20.0,0.0
+edgenode2,20.0,0.0022
 Switch: netcloudedge2,20.0,0.0
 netcloudhost4,20.0,0.0
 Switch: netcloudcore,20.0,0.0
-Switch: internetgw,20.0,0.0
-Switch: netcloudgw,20.0,0.0
+netcloudhost2,20.0,0.0
+Switch: netcloudedge1,20.0,0.0
+netcloudhost1,20.0,0.0
+netcloudhost3,20.0,0.0
 Switch: edgegw,20.0,0.0037
+Switch: netcloudgw,20.0,0.0
+Switch: internetgw,20.0,0.0
 Switch: edge2gw,20.0,0.0
 Switch: inter2,20.0,0.0
 internethost,20.0,0.0
 Switch: internetcore,20.0,0.0
 Switch: internetedge,20.0,0.0
+Switch: edge2core,25.0,0.0
 edgeuser3,25.0,0.0
 Switch: edge2edge1,25.0,0.0
-Switch: edge2core,25.0,0.0
-edgenode3,25.0,0.002503232
 edgeuser2,25.0,0.001866592
-edgenode2,25.0,0.001651936
 Switch: edgeedge2,25.0,0.001866592
+edgenode3,25.0,0.002503232
+edgeuser1,25.0,0.002593232
+Switch: edgecore,25.0,0.003806512
+edgenode1,25.0,0.00130328
+Switch: edgeedge1,25.0,0.002593232
 Switch: edgeedge3,25.0,0.003806512
 edgenode4,25.0,0.002251912
-Switch: edgeedge1,25.0,0.002593232
-edgeuser1,25.0,0.002593232
-edgenode1,25.0,0.00130328
-Switch: edgecore,25.0,0.003806512
-netcloudhost3,25.0,0.0
-Switch: netcloudedge1,25.0,0.0
-netcloudhost1,25.0,0.0
-netcloudhost2,25.0,0.0
+edgenode2,25.0,0.001651936
 Switch: netcloudedge2,25.0,0.0
 netcloudhost4,25.0,0.0
 Switch: netcloudcore,25.0,0.0
-Switch: internetgw,25.0,0.0
-Switch: netcloudgw,25.0,0.0
+netcloudhost2,25.0,0.0
+Switch: netcloudedge1,25.0,0.0
+netcloudhost1,25.0,0.0
+netcloudhost3,25.0,0.0
 Switch: edgegw,25.0,0.003806512
+Switch: netcloudgw,25.0,0.0
+Switch: internetgw,25.0,0.0
 Switch: edge2gw,25.0,0.0
 Switch: inter2,25.0,0.0
 internethost,25.0,0.0
 Switch: internetcore,25.0,0.0
 Switch: internetedge,25.0,0.0
+Switch: edge2core,30.0,0.0
 edgeuser3,30.0,0.0
 Switch: edge2edge1,30.0,0.0
-Switch: edge2core,30.0,0.0
-edgenode3,30.0,0.001640496
 edgeuser2,30.0,0.001159504
-edgenode2,30.0,0.0013
 Switch: edgeedge2,30.0,0.001159504
+edgenode3,30.0,0.001640496
+edgeuser1,30.0,0.0013
+Switch: edgecore,30.0,0.003040496
+edgenode1,30.0,0.001
+Switch: edgeedge1,30.0,0.0013
 Switch: edgeedge3,30.0,0.003040496
 edgenode4,30.0,0.00172
-Switch: edgeedge1,30.0,0.0013
-edgeuser1,30.0,0.0013
-edgenode1,30.0,0.001
-Switch: edgecore,30.0,0.003040496
-netcloudhost3,30.0,0.0
-Switch: netcloudedge1,30.0,0.0
-netcloudhost1,30.0,0.0
-netcloudhost2,30.0,0.0
+edgenode2,30.0,0.0013
 Switch: netcloudedge2,30.0,0.0
 netcloudhost4,30.0,0.0
 Switch: netcloudcore,30.0,0.0
-Switch: internetgw,30.0,0.0
-Switch: netcloudgw,30.0,0.0
+netcloudhost2,30.0,0.0
+Switch: netcloudedge1,30.0,0.0
+netcloudhost1,30.0,0.0
+netcloudhost3,30.0,0.0
 Switch: edgegw,30.0,0.003040496
+Switch: netcloudgw,30.0,0.0
+Switch: internetgw,30.0,0.0
 Switch: edge2gw,30.0,0.0
 Switch: inter2,30.0,0.0
 internethost,30.0,0.0
 Switch: internetcore,30.0,0.0
 Switch: internetedge,30.0,0.0
+Switch: edge2core,35.0,0.0
 edgeuser3,35.0,0.0
 Switch: edge2edge1,35.0,0.0
-Switch: edge2core,35.0,0.0
-edgenode3,35.0,0.001585
 edgeuser2,35.0,0.001452992
-edgenode2,35.0,0.001326
 Switch: edgeedge2,35.0,0.001452992
+edgenode3,35.0,0.001585
+edgeuser1,35.0,8.93496E-4
+Switch: edgecore,35.0,0.003126
+edgenode1,35.0,9.0E-4
+Switch: edgeedge1,35.0,8.93496E-4
 Switch: edgeedge3,35.0,0.003126
 edgenode4,35.0,0.002116
-Switch: edgeedge1,35.0,8.93496E-4
-edgeuser1,35.0,8.93496E-4
-edgenode1,35.0,9.0E-4
-Switch: edgecore,35.0,0.003126
-netcloudhost3,35.0,0.0
-Switch: netcloudedge1,35.0,0.0
-netcloudhost1,35.0,0.0
-netcloudhost2,35.0,0.0
+edgenode2,35.0,0.001326
 Switch: netcloudedge2,35.0,0.0
 netcloudhost4,35.0,0.0
 Switch: netcloudcore,35.0,0.0
-Switch: internetgw,35.0,0.0
-Switch: netcloudgw,35.0,0.0
+netcloudhost2,35.0,0.0
+Switch: netcloudedge1,35.0,0.0
+netcloudhost1,35.0,0.0
+netcloudhost3,35.0,0.0
 Switch: edgegw,35.0,0.003126
+Switch: netcloudgw,35.0,0.0
+Switch: internetgw,35.0,0.0
 Switch: edge2gw,35.0,0.0
 Switch: inter2,35.0,0.0
 internethost,35.0,0.0
 Switch: internetcore,35.0,0.0
 Switch: internetedge,35.0,0.0
+Switch: edge2core,40.0,0.0
 edgeuser3,40.0,0.0
 Switch: edge2edge1,40.0,0.0
-Switch: edge2core,40.0,0.0
-edgenode3,40.0,0.00175
 edgeuser2,40.0,0.00163
-edgenode2,40.0,0.001471
 Switch: edgeedge2,40.0,0.00163
+edgenode3,40.0,0.00175
+edgeuser1,40.0,0.002
+Switch: edgecore,40.0,0.003271
+edgenode1,40.0,7.5E-4
+Switch: edgeedge1,40.0,0.002
 Switch: edgeedge3,40.0,0.003271
 edgenode4,40.0,0.00219
-Switch: edgeedge1,40.0,0.002
-edgeuser1,40.0,0.002
-edgenode1,40.0,7.5E-4
-Switch: edgecore,40.0,0.003271
-netcloudhost3,40.0,0.0
-Switch: netcloudedge1,40.0,0.0
-netcloudhost1,40.0,0.0
-netcloudhost2,40.0,0.0
+edgenode2,40.0,0.001471
 Switch: netcloudedge2,40.0,0.0
 netcloudhost4,40.0,0.0
 Switch: netcloudcore,40.0,0.0
-Switch: internetgw,40.0,0.0
-Switch: netcloudgw,40.0,0.0
+netcloudhost2,40.0,0.0
+Switch: netcloudedge1,40.0,0.0
+netcloudhost1,40.0,0.0
+netcloudhost3,40.0,0.0
 Switch: edgegw,40.0,0.003271
+Switch: netcloudgw,40.0,0.0
+Switch: internetgw,40.0,0.0
 Switch: edge2gw,40.0,0.0
 Switch: inter2,40.0,0.0
 internethost,40.0,0.0
 Switch: internetcore,40.0,0.0
 Switch: internetedge,40.0,0.0
+Switch: edge2core,45.0,0.0
 edgeuser3,45.0,0.0
 Switch: edge2edge1,45.0,0.0
-Switch: edge2core,45.0,0.0
-edgenode3,45.0,0.001866008
 edgeuser2,45.0,0.001194496
-edgenode2,45.0,0.001827504
 Switch: edgeedge2,45.0,0.001194496
+edgenode3,45.0,0.001866008
+edgeuser1,45.0,0.002189496
+Switch: edgecore,45.0,0.003693512
+edgenode1,45.0,9.5E-4
+Switch: edgeedge1,45.0,0.002189496
 Switch: edgeedge3,45.0,0.003693512
 edgenode4,45.0,0.002372
-Switch: edgeedge1,45.0,0.002189496
-edgeuser1,45.0,0.002189496
-edgenode1,45.0,9.5E-4
-Switch: edgecore,45.0,0.003693512
-netcloudhost3,45.0,0.0
-Switch: netcloudedge1,45.0,0.0
-netcloudhost1,45.0,0.0
-netcloudhost2,45.0,0.0
+edgenode2,45.0,0.001827504
 Switch: netcloudedge2,45.0,0.0
 netcloudhost4,45.0,0.0
 Switch: netcloudcore,45.0,0.0
-Switch: internetgw,45.0,0.0
-Switch: netcloudgw,45.0,0.0
+netcloudhost2,45.0,0.0
+Switch: netcloudedge1,45.0,0.0
+netcloudhost1,45.0,0.0
+netcloudhost3,45.0,0.0
 Switch: edgegw,45.0,0.003693512
+Switch: netcloudgw,45.0,0.0
+Switch: internetgw,45.0,0.0
 Switch: edge2gw,45.0,0.0
 Switch: inter2,45.0,0.0
 internethost,45.0,0.0
 Switch: internetcore,45.0,0.0
 Switch: internetedge,45.0,0.0
+Switch: edge2core,50.0,0.0
 edgeuser3,50.0,0.0
 Switch: edge2edge1,50.0,0.0
-Switch: edge2core,50.0,0.0
-edgenode3,50.0,0.001873496
 edgeuser2,50.0,0.001376496
-edgenode2,50.0,0.00165
 Switch: edgeedge2,50.0,0.001376496
+edgenode3,50.0,0.001873496
+edgeuser1,50.0,0.0014
+Switch: edgecore,50.0,0.003496992
+edgenode1,50.0,7.73496E-4
+Switch: edgeedge1,50.0,0.0014
 Switch: edgeedge3,50.0,0.003496992
 edgenode4,50.0,0.0024
-Switch: edgeedge1,50.0,0.0014
-edgeuser1,50.0,0.0014
-edgenode1,50.0,7.73496E-4
-Switch: edgecore,50.0,0.003496992
-netcloudhost3,50.0,0.0
-Switch: netcloudedge1,50.0,0.0
-netcloudhost1,50.0,0.0
-netcloudhost2,50.0,0.0
+edgenode2,50.0,0.00165
 Switch: netcloudedge2,50.0,0.0
 netcloudhost4,50.0,0.0
 Switch: netcloudcore,50.0,0.0
-Switch: internetgw,50.0,0.0
-Switch: netcloudgw,50.0,0.0
+netcloudhost2,50.0,0.0
+Switch: netcloudedge1,50.0,0.0
+netcloudhost1,50.0,0.0
+netcloudhost3,50.0,0.0
 Switch: edgegw,50.0,0.003496992
+Switch: netcloudgw,50.0,0.0
+Switch: internetgw,50.0,0.0
 Switch: edge2gw,50.0,0.0
 Switch: inter2,50.0,0.0
 internethost,50.0,0.0
 Switch: internetcore,50.0,0.0
 Switch: internetedge,50.0,0.0
+Switch: edge2core,55.0,0.0
 edgeuser3,55.0,0.0
 Switch: edge2edge1,55.0,0.0
-Switch: edge2core,55.0,0.0
-edgenode3,55.0,0.001770504
 edgeuser2,55.0,0.001479496
-edgenode2,55.0,0.001748504
 Switch: edgeedge2,55.0,0.001479496
+edgenode3,55.0,0.001770504
+edgeuser1,55.0,0.001659992
+Switch: edgecore,55.0,0.003566512
+edgenode1,55.0,8.97504E-4
+Switch: edgeedge1,55.0,0.001659992
 Switch: edgeedge3,55.0,0.003566512
 edgenode4,55.0,0.002302504
-Switch: edgeedge1,55.0,0.001659992
-edgeuser1,55.0,0.001659992
-edgenode1,55.0,8.97504E-4
-Switch: edgecore,55.0,0.003566512
-netcloudhost3,55.0,0.0
-Switch: netcloudedge1,55.0,0.0
-netcloudhost1,55.0,0.0
-netcloudhost2,55.0,0.0
+edgenode2,55.0,0.001748504
 Switch: netcloudedge2,55.0,0.0
 netcloudhost4,55.0,0.0
 Switch: netcloudcore,55.0,0.0
-Switch: internetgw,55.0,0.0
-Switch: netcloudgw,55.0,0.0
+netcloudhost2,55.0,0.0
+Switch: netcloudedge1,55.0,0.0
+netcloudhost1,55.0,0.0
+netcloudhost3,55.0,0.0
 Switch: edgegw,55.0,0.003566512
+Switch: netcloudgw,55.0,0.0
+Switch: internetgw,55.0,0.0
 Switch: edge2gw,55.0,0.0
 Switch: inter2,55.0,0.0
 internethost,55.0,0.0
 Switch: internetcore,55.0,0.0
 Switch: internetedge,55.0,0.0
+Switch: edge2core,60.0,0.0
 edgeuser3,60.0,0.0
 Switch: edge2edge1,60.0,0.0
-Switch: edge2core,60.0,0.0
-edgenode3,60.0,0.001567504
 edgeuser2,60.0,0.001532496
-edgenode2,60.0,0.001492504
 Switch: edgeedge2,60.0,0.001532496
+edgenode3,60.0,0.001567504
+edgeuser1,60.0,0.001487496
+Switch: edgecore,60.0,0.003077512
+edgenode1,60.0,7.67504E-4
+Switch: edgeedge1,60.0,0.001487496
 Switch: edgeedge3,60.0,0.003077512
 edgenode4,60.0,0.00212
-Switch: edgeedge1,60.0,0.001487496
-edgeuser1,60.0,0.001487496
-edgenode1,60.0,7.67504E-4
-Switch: edgecore,60.0,0.003077512
-netcloudhost3,60.0,0.0
-Switch: netcloudedge1,60.0,0.0
-netcloudhost1,60.0,0.0
-netcloudhost2,60.0,0.0
+edgenode2,60.0,0.001492504
 Switch: netcloudedge2,60.0,0.0
 netcloudhost4,60.0,0.0
 Switch: netcloudcore,60.0,0.0
-Switch: internetgw,60.0,0.0
-Switch: netcloudgw,60.0,0.0
+netcloudhost2,60.0,0.0
+Switch: netcloudedge1,60.0,0.0
+netcloudhost1,60.0,0.0
+netcloudhost3,60.0,0.0
 Switch: edgegw,60.0,0.003077512
+Switch: netcloudgw,60.0,0.0
+Switch: internetgw,60.0,0.0
 Switch: edge2gw,60.0,0.0
 Switch: inter2,60.0,0.0
 internethost,60.0,0.0
 Switch: internetcore,60.0,0.0
 Switch: internetedge,60.0,0.0
+Switch: edge2core,65.0,0.0
 edgeuser3,65.0,0.0
 Switch: edge2edge1,65.0,0.0
-Switch: edge2core,65.0,0.0
-edgenode3,65.0,0.001714504
 edgeuser2,65.0,0.001835496
-edgenode2,65.0,0.001714504
 Switch: edgeedge2,65.0,0.001835496
+edgenode3,65.0,0.001714504
+edgeuser1,65.0,0.00155
+Switch: edgecore,65.0,0.003464504
+edgenode1,65.0,8.5E-4
+Switch: edgeedge1,65.0,0.00155
 Switch: edgeedge3,65.0,0.003464504
 edgenode4,65.0,0.0023
-Switch: edgeedge1,65.0,0.00155
-edgeuser1,65.0,0.00155
-edgenode1,65.0,8.5E-4
-Switch: edgecore,65.0,0.003464504
-netcloudhost3,65.0,0.0
-Switch: netcloudedge1,65.0,0.0
-netcloudhost1,65.0,0.0
-netcloudhost2,65.0,0.0
+edgenode2,65.0,0.001714504
 Switch: netcloudedge2,65.0,0.0
 netcloudhost4,65.0,0.0
 Switch: netcloudcore,65.0,0.0
-Switch: internetgw,65.0,0.0
-Switch: netcloudgw,65.0,0.0
+netcloudhost2,65.0,0.0
+Switch: netcloudedge1,65.0,0.0
+netcloudhost1,65.0,0.0
+netcloudhost3,65.0,0.0
 Switch: edgegw,65.0,0.003464504
+Switch: netcloudgw,65.0,0.0
+Switch: internetgw,65.0,0.0
 Switch: edge2gw,65.0,0.0
 Switch: inter2,65.0,0.0
 internethost,65.0,0.0
 Switch: internetcore,65.0,0.0
 Switch: internetedge,65.0,0.0
+Switch: edge2core,70.0,0.0
 edgeuser3,70.0,0.0
 Switch: edge2edge1,70.0,0.0
-Switch: edge2core,70.0,0.0
-edgenode3,70.0,0.00155
 edgeuser2,70.0,0.001291
-edgenode2,70.0,0.0015
 Switch: edgeedge2,70.0,0.001291
+edgenode3,70.0,0.00155
+edgeuser1,70.0,0.00155
+Switch: edgecore,70.0,0.0031
+edgenode1,70.0,8.0E-4
+Switch: edgeedge1,70.0,0.00155
 Switch: edgeedge3,70.0,0.0031
 edgenode4,70.0,0.002
-Switch: edgeedge1,70.0,0.00155
-edgeuser1,70.0,0.00155
-edgenode1,70.0,8.0E-4
-Switch: edgecore,70.0,0.0031
-netcloudhost3,70.0,0.0
-Switch: netcloudedge1,70.0,0.0
-netcloudhost1,70.0,0.0
-netcloudhost2,70.0,0.0
+edgenode2,70.0,0.0015
 Switch: netcloudedge2,70.0,0.0
 netcloudhost4,70.0,0.0
 Switch: netcloudcore,70.0,0.0
-Switch: internetgw,70.0,0.0
-Switch: netcloudgw,70.0,0.0
+netcloudhost2,70.0,0.0
+Switch: netcloudedge1,70.0,0.0
+netcloudhost1,70.0,0.0
+netcloudhost3,70.0,0.0
 Switch: edgegw,70.0,0.0031
+Switch: netcloudgw,70.0,0.0
+Switch: internetgw,70.0,0.0
 Switch: edge2gw,70.0,0.0
 Switch: inter2,70.0,0.0
 internethost,70.0,0.0
 Switch: internetcore,70.0,0.0
 Switch: internetedge,70.0,0.0
+Switch: edge2core,75.0,0.0
 edgeuser3,75.0,0.0
 Switch: edge2edge1,75.0,0.0
-Switch: edge2core,75.0,0.0
-edgenode3,75.0,0.0016
 edgeuser2,75.0,0.001419504
-edgenode2,75.0,0.001630496
 Switch: edgeedge2,75.0,0.001419504
+edgenode3,75.0,0.0016
+edgeuser1,75.0,0.0018
+Switch: edgecore,75.0,0.0032
+edgenode1,75.0,8.0E-4
+Switch: edgeedge1,75.0,0.0018
 Switch: edgeedge3,75.0,0.0032
 edgenode4,75.0,0.0021
-Switch: edgeedge1,75.0,0.0018
-edgeuser1,75.0,0.0018
-edgenode1,75.0,8.0E-4
-Switch: edgecore,75.0,0.0032
-netcloudhost3,75.0,0.0
-Switch: netcloudedge1,75.0,0.0
-netcloudhost1,75.0,0.0
-netcloudhost2,75.0,0.0
+edgenode2,75.0,0.001630496
 Switch: netcloudedge2,75.0,0.0
 netcloudhost4,75.0,0.0
 Switch: netcloudcore,75.0,0.0
-Switch: internetgw,75.0,0.0
-Switch: netcloudgw,75.0,0.0
+netcloudhost2,75.0,0.0
+Switch: netcloudedge1,75.0,0.0
+netcloudhost1,75.0,0.0
+netcloudhost3,75.0,0.0
 Switch: edgegw,75.0,0.0032
+Switch: netcloudgw,75.0,0.0
+Switch: internetgw,75.0,0.0
 Switch: edge2gw,75.0,0.0
 Switch: inter2,75.0,0.0
 internethost,75.0,0.0
 Switch: internetcore,75.0,0.0
 Switch: internetedge,75.0,0.0
+Switch: edge2core,80.0,0.0
 edgeuser3,80.0,0.0
 Switch: edge2edge1,80.0,0.0
-Switch: edge2core,80.0,0.0
-edgenode3,80.0,0.001616496
 edgeuser2,80.0,0.001998008
-edgenode2,80.0,0.00163
 Switch: edgeedge2,80.0,0.001998008
+edgenode3,80.0,0.001616496
+edgeuser1,80.0,0.001432
+Switch: edgecore,80.0,0.003246496
+edgenode1,80.0,8.0E-4
+Switch: edgeedge1,80.0,0.001432
 Switch: edgeedge3,80.0,0.003246496
 edgenode4,80.0,0.002273496
-Switch: edgeedge1,80.0,0.001432
-edgeuser1,80.0,0.001432
-edgenode1,80.0,8.0E-4
-Switch: edgecore,80.0,0.003246496
-netcloudhost3,80.0,0.0
-Switch: netcloudedge1,80.0,0.0
-netcloudhost1,80.0,0.0
-netcloudhost2,80.0,0.0
+edgenode2,80.0,0.00163
 Switch: netcloudedge2,80.0,0.0
 netcloudhost4,80.0,0.0
 Switch: netcloudcore,80.0,0.0
-Switch: internetgw,80.0,0.0
-Switch: netcloudgw,80.0,0.0
+netcloudhost2,80.0,0.0
+Switch: netcloudedge1,80.0,0.0
+netcloudhost1,80.0,0.0
+netcloudhost3,80.0,0.0
 Switch: edgegw,80.0,0.003246496
+Switch: netcloudgw,80.0,0.0
+Switch: internetgw,80.0,0.0
 Switch: edge2gw,80.0,0.0
 Switch: inter2,80.0,0.0
 internethost,80.0,0.0
 Switch: internetcore,80.0,0.0
 Switch: internetedge,80.0,0.0
+Switch: edge2core,85.0,0.0
 edgeuser3,85.0,0.0
 Switch: edge2edge1,85.0,0.0
-Switch: edge2core,85.0,0.0
-edgenode3,85.0,0.001466
 edgeuser2,85.0,0.001454
-edgenode2,85.0,0.00145
 Switch: edgeedge2,85.0,0.001454
+edgenode3,85.0,0.001466
+edgeuser1,85.0,0.00133
+Switch: edgecore,85.0,0.002966
+edgenode1,85.0,7.5E-4
+Switch: edgeedge1,85.0,0.00133
 Switch: edgeedge3,85.0,0.002966
 edgenode4,85.0,0.001884496
-Switch: edgeedge1,85.0,0.00133
-edgeuser1,85.0,0.00133
-edgenode1,85.0,7.5E-4
-Switch: edgecore,85.0,0.002966
-netcloudhost3,85.0,0.0
-Switch: netcloudedge1,85.0,0.0
-netcloudhost1,85.0,0.0
-netcloudhost2,85.0,0.0
+edgenode2,85.0,0.00145
 Switch: netcloudedge2,85.0,0.0
 netcloudhost4,85.0,0.0
 Switch: netcloudcore,85.0,0.0
-Switch: internetgw,85.0,0.0
-Switch: netcloudgw,85.0,0.0
+netcloudhost2,85.0,0.0
+Switch: netcloudedge1,85.0,0.0
+netcloudhost1,85.0,0.0
+netcloudhost3,85.0,0.0
 Switch: edgegw,85.0,0.002966
+Switch: netcloudgw,85.0,0.0
+Switch: internetgw,85.0,0.0
 Switch: edge2gw,85.0,0.0
 Switch: inter2,85.0,0.0
 internethost,85.0,0.0
 Switch: internetcore,85.0,0.0
 Switch: internetedge,85.0,0.0
+Switch: edge2core,90.0,0.0
 edgeuser3,90.0,0.0
 Switch: edge2edge1,90.0,0.0
-Switch: edge2core,90.0,0.0
-edgenode3,90.0,0.001616496
 edgeuser2,90.0,0.001500504
-edgenode2,90.0,0.001699504
 Switch: edgeedge2,90.0,0.001500504
+edgenode3,90.0,0.001616496
+edgeuser1,90.0,0.002066496
+Switch: edgecore,90.0,0.003241496
+edgenode1,90.0,8.37496E-4
+Switch: edgeedge1,90.0,0.002066496
 Switch: edgeedge3,90.0,0.003241496
 edgenode4,90.0,0.0023
-Switch: edgeedge1,90.0,0.002066496
-edgeuser1,90.0,0.002066496
-edgenode1,90.0,8.37496E-4
-Switch: edgecore,90.0,0.003241496
-netcloudhost3,90.0,0.0
-Switch: netcloudedge1,90.0,0.0
-netcloudhost1,90.0,0.0
-netcloudhost2,90.0,0.0
+edgenode2,90.0,0.001699504
 Switch: netcloudedge2,90.0,0.0
 netcloudhost4,90.0,0.0
 Switch: netcloudcore,90.0,0.0
-Switch: internetgw,90.0,0.0
-Switch: netcloudgw,90.0,0.0
+netcloudhost2,90.0,0.0
+Switch: netcloudedge1,90.0,0.0
+netcloudhost1,90.0,0.0
+netcloudhost3,90.0,0.0
 Switch: edgegw,90.0,0.003241496
+Switch: netcloudgw,90.0,0.0
+Switch: internetgw,90.0,0.0
 Switch: edge2gw,90.0,0.0
 Switch: inter2,90.0,0.0
 internethost,90.0,0.0
 Switch: internetcore,90.0,0.0
 Switch: internetedge,90.0,0.0
+Switch: edge2core,95.0,0.0
 edgeuser3,95.0,0.0
 Switch: edge2edge1,95.0,0.0
-Switch: edge2core,95.0,0.0
-edgenode3,95.0,0.001748504
 edgeuser2,95.0,0.001539008
-edgenode2,95.0,0.001721504
 Switch: edgeedge2,95.0,0.001539008
+edgenode3,95.0,0.001748504
+edgeuser1,95.0,0.0014
+Switch: edgecore,95.0,0.003470504
+edgenode1,95.0,8.5E-4
+Switch: edgeedge1,95.0,0.0014
 Switch: edgeedge3,95.0,0.003470504
 edgenode4,95.0,0.002290496
-Switch: edgeedge1,95.0,0.0014
-edgeuser1,95.0,0.0014
-edgenode1,95.0,8.5E-4
-Switch: edgecore,95.0,0.003470504
-netcloudhost3,95.0,0.0
-Switch: netcloudedge1,95.0,0.0
-netcloudhost1,95.0,0.0
-netcloudhost2,95.0,0.0
+edgenode2,95.0,0.001721504
 Switch: netcloudedge2,95.0,0.0
 netcloudhost4,95.0,0.0
 Switch: netcloudcore,95.0,0.0
-Switch: internetgw,95.0,0.0
-Switch: netcloudgw,95.0,0.0
+netcloudhost2,95.0,0.0
+Switch: netcloudedge1,95.0,0.0
+netcloudhost1,95.0,0.0
+netcloudhost3,95.0,0.0
 Switch: edgegw,95.0,0.003470504
+Switch: netcloudgw,95.0,0.0
+Switch: internetgw,95.0,0.0
 Switch: edge2gw,95.0,0.0
 Switch: inter2,95.0,0.0
 internethost,95.0,0.0
 Switch: internetcore,95.0,0.0
 Switch: internetedge,95.0,0.0
+Switch: edge2core,100.0,0.0
 edgeuser3,100.0,0.0
 Switch: edge2edge1,100.0,0.0
-Switch: edge2core,100.0,0.0
-edgenode3,100.0,0.001634496
 edgeuser2,100.0,0.00135
-edgenode2,100.0,0.0016
 Switch: edgeedge2,100.0,0.00135
+edgenode3,100.0,0.001634496
+edgeuser1,100.0,0.001635504
+Switch: edgecore,100.0,0.003284496
+edgenode1,100.0,8.5E-4
+Switch: edgeedge1,100.0,0.001635504
 Switch: edgeedge3,100.0,0.003284496
 edgenode4,100.0,0.00213
-Switch: edgeedge1,100.0,0.001635504
-edgeuser1,100.0,0.001635504
-edgenode1,100.0,8.5E-4
-Switch: edgecore,100.0,0.003284496
-netcloudhost3,100.0,0.0
-Switch: netcloudedge1,100.0,0.0
-netcloudhost1,100.0,0.0
-netcloudhost2,100.0,0.0
+edgenode2,100.0,0.0016
 Switch: netcloudedge2,100.0,0.0
 netcloudhost4,100.0,0.0
 Switch: netcloudcore,100.0,0.0
-Switch: internetgw,100.0,0.0
-Switch: netcloudgw,100.0,0.0
+netcloudhost2,100.0,0.0
+Switch: netcloudedge1,100.0,0.0
+netcloudhost1,100.0,0.0
+netcloudhost3,100.0,0.0
 Switch: edgegw,100.0,0.003284496
+Switch: netcloudgw,100.0,0.0
+Switch: internetgw,100.0,0.0
 Switch: edge2gw,100.0,0.0
 Switch: inter2,100.0,0.0
 internethost,100.0,0.0
 Switch: internetcore,100.0,0.0
 Switch: internetedge,100.0,0.0
+Switch: edge2core,105.0,0.0
 edgeuser3,105.0,0.0
 Switch: edge2edge1,105.0,0.0
-Switch: edge2core,105.0,0.0
-edgenode3,105.0,0.0017
 edgeuser2,105.0,0.001539008
-edgenode2,105.0,0.001717
 Switch: edgeedge2,105.0,0.001539008
+edgenode3,105.0,0.0017
+edgeuser1,105.0,0.001770504
+Switch: edgecore,105.0,0.0034
+edgenode1,105.0,8.5E-4
+Switch: edgeedge1,105.0,0.001770504
 Switch: edgeedge3,105.0,0.0034
 edgenode4,105.0,0.002212496
-Switch: edgeedge1,105.0,0.001770504
-edgeuser1,105.0,0.001770504
-edgenode1,105.0,8.5E-4
-Switch: edgecore,105.0,0.0034
-netcloudhost3,105.0,0.0
-Switch: netcloudedge1,105.0,0.0
-netcloudhost1,105.0,0.0
-netcloudhost2,105.0,0.0
+edgenode2,105.0,0.001717
 Switch: netcloudedge2,105.0,0.0
 netcloudhost4,105.0,0.0
 Switch: netcloudcore,105.0,0.0
-Switch: internetgw,105.0,0.0
-Switch: netcloudgw,105.0,0.0
+netcloudhost2,105.0,0.0
+Switch: netcloudedge1,105.0,0.0
+netcloudhost1,105.0,0.0
+netcloudhost3,105.0,0.0
 Switch: edgegw,105.0,0.0034
+Switch: netcloudgw,105.0,0.0
+Switch: internetgw,105.0,0.0
 Switch: edge2gw,105.0,0.0
 Switch: inter2,105.0,0.0
 internethost,105.0,0.0
 Switch: internetcore,105.0,0.0
 Switch: internetedge,105.0,0.0
+Switch: edge2core,110.0,0.0
 edgeuser3,110.0,0.0
 Switch: edge2edge1,110.0,0.0
-Switch: edge2core,110.0,0.0
-edgenode3,110.0,0.001599
 edgeuser2,110.0,0.001961504
-edgenode2,110.0,0.00165
 Switch: edgeedge2,110.0,0.001961504
+edgenode3,110.0,0.001599
+edgeuser1,110.0,0.001548496
+Switch: edgecore,110.0,0.003249
+edgenode1,110.0,8.0E-4
+Switch: edgeedge1,110.0,0.001548496
 Switch: edgeedge3,110.0,0.003249
 edgenode4,110.0,0.002277992
-Switch: edgeedge1,110.0,0.001548496
-edgeuser1,110.0,0.001548496
-edgenode1,110.0,8.0E-4
-Switch: edgecore,110.0,0.003249
-netcloudhost3,110.0,0.0
-Switch: netcloudedge1,110.0,0.0
-netcloudhost1,110.0,0.0
-netcloudhost2,110.0,0.0
+edgenode2,110.0,0.00165
 Switch: netcloudedge2,110.0,0.0
 netcloudhost4,110.0,0.0
 Switch: netcloudcore,110.0,0.0
-Switch: internetgw,110.0,0.0
-Switch: netcloudgw,110.0,0.0
+netcloudhost2,110.0,0.0
+Switch: netcloudedge1,110.0,0.0
+netcloudhost1,110.0,0.0
+netcloudhost3,110.0,0.0
 Switch: edgegw,110.0,0.003249
+Switch: netcloudgw,110.0,0.0
+Switch: internetgw,110.0,0.0
 Switch: edge2gw,110.0,0.0
 Switch: inter2,110.0,0.0
 internethost,110.0,0.0
 Switch: internetcore,110.0,0.0
 Switch: internetedge,110.0,0.0
+Switch: edge2core,115.0,0.0
 edgeuser3,115.0,0.0
 Switch: edge2edge1,115.0,0.0
-Switch: edge2core,115.0,0.0
-edgenode3,115.0,0.001616504
 edgeuser2,115.0,0.001588504
-edgenode2,115.0,0.0017
 Switch: edgeedge2,115.0,0.001588504
+edgenode3,115.0,0.001616504
+edgeuser1,115.0,0.001689504
+Switch: edgecore,115.0,0.003284008
+edgenode1,115.0,8.17504E-4
+Switch: edgeedge1,115.0,0.001689504
 Switch: edgeedge3,115.0,0.003284008
 edgenode4,115.0,0.002145
-Switch: edgeedge1,115.0,0.001689504
-edgeuser1,115.0,0.001689504
-edgenode1,115.0,8.17504E-4
-Switch: edgecore,115.0,0.003284008
-netcloudhost3,115.0,0.0
-Switch: netcloudedge1,115.0,0.0
-netcloudhost1,115.0,0.0
-netcloudhost2,115.0,0.0
+edgenode2,115.0,0.0017
 Switch: netcloudedge2,115.0,0.0
 netcloudhost4,115.0,0.0
 Switch: netcloudcore,115.0,0.0
-Switch: internetgw,115.0,0.0
-Switch: netcloudgw,115.0,0.0
+netcloudhost2,115.0,0.0
+Switch: netcloudedge1,115.0,0.0
+netcloudhost1,115.0,0.0
+netcloudhost3,115.0,0.0
 Switch: edgegw,115.0,0.003284008
+Switch: netcloudgw,115.0,0.0
+Switch: internetgw,115.0,0.0
 Switch: edge2gw,115.0,0.0
 Switch: inter2,115.0,0.0
 internethost,115.0,0.0
 Switch: internetcore,115.0,0.0
 Switch: internetedge,115.0,0.0
+Switch: edge2core,120.0,0.0
 edgeuser3,120.0,0.0
 Switch: edge2edge1,120.0,0.0
-Switch: edge2core,120.0,0.0
-edgenode3,120.0,0.001659992
 edgeuser2,120.0,0.001605512
-edgenode2,120.0,0.001676
 Switch: edgeedge2,120.0,0.001605512
+edgenode3,120.0,0.001659992
+edgeuser1,120.0,0.001531008
+Switch: edgecore,120.0,0.003331984
+edgenode1,120.0,8.28992E-4
+Switch: edgeedge1,120.0,0.001531008
 Switch: edgeedge3,120.0,0.003331984
 edgenode4,120.0,0.002273
-Switch: edgeedge1,120.0,0.001531008
-edgeuser1,120.0,0.001531008
-edgenode1,120.0,8.28992E-4
-Switch: edgecore,120.0,0.003331984
-netcloudhost3,120.0,0.0
-Switch: netcloudedge1,120.0,0.0
-netcloudhost1,120.0,0.0
-netcloudhost2,120.0,0.0
+edgenode2,120.0,0.001676
 Switch: netcloudedge2,120.0,0.0
 netcloudhost4,120.0,0.0
 Switch: netcloudcore,120.0,0.0
-Switch: internetgw,120.0,0.0
-Switch: netcloudgw,120.0,0.0
+netcloudhost2,120.0,0.0
+Switch: netcloudedge1,120.0,0.0
+netcloudhost1,120.0,0.0
+netcloudhost3,120.0,0.0
 Switch: edgegw,120.0,0.003331984
+Switch: netcloudgw,120.0,0.0
+Switch: internetgw,120.0,0.0
 Switch: edge2gw,120.0,0.0
 Switch: inter2,120.0,0.0
 internethost,120.0,0.0
 Switch: internetcore,120.0,0.0
 Switch: internetedge,120.0,0.0
+Switch: edge2core,125.0,0.0
 edgeuser3,125.0,0.0
 Switch: edge2edge1,125.0,0.0
-Switch: edge2core,125.0,0.0
-edgenode3,125.0,0.001525
 edgeuser2,125.0,0.00155
-edgenode2,125.0,0.00152
 Switch: edgeedge2,125.0,0.00155
+edgenode3,125.0,0.001525
+edgeuser1,125.0,0.001525
+Switch: edgecore,125.0,0.003045
+edgenode1,125.0,8.0E-4
+Switch: edgeedge1,125.0,0.001525
 Switch: edgeedge3,125.0,0.003045
 edgenode4,125.0,0.002023496
-Switch: edgeedge1,125.0,0.001525
-edgeuser1,125.0,0.001525
-edgenode1,125.0,8.0E-4
-Switch: edgecore,125.0,0.003045
-netcloudhost3,125.0,0.0
-Switch: netcloudedge1,125.0,0.0
-netcloudhost1,125.0,0.0
-netcloudhost2,125.0,0.0
+edgenode2,125.0,0.00152
 Switch: netcloudedge2,125.0,0.0
 netcloudhost4,125.0,0.0
 Switch: netcloudcore,125.0,0.0
-Switch: internetgw,125.0,0.0
-Switch: netcloudgw,125.0,0.0
+netcloudhost2,125.0,0.0
+Switch: netcloudedge1,125.0,0.0
+netcloudhost1,125.0,0.0
+netcloudhost3,125.0,0.0
 Switch: edgegw,125.0,0.003045
+Switch: netcloudgw,125.0,0.0
+Switch: internetgw,125.0,0.0
 Switch: edge2gw,125.0,0.0
 Switch: inter2,125.0,0.0
 internethost,125.0,0.0
 Switch: internetcore,125.0,0.0
 Switch: internetedge,125.0,0.0
+Switch: edge2core,130.0,0.0
 edgeuser3,130.0,0.0
 Switch: edge2edge1,130.0,0.0
-Switch: edge2core,130.0,0.0
-edgenode3,130.0,0.001433496
 edgeuser2,130.0,0.001115512
-edgenode2,130.0,0.001368
 Switch: edgeedge2,130.0,0.001115512
+edgenode3,130.0,0.001433496
+edgeuser1,130.0,0.001225504
+Switch: edgecore,130.0,0.002861496
+edgenode1,130.0,7.0E-4
+Switch: edgeedge1,130.0,0.001225504
 Switch: edgeedge3,130.0,0.002861496
 edgenode4,130.0,0.00185
-Switch: edgeedge1,130.0,0.001225504
-edgeuser1,130.0,0.001225504
-edgenode1,130.0,7.0E-4
-Switch: edgecore,130.0,0.002861496
-netcloudhost3,130.0,0.0
-Switch: netcloudedge1,130.0,0.0
-netcloudhost1,130.0,0.0
-netcloudhost2,130.0,0.0
+edgenode2,130.0,0.001368
 Switch: netcloudedge2,130.0,0.0
 netcloudhost4,130.0,0.0
 Switch: netcloudcore,130.0,0.0
-Switch: internetgw,130.0,0.0
-Switch: netcloudgw,130.0,0.0
+netcloudhost2,130.0,0.0
+Switch: netcloudedge1,130.0,0.0
+netcloudhost1,130.0,0.0
+netcloudhost3,130.0,0.0
 Switch: edgegw,130.0,0.002861496
+Switch: netcloudgw,130.0,0.0
+Switch: internetgw,130.0,0.0
 Switch: edge2gw,130.0,0.0
 Switch: inter2,130.0,0.0
 internethost,130.0,0.0
 Switch: internetcore,130.0,0.0
 Switch: internetedge,130.0,0.0
+Switch: edge2core,135.0,0.0
 edgeuser3,135.0,0.0
 Switch: edge2edge1,135.0,0.0
-Switch: edge2core,135.0,0.0
-edgenode3,135.0,0.00145
 edgeuser2,135.0,0.001893496
-edgenode2,135.0,0.001504
 Switch: edgeedge2,135.0,0.001893496
+edgenode3,135.0,0.00145
+edgeuser1,135.0,0.00142
+Switch: edgecore,135.0,0.002904
+edgenode1,135.0,7.5E-4
+Switch: edgeedge1,135.0,0.00142
 Switch: edgeedge3,135.0,0.002904
 edgenode4,135.0,0.00205
-Switch: edgeedge1,135.0,0.00142
-edgeuser1,135.0,0.00142
-edgenode1,135.0,7.5E-4
-Switch: edgecore,135.0,0.002904
-netcloudhost3,135.0,0.0
-Switch: netcloudedge1,135.0,0.0
-netcloudhost1,135.0,0.0
-netcloudhost2,135.0,0.0
+edgenode2,135.0,0.001504
 Switch: netcloudedge2,135.0,0.0
 netcloudhost4,135.0,0.0
 Switch: netcloudcore,135.0,0.0
-Switch: internetgw,135.0,0.0
-Switch: netcloudgw,135.0,0.0
+netcloudhost2,135.0,0.0
+Switch: netcloudedge1,135.0,0.0
+netcloudhost1,135.0,0.0
+netcloudhost3,135.0,0.0
 Switch: edgegw,135.0,0.002904
+Switch: netcloudgw,135.0,0.0
+Switch: internetgw,135.0,0.0
 Switch: edge2gw,135.0,0.0
 Switch: inter2,135.0,0.0
 internethost,135.0,0.0
 Switch: internetcore,135.0,0.0
 Switch: internetedge,135.0,0.0
+Switch: edge2core,140.0,0.0
 edgeuser3,140.0,0.0
 Switch: edge2edge1,140.0,0.0
-Switch: edge2core,140.0,0.0
-edgenode3,140.0,0.00175
 edgeuser2,140.0,0.001615496
-edgenode2,140.0,0.001796
 Switch: edgeedge2,140.0,0.001615496
+edgenode3,140.0,0.00175
+edgeuser1,140.0,0.00165
+Switch: edgecore,140.0,0.003537
+edgenode1,140.0,8.91E-4
+Switch: edgeedge1,140.0,0.00165
 Switch: edgeedge3,140.0,0.003537
 edgenode4,140.0,0.0023
-Switch: edgeedge1,140.0,0.00165
-edgeuser1,140.0,0.00165
-edgenode1,140.0,8.91E-4
-Switch: edgecore,140.0,0.003537
-netcloudhost3,140.0,0.0
-Switch: netcloudedge1,140.0,0.0
-netcloudhost1,140.0,0.0
-netcloudhost2,140.0,0.0
+edgenode2,140.0,0.001796
 Switch: netcloudedge2,140.0,0.0
 netcloudhost4,140.0,0.0
 Switch: netcloudcore,140.0,0.0
-Switch: internetgw,140.0,0.0
-Switch: netcloudgw,140.0,0.0
+netcloudhost2,140.0,0.0
+Switch: netcloudedge1,140.0,0.0
+netcloudhost1,140.0,0.0
+netcloudhost3,140.0,0.0
 Switch: edgegw,140.0,0.003537
+Switch: netcloudgw,140.0,0.0
+Switch: internetgw,140.0,0.0
 Switch: edge2gw,140.0,0.0
 Switch: inter2,140.0,0.0
 internethost,140.0,0.0
 Switch: internetcore,140.0,0.0
 Switch: internetedge,140.0,0.0
+Switch: edge2core,145.0,0.0
 edgeuser3,145.0,0.0
 Switch: edge2edge1,145.0,0.0
-Switch: edge2core,145.0,0.0
-edgenode3,145.0,0.001752504
 edgeuser2,145.0,0.00185
-edgenode2,145.0,0.001752504
 Switch: edgeedge2,145.0,0.00185
+edgenode3,145.0,0.001752504
+edgeuser1,145.0,0.00185
+Switch: edgecore,145.0,0.003502504
+edgenode1,145.0,8.5E-4
+Switch: edgeedge1,145.0,0.00185
 Switch: edgeedge3,145.0,0.003502504
 edgenode4,145.0,0.0024
-Switch: edgeedge1,145.0,0.00185
-edgeuser1,145.0,0.00185
-edgenode1,145.0,8.5E-4
-Switch: edgecore,145.0,0.003502504
-netcloudhost3,145.0,0.0
-Switch: netcloudedge1,145.0,0.0
-netcloudhost1,145.0,0.0
-netcloudhost2,145.0,0.0
+edgenode2,145.0,0.001752504
 Switch: netcloudedge2,145.0,0.0
 netcloudhost4,145.0,0.0
 Switch: netcloudcore,145.0,0.0
-Switch: internetgw,145.0,0.0
-Switch: netcloudgw,145.0,0.0
+netcloudhost2,145.0,0.0
+Switch: netcloudedge1,145.0,0.0
+netcloudhost1,145.0,0.0
+netcloudhost3,145.0,0.0
 Switch: edgegw,145.0,0.003502504
+Switch: netcloudgw,145.0,0.0
+Switch: internetgw,145.0,0.0
 Switch: edge2gw,145.0,0.0
 Switch: inter2,145.0,0.0
 internethost,145.0,0.0
 Switch: internetcore,145.0,0.0
 Switch: internetedge,145.0,0.0
+Switch: edge2core,150.0,0.0
 edgeuser3,150.0,0.0
 Switch: edge2edge1,150.0,0.0
-Switch: edge2core,150.0,0.0
-edgenode3,150.0,0.001547496
 edgeuser2,150.0,0.001329504
-edgenode2,150.0,0.001497496
 Switch: edgeedge2,150.0,0.001329504
+edgenode3,150.0,0.001547496
+edgeuser1,150.0,0.001474496
+Switch: edgecore,150.0,0.003024496
+edgenode1,150.0,7.27E-4
+Switch: edgeedge1,150.0,0.001474496
 Switch: edgeedge3,150.0,0.003024496
 edgenode4,150.0,0.001969
-Switch: edgeedge1,150.0,0.001474496
-edgeuser1,150.0,0.001474496
-edgenode1,150.0,7.27E-4
-Switch: edgecore,150.0,0.003024496
-netcloudhost3,150.0,0.0
-Switch: netcloudedge1,150.0,0.0
-netcloudhost1,150.0,0.0
-netcloudhost2,150.0,0.0
+edgenode2,150.0,0.001497496
 Switch: netcloudedge2,150.0,0.0
 netcloudhost4,150.0,0.0
 Switch: netcloudcore,150.0,0.0
-Switch: internetgw,150.0,0.0
-Switch: netcloudgw,150.0,0.0
+netcloudhost2,150.0,0.0
+Switch: netcloudedge1,150.0,0.0
+netcloudhost1,150.0,0.0
+netcloudhost3,150.0,0.0
 Switch: edgegw,150.0,0.003024496
+Switch: netcloudgw,150.0,0.0
+Switch: internetgw,150.0,0.0
 Switch: edge2gw,150.0,0.0
 Switch: inter2,150.0,0.0
 internethost,150.0,0.0
 Switch: internetcore,150.0,0.0
 Switch: internetedge,150.0,0.0
+Switch: edge2core,155.0,0.0
 edgeuser3,155.0,0.0
 Switch: edge2edge1,155.0,0.0
-Switch: edge2core,155.0,0.0
-edgenode3,155.0,0.001484
 edgeuser2,155.0,0.001464496
-edgenode2,155.0,0.001491
 Switch: edgeedge2,155.0,0.001464496
+edgenode3,155.0,0.001484
+edgeuser1,155.0,0.001585
+Switch: edgecore,155.0,0.003023
+edgenode1,155.0,8.0E-4
+Switch: edgeedge1,155.0,0.001585
 Switch: edgeedge3,155.0,0.003023
 edgenode4,155.0,0.001977504
-Switch: edgeedge1,155.0,0.001585
-edgeuser1,155.0,0.001585
-edgenode1,155.0,8.0E-4
-Switch: edgecore,155.0,0.003023
-netcloudhost3,155.0,0.0
-Switch: netcloudedge1,155.0,0.0
-netcloudhost1,155.0,0.0
-netcloudhost2,155.0,0.0
+edgenode2,155.0,0.001491
 Switch: netcloudedge2,155.0,0.0
 netcloudhost4,155.0,0.0
 Switch: netcloudcore,155.0,0.0
-Switch: internetgw,155.0,0.0
-Switch: netcloudgw,155.0,0.0
+netcloudhost2,155.0,0.0
+Switch: netcloudedge1,155.0,0.0
+netcloudhost1,155.0,0.0
+netcloudhost3,155.0,0.0
 Switch: edgegw,155.0,0.003023
+Switch: netcloudgw,155.0,0.0
+Switch: internetgw,155.0,0.0
 Switch: edge2gw,155.0,0.0
 Switch: inter2,155.0,0.0
 internethost,155.0,0.0
 Switch: internetcore,155.0,0.0
 Switch: internetedge,155.0,0.0
+Switch: edge2core,160.0,0.0
 edgeuser3,160.0,0.0
 Switch: edge2edge1,160.0,0.0
-Switch: edge2core,160.0,0.0
-edgenode3,160.0,0.001697504
 edgeuser2,160.0,0.001413496
-edgenode2,160.0,0.001792504
 Switch: edgeedge2,160.0,0.001413496
+edgenode3,160.0,0.001697504
+edgeuser1,160.0,0.001912
+Switch: edgecore,160.0,0.003440008
+edgenode1,160.0,8.5E-4
+Switch: edgeedge1,160.0,0.001912
 Switch: edgeedge3,160.0,0.003440008
 edgenode4,160.0,0.002315008
-Switch: edgeedge1,160.0,0.001912
-edgeuser1,160.0,0.001912
-edgenode1,160.0,8.5E-4
-Switch: edgecore,160.0,0.003440008
-netcloudhost3,160.0,0.0
-Switch: netcloudedge1,160.0,0.0
-netcloudhost1,160.0,0.0
-netcloudhost2,160.0,0.0
+edgenode2,160.0,0.001792504
 Switch: netcloudedge2,160.0,0.0
 netcloudhost4,160.0,0.0
 Switch: netcloudcore,160.0,0.0
-Switch: internetgw,160.0,0.0
-Switch: netcloudgw,160.0,0.0
+netcloudhost2,160.0,0.0
+Switch: netcloudedge1,160.0,0.0
+netcloudhost1,160.0,0.0
+netcloudhost3,160.0,0.0
 Switch: edgegw,160.0,0.003440008
+Switch: netcloudgw,160.0,0.0
+Switch: internetgw,160.0,0.0
 Switch: edge2gw,160.0,0.0
 Switch: inter2,160.0,0.0
 internethost,160.0,0.0
 Switch: internetcore,160.0,0.0
 Switch: internetedge,160.0,0.0
+Switch: edge2core,165.0,0.0
 edgeuser3,165.0,0.0
 Switch: edge2edge1,165.0,0.0
-Switch: edge2core,165.0,0.0
-edgenode3,165.0,0.001831008
 edgeuser2,165.0,0.001627984
-edgenode2,165.0,0.001805
 Switch: edgeedge2,165.0,0.001627984
+edgenode3,165.0,0.001831008
+edgeuser1,165.0,0.001860504
+Switch: edgecore,165.0,0.003651008
+edgenode1,165.0,9.5E-4
+Switch: edgeedge1,165.0,0.001860504
 Switch: edgeedge3,165.0,0.003651008
 edgenode4,165.0,0.002390504
-Switch: edgeedge1,165.0,0.001860504
-edgeuser1,165.0,0.001860504
-edgenode1,165.0,9.5E-4
-Switch: edgecore,165.0,0.003651008
-netcloudhost3,165.0,0.0
-Switch: netcloudedge1,165.0,0.0
-netcloudhost1,165.0,0.0
-netcloudhost2,165.0,0.0
+edgenode2,165.0,0.001805
 Switch: netcloudedge2,165.0,0.0
 netcloudhost4,165.0,0.0
 Switch: netcloudcore,165.0,0.0
-Switch: internetgw,165.0,0.0
-Switch: netcloudgw,165.0,0.0
+netcloudhost2,165.0,0.0
+Switch: netcloudedge1,165.0,0.0
+netcloudhost1,165.0,0.0
+netcloudhost3,165.0,0.0
 Switch: edgegw,165.0,0.003651008
+Switch: netcloudgw,165.0,0.0
+Switch: internetgw,165.0,0.0
 Switch: edge2gw,165.0,0.0
 Switch: inter2,165.0,0.0
 internethost,165.0,0.0
 Switch: internetcore,165.0,0.0
 Switch: internetedge,165.0,0.0
+Switch: edge2core,170.0,0.0
 edgeuser3,170.0,0.0
 Switch: edge2edge1,170.0,0.0
-Switch: edge2core,170.0,0.0
-edgenode3,170.0,0.001041
 edgeuser2,170.0,0.001458
-edgenode2,170.0,9.91504E-4
 Switch: edgeedge2,170.0,0.001458
+edgenode3,170.0,0.001041
+edgeuser1,170.0,6.35496E-4
+Switch: edgecore,170.0,0.002040504
+edgenode1,170.0,5.0E-4
+Switch: edgeedge1,170.0,6.35496E-4
 Switch: edgeedge3,170.0,0.002040504
 edgenode4,170.0,0.0014
-Switch: edgeedge1,170.0,6.35496E-4
-edgeuser1,170.0,6.35496E-4
-edgenode1,170.0,5.0E-4
-Switch: edgecore,170.0,0.002040504
-netcloudhost3,170.0,0.0
-Switch: netcloudedge1,170.0,0.0
-netcloudhost1,170.0,0.0
-netcloudhost2,170.0,0.0
+edgenode2,170.0,9.91504E-4
 Switch: netcloudedge2,170.0,0.0
 netcloudhost4,170.0,0.0
 Switch: netcloudcore,170.0,0.0
-Switch: internetgw,170.0,0.0
-Switch: netcloudgw,170.0,0.0
+netcloudhost2,170.0,0.0
+Switch: netcloudedge1,170.0,0.0
+netcloudhost1,170.0,0.0
+netcloudhost3,170.0,0.0
 Switch: edgegw,170.0,0.002040504
+Switch: netcloudgw,170.0,0.0
+Switch: internetgw,170.0,0.0
 Switch: edge2gw,170.0,0.0
 Switch: inter2,170.0,0.0
 internethost,170.0,0.0
 Switch: internetcore,170.0,0.0
 Switch: internetedge,170.0,0.0
+Switch: edge2core,175.0,0.0
 edgeuser3,175.0,0.0
 Switch: edge2edge1,175.0,0.0
-Switch: edge2core,175.0,0.0
-edgenode3,175.0,0.001768008
 edgeuser2,175.0,0.001479496
-edgenode2,175.0,0.001737
 Switch: edgeedge2,175.0,0.001479496
+edgenode3,175.0,0.001768008
+edgeuser1,175.0,0.002328992
+Switch: edgecore,175.0,0.003568008
+edgenode1,175.0,9.0E-4
+Switch: edgeedge1,175.0,0.002328992
 Switch: edgeedge3,175.0,0.003568008
 edgenode4,175.0,0.0025
-Switch: edgeedge1,175.0,0.002328992
-edgeuser1,175.0,0.002328992
-edgenode1,175.0,9.0E-4
-Switch: edgecore,175.0,0.003568008
-netcloudhost3,175.0,0.0
-Switch: netcloudedge1,175.0,0.0
-netcloudhost1,175.0,0.0
-netcloudhost2,175.0,0.0
+edgenode2,175.0,0.001737
 Switch: netcloudedge2,175.0,0.0
 netcloudhost4,175.0,0.0
 Switch: netcloudcore,175.0,0.0
-Switch: internetgw,175.0,0.0
-Switch: netcloudgw,175.0,0.0
+netcloudhost2,175.0,0.0
+Switch: netcloudedge1,175.0,0.0
+netcloudhost1,175.0,0.0
+netcloudhost3,175.0,0.0
 Switch: edgegw,175.0,0.003568008
+Switch: netcloudgw,175.0,0.0
+Switch: internetgw,175.0,0.0
 Switch: edge2gw,175.0,0.0
 Switch: inter2,175.0,0.0
 internethost,175.0,0.0
 Switch: internetcore,175.0,0.0
 Switch: internetedge,175.0,0.0
+Switch: edge2core,180.0,0.0
 edgeuser3,180.0,0.0
 Switch: edge2edge1,180.0,0.0
-Switch: edge2core,180.0,0.0
-edgenode3,180.0,0.00185
 edgeuser2,180.0,0.001452512
-edgenode2,180.0,0.001815
 Switch: edgeedge2,180.0,0.001452512
+edgenode3,180.0,0.00185
+edgeuser1,180.0,0.001699488
+Switch: edgecore,180.0,0.003658504
+edgenode1,180.0,9.43504E-4
+Switch: edgeedge1,180.0,0.001699488
 Switch: edgeedge3,180.0,0.003658504
 edgenode4,180.0,0.0024
-Switch: edgeedge1,180.0,0.001699488
-edgeuser1,180.0,0.001699488
-edgenode1,180.0,9.43504E-4
-Switch: edgecore,180.0,0.003658504
-netcloudhost3,180.0,0.0
-Switch: netcloudedge1,180.0,0.0
-netcloudhost1,180.0,0.0
-netcloudhost2,180.0,0.0
+edgenode2,180.0,0.001815
 Switch: netcloudedge2,180.0,0.0
 netcloudhost4,180.0,0.0
 Switch: netcloudcore,180.0,0.0
-Switch: internetgw,180.0,0.0
-Switch: netcloudgw,180.0,0.0
+netcloudhost2,180.0,0.0
+Switch: netcloudedge1,180.0,0.0
+netcloudhost1,180.0,0.0
+netcloudhost3,180.0,0.0
 Switch: edgegw,180.0,0.003658504
+Switch: netcloudgw,180.0,0.0
+Switch: internetgw,180.0,0.0
 Switch: edge2gw,180.0,0.0
 Switch: inter2,180.0,0.0
 internethost,180.0,0.0
 Switch: internetcore,180.0,0.0
 Switch: internetedge,180.0,0.0
+Switch: edge2core,185.0,0.0
 edgeuser3,185.0,0.0
 Switch: edge2edge1,185.0,0.0
-Switch: edge2core,185.0,0.0
-edgenode3,185.0,0.001447504
 edgeuser2,185.0,0.001270992
-edgenode2,185.0,0.00145
 Switch: edgeedge2,185.0,0.001270992
+edgenode3,185.0,0.001447504
+edgeuser1,185.0,0.001484496
+Switch: edgecore,185.0,0.002913008
+edgenode1,185.0,7.15504E-4
+Switch: edgeedge1,185.0,0.001484496
 Switch: edgeedge3,185.0,0.002913008
 edgenode4,185.0,0.001931504
-Switch: edgeedge1,185.0,0.001484496
-edgeuser1,185.0,0.001484496
-edgenode1,185.0,7.15504E-4
-Switch: edgecore,185.0,0.002913008
-netcloudhost3,185.0,0.0
-Switch: netcloudedge1,185.0,0.0
-netcloudhost1,185.0,0.0
-netcloudhost2,185.0,0.0
+edgenode2,185.0,0.00145
 Switch: netcloudedge2,185.0,0.0
 netcloudhost4,185.0,0.0
 Switch: netcloudcore,185.0,0.0
-Switch: internetgw,185.0,0.0
-Switch: netcloudgw,185.0,0.0
+netcloudhost2,185.0,0.0
+Switch: netcloudedge1,185.0,0.0
+netcloudhost1,185.0,0.0
+netcloudhost3,185.0,0.0
 Switch: edgegw,185.0,0.002913008
+Switch: netcloudgw,185.0,0.0
+Switch: internetgw,185.0,0.0
 Switch: edge2gw,185.0,0.0
 Switch: inter2,185.0,0.0
 internethost,185.0,0.0
 Switch: internetcore,185.0,0.0
 Switch: internetedge,185.0,0.0
+Switch: edge2core,190.0,0.0
 edgeuser3,190.0,0.0
 Switch: edge2edge1,190.0,0.0
-Switch: edge2core,190.0,0.0
-edgenode3,190.0,0.00135
 edgeuser2,190.0,8.33496E-4
-edgenode2,190.0,0.001347504
 Switch: edgeedge2,190.0,8.33496E-4
+edgenode3,190.0,0.00135
+edgeuser1,190.0,0.001619
+Switch: edgecore,190.0,0.002647504
+edgenode1,190.0,6.5E-4
+Switch: edgeedge1,190.0,0.001619
 Switch: edgeedge3,190.0,0.002647504
 edgenode4,190.0,0.00175
-Switch: edgeedge1,190.0,0.001619
-edgeuser1,190.0,0.001619
-edgenode1,190.0,6.5E-4
-Switch: edgecore,190.0,0.002647504
-netcloudhost3,190.0,0.0
-Switch: netcloudedge1,190.0,0.0
-netcloudhost1,190.0,0.0
-netcloudhost2,190.0,0.0
+edgenode2,190.0,0.001347504
 Switch: netcloudedge2,190.0,0.0
 netcloudhost4,190.0,0.0
 Switch: netcloudcore,190.0,0.0
-Switch: internetgw,190.0,0.0
-Switch: netcloudgw,190.0,0.0
+netcloudhost2,190.0,0.0
+Switch: netcloudedge1,190.0,0.0
+netcloudhost1,190.0,0.0
+netcloudhost3,190.0,0.0
 Switch: edgegw,190.0,0.002647504
+Switch: netcloudgw,190.0,0.0
+Switch: internetgw,190.0,0.0
 Switch: edge2gw,190.0,0.0
 Switch: inter2,190.0,0.0
 internethost,190.0,0.0
 Switch: internetcore,190.0,0.0
 Switch: internetedge,190.0,0.0
+Switch: edge2core,195.0,0.0
 edgeuser3,195.0,0.0
 Switch: edge2edge1,195.0,0.0
-Switch: edge2core,195.0,0.0
-edgenode3,195.0,0.00125
 edgeuser2,195.0,0.00102
-edgenode2,195.0,0.001153504
 Switch: edgeedge2,195.0,0.00102
+edgenode3,195.0,0.00125
+edgeuser1,195.0,0.001400496
+Switch: edgecore,195.0,0.002423504
+edgenode1,195.0,6.0E-4
+Switch: edgeedge1,195.0,0.001400496
 Switch: edgeedge3,195.0,0.002423504
 edgenode4,195.0,0.00167
-Switch: edgeedge1,195.0,0.001400496
-edgeuser1,195.0,0.001400496
-edgenode1,195.0,6.0E-4
-Switch: edgecore,195.0,0.002423504
-netcloudhost3,195.0,0.0
-Switch: netcloudedge1,195.0,0.0
-netcloudhost1,195.0,0.0
-netcloudhost2,195.0,0.0
+edgenode2,195.0,0.001153504
 Switch: netcloudedge2,195.0,0.0
 netcloudhost4,195.0,0.0
 Switch: netcloudcore,195.0,0.0
-Switch: internetgw,195.0,0.0
-Switch: netcloudgw,195.0,0.0
+netcloudhost2,195.0,0.0
+Switch: netcloudedge1,195.0,0.0
+netcloudhost1,195.0,0.0
+netcloudhost3,195.0,0.0
 Switch: edgegw,195.0,0.002423504
+Switch: netcloudgw,195.0,0.0
+Switch: internetgw,195.0,0.0
 Switch: edge2gw,195.0,0.0
 Switch: inter2,195.0,0.0
 internethost,195.0,0.0
 Switch: internetcore,195.0,0.0
 Switch: internetedge,195.0,0.0
+Switch: edge2core,200.0,0.0
 edgeuser3,200.0,0.0
 Switch: edge2edge1,200.0,0.0
-Switch: edge2core,200.0,0.0
-edgenode3,200.0,0.00115
 edgeuser2,200.0,7.0E-4
-edgenode2,200.0,0.0011
 Switch: edgeedge2,200.0,7.0E-4
+edgenode3,200.0,0.00115
+edgeuser1,200.0,0.0014
+Switch: edgecore,200.0,0.0023
+edgenode1,200.0,6.0E-4
+Switch: edgeedge1,200.0,0.0014
 Switch: edgeedge3,200.0,0.0023
 edgenode4,200.0,0.0015
-Switch: edgeedge1,200.0,0.0014
-edgeuser1,200.0,0.0014
-edgenode1,200.0,6.0E-4
-Switch: edgecore,200.0,0.0023
-netcloudhost3,200.0,0.0
-Switch: netcloudedge1,200.0,0.0
-netcloudhost1,200.0,0.0
-netcloudhost2,200.0,0.0
+edgenode2,200.0,0.0011
 Switch: netcloudedge2,200.0,0.0
 netcloudhost4,200.0,0.0
 Switch: netcloudcore,200.0,0.0
-Switch: internetgw,200.0,0.0
-Switch: netcloudgw,200.0,0.0
+netcloudhost2,200.0,0.0
+Switch: netcloudedge1,200.0,0.0
+netcloudhost1,200.0,0.0
+netcloudhost3,200.0,0.0
 Switch: edgegw,200.0,0.0023
+Switch: netcloudgw,200.0,0.0
+Switch: internetgw,200.0,0.0
 Switch: edge2gw,200.0,0.0
 Switch: inter2,200.0,0.0
 internethost,200.0,0.0
 Switch: internetcore,200.0,0.0
 Switch: internetedge,200.0,0.0
+Switch: edge2core,205.0,0.0
 edgeuser3,205.0,0.0
 Switch: edge2edge1,205.0,0.0
-Switch: edge2core,205.0,0.0
-edgenode3,205.0,0.0017
 edgeuser2,205.0,0.002339
-edgenode2,205.0,0.001791
 Switch: edgeedge2,205.0,0.002339
+edgenode3,205.0,0.0017
+edgeuser1,205.0,0.001403496
+Switch: edgecore,205.0,0.003424504
+edgenode1,205.0,8.24504E-4
+Switch: edgeedge1,205.0,0.001403496
 Switch: edgeedge3,205.0,0.003424504
 edgenode4,205.0,0.002333
-Switch: edgeedge1,205.0,0.001403496
-edgeuser1,205.0,0.001403496
-edgenode1,205.0,8.24504E-4
-Switch: edgecore,205.0,0.003424504
-netcloudhost3,205.0,0.0
-Switch: netcloudedge1,205.0,0.0
-netcloudhost1,205.0,0.0
-netcloudhost2,205.0,0.0
+edgenode2,205.0,0.001791
 Switch: netcloudedge2,205.0,0.0
 netcloudhost4,205.0,0.0
 Switch: netcloudcore,205.0,0.0
-Switch: internetgw,205.0,0.0
-Switch: netcloudgw,205.0,0.0
+netcloudhost2,205.0,0.0
+Switch: netcloudedge1,205.0,0.0
+netcloudhost1,205.0,0.0
+netcloudhost3,205.0,0.0
 Switch: edgegw,205.0,0.003424504
+Switch: netcloudgw,205.0,0.0
+Switch: internetgw,205.0,0.0
 Switch: edge2gw,205.0,0.0
 Switch: inter2,205.0,0.0
 internethost,205.0,0.0
 Switch: internetcore,205.0,0.0
 Switch: internetedge,205.0,0.0
+Switch: edge2core,210.0,0.0
 edgeuser3,210.0,0.0
 Switch: edge2edge1,210.0,0.0
-Switch: edge2core,210.0,0.0
-edgenode3,210.0,0.001763
 edgeuser2,210.0,0.003043496
-edgenode2,210.0,0.0018
 Switch: edgeedge2,210.0,0.003043496
+edgenode3,210.0,0.001763
+edgeuser1,210.0,0.001671496
+Switch: edgecore,210.0,0.00354
+edgenode1,210.0,8.77E-4
+Switch: edgeedge1,210.0,0.001671496
 Switch: edgeedge3,210.0,0.00354
 edgenode4,210.0,0.002395496
-Switch: edgeedge1,210.0,0.001671496
-edgeuser1,210.0,0.001671496
-edgenode1,210.0,8.77E-4
-Switch: edgecore,210.0,0.00354
-netcloudhost3,210.0,0.0
-Switch: netcloudedge1,210.0,0.0
-netcloudhost1,210.0,0.0
-netcloudhost2,210.0,0.0
+edgenode2,210.0,0.0018
 Switch: netcloudedge2,210.0,0.0
 netcloudhost4,210.0,0.0
 Switch: netcloudcore,210.0,0.0
-Switch: internetgw,210.0,0.0
-Switch: netcloudgw,210.0,0.0
+netcloudhost2,210.0,0.0
+Switch: netcloudedge1,210.0,0.0
+netcloudhost1,210.0,0.0
+netcloudhost3,210.0,0.0
 Switch: edgegw,210.0,0.00354
+Switch: netcloudgw,210.0,0.0
+Switch: internetgw,210.0,0.0
 Switch: edge2gw,210.0,0.0
 Switch: inter2,210.0,0.0
 internethost,210.0,0.0
 Switch: internetcore,210.0,0.0
 Switch: internetedge,210.0,0.0
+Switch: edge2core,215.0,0.0
 edgeuser3,215.0,0.0
 Switch: edge2edge1,215.0,0.0
-Switch: edge2core,215.0,0.0
-edgenode3,215.0,0.00185
 edgeuser2,215.0,0.001994
-edgenode2,215.0,0.001833504
 Switch: edgeedge2,215.0,0.001994
+edgenode3,215.0,0.00185
+edgeuser1,215.0,0.001796
+Switch: edgecore,215.0,0.003666496
+edgenode1,215.0,9.16496E-4
+Switch: edgeedge1,215.0,0.001796
 Switch: edgeedge3,215.0,0.003666496
 edgenode4,215.0,0.002334
-Switch: edgeedge1,215.0,0.001796
-edgeuser1,215.0,0.001796
-edgenode1,215.0,9.16496E-4
-Switch: edgecore,215.0,0.003666496
-netcloudhost3,215.0,0.0
-Switch: netcloudedge1,215.0,0.0
-netcloudhost1,215.0,0.0
-netcloudhost2,215.0,0.0
+edgenode2,215.0,0.001833504
 Switch: netcloudedge2,215.0,0.0
 netcloudhost4,215.0,0.0
 Switch: netcloudcore,215.0,0.0
-Switch: internetgw,215.0,0.0
-Switch: netcloudgw,215.0,0.0
+netcloudhost2,215.0,0.0
+Switch: netcloudedge1,215.0,0.0
+netcloudhost1,215.0,0.0
+netcloudhost3,215.0,0.0
 Switch: edgegw,215.0,0.003666496
+Switch: netcloudgw,215.0,0.0
+Switch: internetgw,215.0,0.0
 Switch: edge2gw,215.0,0.0
 Switch: inter2,215.0,0.0
 internethost,215.0,0.0
 Switch: internetcore,215.0,0.0
 Switch: internetedge,215.0,0.0
+Switch: edge2core,220.0,0.0
 edgeuser3,220.0,0.0
 Switch: edge2edge1,220.0,0.0
-Switch: edge2core,220.0,0.0
-edgenode3,220.0,0.001788
 edgeuser2,220.0,0.00127
-edgenode2,220.0,0.001828
 Switch: edgeedge2,220.0,0.00127
+edgenode3,220.0,0.001788
+edgeuser1,220.0,0.001512496
+Switch: edgecore,220.0,0.003596
+edgenode1,220.0,9.0E-4
+Switch: edgeedge1,220.0,0.001512496
 Switch: edgeedge3,220.0,0.003596
 edgenode4,220.0,0.002398504
-Switch: edgeedge1,220.0,0.001512496
-edgeuser1,220.0,0.001512496
-edgenode1,220.0,9.0E-4
-Switch: edgecore,220.0,0.003596
-netcloudhost3,220.0,0.0
-Switch: netcloudedge1,220.0,0.0
-netcloudhost1,220.0,0.0
-netcloudhost2,220.0,0.0
+edgenode2,220.0,0.001828
 Switch: netcloudedge2,220.0,0.0
 netcloudhost4,220.0,0.0
 Switch: netcloudcore,220.0,0.0
-Switch: internetgw,220.0,0.0
-Switch: netcloudgw,220.0,0.0
+netcloudhost2,220.0,0.0
+Switch: netcloudedge1,220.0,0.0
+netcloudhost1,220.0,0.0
+netcloudhost3,220.0,0.0
 Switch: edgegw,220.0,0.003596
+Switch: netcloudgw,220.0,0.0
+Switch: internetgw,220.0,0.0
 Switch: edge2gw,220.0,0.0
 Switch: inter2,220.0,0.0
 internethost,220.0,0.0
 Switch: internetcore,220.0,0.0
 Switch: internetedge,220.0,0.0
+Switch: edge2core,225.0,0.0
 edgeuser3,225.0,0.0
 Switch: edge2edge1,225.0,0.0
-Switch: edge2core,225.0,0.0
-edgenode3,225.0,0.00185
 edgeuser2,225.0,0.0014
-edgenode2,225.0,0.001791496
 Switch: edgeedge2,225.0,0.0014
+edgenode3,225.0,0.00185
+edgeuser1,225.0,0.001608496
+Switch: edgecore,225.0,0.00365
+edgenode1,225.0,9.0E-4
+Switch: edgeedge1,225.0,0.001608496
 Switch: edgeedge3,225.0,0.00365
 edgenode4,225.0,0.00245
-Switch: edgeedge1,225.0,0.001608496
-edgeuser1,225.0,0.001608496
-edgenode1,225.0,9.0E-4
-Switch: edgecore,225.0,0.00365
-netcloudhost3,225.0,0.0
-Switch: netcloudedge1,225.0,0.0
-netcloudhost1,225.0,0.0
-netcloudhost2,225.0,0.0
+edgenode2,225.0,0.001791496
 Switch: netcloudedge2,225.0,0.0
 netcloudhost4,225.0,0.0
 Switch: netcloudcore,225.0,0.0
-Switch: internetgw,225.0,0.0
-Switch: netcloudgw,225.0,0.0
+netcloudhost2,225.0,0.0
+Switch: netcloudedge1,225.0,0.0
+netcloudhost1,225.0,0.0
+netcloudhost3,225.0,0.0
 Switch: edgegw,225.0,0.00365
+Switch: netcloudgw,225.0,0.0
+Switch: internetgw,225.0,0.0
 Switch: edge2gw,225.0,0.0
 Switch: inter2,225.0,0.0
 internethost,225.0,0.0
 Switch: internetcore,225.0,0.0
 Switch: internetedge,225.0,0.0
+Switch: edge2core,230.0,0.0
 edgeuser3,230.0,0.0
 Switch: edge2edge1,230.0,0.0
-Switch: edge2core,230.0,0.0
-edgenode3,230.0,0.001736008
 edgeuser2,230.0,0.001654488
-edgenode2,230.0,0.001733504
 Switch: edgeedge2,230.0,0.001654488
+edgenode3,230.0,0.001736008
+edgeuser1,230.0,0.00159
+Switch: edgecore,230.0,0.003536008
+edgenode1,230.0,9.0E-4
+Switch: edgeedge1,230.0,0.00159
 Switch: edgeedge3,230.0,0.003536008
 edgenode4,230.0,0.002390504
-Switch: edgeedge1,230.0,0.00159
-edgeuser1,230.0,0.00159
-edgenode1,230.0,9.0E-4
-Switch: edgecore,230.0,0.003536008
-netcloudhost3,230.0,0.0
-Switch: netcloudedge1,230.0,0.0
-netcloudhost1,230.0,0.0
-netcloudhost2,230.0,0.0
+edgenode2,230.0,0.001733504
 Switch: netcloudedge2,230.0,0.0
 netcloudhost4,230.0,0.0
 Switch: netcloudcore,230.0,0.0
-Switch: internetgw,230.0,0.0
-Switch: netcloudgw,230.0,0.0
+netcloudhost2,230.0,0.0
+Switch: netcloudedge1,230.0,0.0
+netcloudhost1,230.0,0.0
+netcloudhost3,230.0,0.0
 Switch: edgegw,230.0,0.003536008
+Switch: netcloudgw,230.0,0.0
+Switch: internetgw,230.0,0.0
 Switch: edge2gw,230.0,0.0
 Switch: inter2,230.0,0.0
 internethost,230.0,0.0
 Switch: internetcore,230.0,0.0
 Switch: internetedge,230.0,0.0
+Switch: edge2core,235.0,0.0
 edgeuser3,235.0,0.0
 Switch: edge2edge1,235.0,0.0
-Switch: edge2core,235.0,0.0
-edgenode3,235.0,0.0015
 edgeuser2,235.0,0.001697504
-edgenode2,235.0,0.00145
 Switch: edgeedge2,235.0,0.001697504
+edgenode3,235.0,0.0015
+edgeuser1,235.0,0.001495496
+Switch: edgecore,235.0,0.00295
+edgenode1,235.0,7.5E-4
+Switch: edgeedge1,235.0,0.001495496
 Switch: edgeedge3,235.0,0.00295
 edgenode4,235.0,0.002
-Switch: edgeedge1,235.0,0.001495496
-edgeuser1,235.0,0.001495496
-edgenode1,235.0,7.5E-4
-Switch: edgecore,235.0,0.00295
-netcloudhost3,235.0,0.0
-Switch: netcloudedge1,235.0,0.0
-netcloudhost1,235.0,0.0
-netcloudhost2,235.0,0.0
+edgenode2,235.0,0.00145
 Switch: netcloudedge2,235.0,0.0
 netcloudhost4,235.0,0.0
 Switch: netcloudcore,235.0,0.0
-Switch: internetgw,235.0,0.0
-Switch: netcloudgw,235.0,0.0
+netcloudhost2,235.0,0.0
+Switch: netcloudedge1,235.0,0.0
+netcloudhost1,235.0,0.0
+netcloudhost3,235.0,0.0
 Switch: edgegw,235.0,0.00295
+Switch: netcloudgw,235.0,0.0
+Switch: internetgw,235.0,0.0
 Switch: edge2gw,235.0,0.0
 Switch: inter2,235.0,0.0
 internethost,235.0,0.0
 Switch: internetcore,235.0,0.0
 Switch: internetedge,235.0,0.0
+Switch: edge2core,240.0,0.0
 edgeuser3,240.0,0.0
 Switch: edge2edge1,240.0,0.0
-Switch: edge2core,240.0,0.0
-edgenode3,240.0,0.00157
 edgeuser2,240.0,0.0014
-edgenode2,240.0,0.0016
 Switch: edgeedge2,240.0,0.0014
+edgenode3,240.0,0.00157
+edgeuser1,240.0,0.00175
+Switch: edgecore,240.0,0.00317
+edgenode1,240.0,8.0E-4
+Switch: edgeedge1,240.0,0.00175
 Switch: edgeedge3,240.0,0.00317
 edgenode4,240.0,0.00208
-Switch: edgeedge1,240.0,0.00175
-edgeuser1,240.0,0.00175
-edgenode1,240.0,8.0E-4
-Switch: edgecore,240.0,0.00317
-netcloudhost3,240.0,0.0
-Switch: netcloudedge1,240.0,0.0
-netcloudhost1,240.0,0.0
-netcloudhost2,240.0,0.0
+edgenode2,240.0,0.0016
 Switch: netcloudedge2,240.0,0.0
 netcloudhost4,240.0,0.0
 Switch: netcloudcore,240.0,0.0
-Switch: internetgw,240.0,0.0
-Switch: netcloudgw,240.0,0.0
+netcloudhost2,240.0,0.0
+Switch: netcloudedge1,240.0,0.0
+netcloudhost1,240.0,0.0
+netcloudhost3,240.0,0.0
 Switch: edgegw,240.0,0.00317
+Switch: netcloudgw,240.0,0.0
+Switch: internetgw,240.0,0.0
 Switch: edge2gw,240.0,0.0
 Switch: inter2,240.0,0.0
 internethost,240.0,0.0
 Switch: internetcore,240.0,0.0
 Switch: internetedge,240.0,0.0
+Switch: edge2core,245.0,0.0
 edgeuser3,245.0,0.0
 Switch: edge2edge1,245.0,0.0
-Switch: edge2core,245.0,0.0
-edgenode3,245.0,0.001808504
 edgeuser2,245.0,0.001607992
-edgenode2,245.0,0.0018
 Switch: edgeedge2,245.0,0.001607992
+edgenode3,245.0,0.001808504
+edgeuser1,245.0,0.001592496
+Switch: edgecore,245.0,0.003608504
+edgenode1,245.0,9.0E-4
+Switch: edgeedge1,245.0,0.001592496
 Switch: edgeedge3,245.0,0.003608504
 edgenode4,245.0,0.002377008
-Switch: edgeedge1,245.0,0.001592496
-edgeuser1,245.0,0.001592496
-edgenode1,245.0,9.0E-4
-Switch: edgecore,245.0,0.003608504
-netcloudhost3,245.0,0.0
-Switch: netcloudedge1,245.0,0.0
-netcloudhost1,245.0,0.0
-netcloudhost2,245.0,0.0
+edgenode2,245.0,0.0018
 Switch: netcloudedge2,245.0,0.0
 netcloudhost4,245.0,0.0
 Switch: netcloudcore,245.0,0.0
-Switch: internetgw,245.0,0.0
-Switch: netcloudgw,245.0,0.0
+netcloudhost2,245.0,0.0
+Switch: netcloudedge1,245.0,0.0
+netcloudhost1,245.0,0.0
+netcloudhost3,245.0,0.0
 Switch: edgegw,245.0,0.003608504
+Switch: netcloudgw,245.0,0.0
+Switch: internetgw,245.0,0.0
 Switch: edge2gw,245.0,0.0
 Switch: inter2,245.0,0.0
 internethost,245.0,0.0
 Switch: internetcore,245.0,0.0
 Switch: internetedge,245.0,0.0
+Switch: edge2core,250.0,0.0
 edgeuser3,250.0,0.0
 Switch: edge2edge1,250.0,0.0
-Switch: edge2core,250.0,0.0
-edgenode3,250.0,0.0015
 edgeuser2,250.0,0.001218496
-edgenode2,250.0,0.001499
 Switch: edgeedge2,250.0,0.001218496
+edgenode3,250.0,0.0015
+edgeuser1,250.0,0.001668
+Switch: edgecore,250.0,0.002999
+edgenode1,250.0,7.5E-4
+Switch: edgeedge1,250.0,0.001668
 Switch: edgeedge3,250.0,0.002999
 edgenode4,250.0,0.001947504
-Switch: edgeedge1,250.0,0.001668
-edgeuser1,250.0,0.001668
-edgenode1,250.0,7.5E-4
-Switch: edgecore,250.0,0.002999
-netcloudhost3,250.0,0.0
-Switch: netcloudedge1,250.0,0.0
-netcloudhost1,250.0,0.0
-netcloudhost2,250.0,0.0
+edgenode2,250.0,0.001499
 Switch: netcloudedge2,250.0,0.0
 netcloudhost4,250.0,0.0
 Switch: netcloudcore,250.0,0.0
-Switch: internetgw,250.0,0.0
-Switch: netcloudgw,250.0,0.0
+netcloudhost2,250.0,0.0
+Switch: netcloudedge1,250.0,0.0
+netcloudhost1,250.0,0.0
+netcloudhost3,250.0,0.0
 Switch: edgegw,250.0,0.002999
+Switch: netcloudgw,250.0,0.0
+Switch: internetgw,250.0,0.0
 Switch: edge2gw,250.0,0.0
 Switch: inter2,250.0,0.0
 internethost,250.0,0.0
 Switch: internetcore,250.0,0.0
 Switch: internetedge,250.0,0.0
+Switch: edge2core,255.0,0.0
 edgeuser3,255.0,0.0
 Switch: edge2edge1,255.0,0.0
-Switch: edge2core,255.0,0.0
-edgenode3,255.0,0.001427496
 edgeuser2,255.0,0.001
-edgenode2,255.0,0.0014
 Switch: edgeedge2,255.0,0.001
+edgenode3,255.0,0.001427496
+edgeuser1,255.0,0.001822504
+Switch: edgecore,255.0,0.002877496
+edgenode1,255.0,7.5E-4
+Switch: edgeedge1,255.0,0.001822504
 Switch: edgeedge3,255.0,0.002877496
 edgenode4,255.0,0.0019
-Switch: edgeedge1,255.0,0.001822504
-edgeuser1,255.0,0.001822504
-edgenode1,255.0,7.5E-4
-Switch: edgecore,255.0,0.002877496
-netcloudhost3,255.0,0.0
-Switch: netcloudedge1,255.0,0.0
-netcloudhost1,255.0,0.0
-netcloudhost2,255.0,0.0
+edgenode2,255.0,0.0014
 Switch: netcloudedge2,255.0,0.0
 netcloudhost4,255.0,0.0
 Switch: netcloudcore,255.0,0.0
-Switch: internetgw,255.0,0.0
-Switch: netcloudgw,255.0,0.0
+netcloudhost2,255.0,0.0
+Switch: netcloudedge1,255.0,0.0
+netcloudhost1,255.0,0.0
+netcloudhost3,255.0,0.0
 Switch: edgegw,255.0,0.002877496
+Switch: netcloudgw,255.0,0.0
+Switch: internetgw,255.0,0.0
 Switch: edge2gw,255.0,0.0
 Switch: inter2,255.0,0.0
 internethost,255.0,0.0
 Switch: internetcore,255.0,0.0
 Switch: internetedge,255.0,0.0
+Switch: edge2core,260.0,0.0
 edgeuser3,260.0,0.0
 Switch: edge2edge1,260.0,0.0
-Switch: edge2core,260.0,0.0
-edgenode3,260.0,0.001374
 edgeuser2,260.0,0.00232
-edgenode2,260.0,0.00143
 Switch: edgeedge2,260.0,0.00232
+edgenode3,260.0,0.001374
+edgeuser1,260.0,0.001624
+Switch: edgecore,260.0,0.002756
+edgenode1,260.0,7.02E-4
+Switch: edgeedge1,260.0,0.001624
 Switch: edgeedge3,260.0,0.002756
 edgenode4,260.0,0.00195
-Switch: edgeedge1,260.0,0.001624
-edgeuser1,260.0,0.001624
-edgenode1,260.0,7.02E-4
-Switch: edgecore,260.0,0.002756
-netcloudhost3,260.0,0.0
-Switch: netcloudedge1,260.0,0.0
-netcloudhost1,260.0,0.0
-netcloudhost2,260.0,0.0
+edgenode2,260.0,0.00143
 Switch: netcloudedge2,260.0,0.0
 netcloudhost4,260.0,0.0
 Switch: netcloudcore,260.0,0.0
-Switch: internetgw,260.0,0.0
-Switch: netcloudgw,260.0,0.0
+netcloudhost2,260.0,0.0
+Switch: netcloudedge1,260.0,0.0
+netcloudhost1,260.0,0.0
+netcloudhost3,260.0,0.0
 Switch: edgegw,260.0,0.002756
+Switch: netcloudgw,260.0,0.0
+Switch: internetgw,260.0,0.0
 Switch: edge2gw,260.0,0.0
 Switch: inter2,260.0,0.0
 internethost,260.0,0.0
 Switch: internetcore,260.0,0.0
 Switch: internetedge,260.0,0.0
+Switch: edge2core,265.0,0.0
 edgeuser3,265.0,0.0
 Switch: edge2edge1,265.0,0.0
-Switch: edge2core,265.0,0.0
-edgenode3,265.0,0.001810504
 edgeuser2,265.0,0.001662
-edgenode2,265.0,0.00183
 Switch: edgeedge2,265.0,0.001662
+edgenode3,265.0,0.001810504
+edgeuser1,265.0,0.001369
+Switch: edgecore,265.0,0.003614504
+edgenode1,265.0,8.54E-4
+Switch: edgeedge1,265.0,0.001369
 Switch: edgeedge3,265.0,0.003614504
 edgenode4,265.0,0.002462008
-Switch: edgeedge1,265.0,0.001369
-edgeuser1,265.0,0.001369
-edgenode1,265.0,8.54E-4
-Switch: edgecore,265.0,0.003614504
-netcloudhost3,265.0,0.0
-Switch: netcloudedge1,265.0,0.0
-netcloudhost1,265.0,0.0
-netcloudhost2,265.0,0.0
+edgenode2,265.0,0.00183
 Switch: netcloudedge2,265.0,0.0
 netcloudhost4,265.0,0.0
 Switch: netcloudcore,265.0,0.0
-Switch: internetgw,265.0,0.0
-Switch: netcloudgw,265.0,0.0
+netcloudhost2,265.0,0.0
+Switch: netcloudedge1,265.0,0.0
+netcloudhost1,265.0,0.0
+netcloudhost3,265.0,0.0
 Switch: edgegw,265.0,0.003614504
+Switch: netcloudgw,265.0,0.0
+Switch: internetgw,265.0,0.0
 Switch: edge2gw,265.0,0.0
 Switch: inter2,265.0,0.0
 internethost,265.0,0.0
 Switch: internetcore,265.0,0.0
 Switch: internetedge,265.0,0.0
+Switch: edge2core,270.0,0.0
 edgeuser3,270.0,0.0
 Switch: edge2edge1,270.0,0.0
-Switch: edge2core,270.0,0.0
-edgenode3,270.0,0.001818
 edgeuser2,270.0,0.001882
-edgenode2,270.0,0.001804504
 Switch: edgeedge2,270.0,0.001882
+edgenode3,270.0,0.001818
+edgeuser1,270.0,0.001595496
+Switch: edgecore,270.0,0.003631504
+edgenode1,270.0,9.32E-4
+Switch: edgeedge1,270.0,0.001595496
 Switch: edgeedge3,270.0,0.003631504
 edgenode4,270.0,0.0024
-Switch: edgeedge1,270.0,0.001595496
-edgeuser1,270.0,0.001595496
-edgenode1,270.0,9.32E-4
-Switch: edgecore,270.0,0.003631504
-netcloudhost3,270.0,0.0
-Switch: netcloudedge1,270.0,0.0
-netcloudhost1,270.0,0.0
-netcloudhost2,270.0,0.0
+edgenode2,270.0,0.001804504
 Switch: netcloudedge2,270.0,0.0
 netcloudhost4,270.0,0.0
 Switch: netcloudcore,270.0,0.0
-Switch: internetgw,270.0,0.0
-Switch: netcloudgw,270.0,0.0
+netcloudhost2,270.0,0.0
+Switch: netcloudedge1,270.0,0.0
+netcloudhost1,270.0,0.0
+netcloudhost3,270.0,0.0
 Switch: edgegw,270.0,0.003631504
+Switch: netcloudgw,270.0,0.0
+Switch: internetgw,270.0,0.0
 Switch: edge2gw,270.0,0.0
 Switch: inter2,270.0,0.0
 internethost,270.0,0.0
 Switch: internetcore,270.0,0.0
 Switch: internetedge,270.0,0.0
+Switch: edge2core,275.0,0.0
 edgeuser3,275.0,0.0
 Switch: edge2edge1,275.0,0.0
-Switch: edge2core,275.0,0.0
-edgenode3,275.0,0.001822496
 edgeuser2,275.0,0.001850504
-edgenode2,275.0,0.001786
 Switch: edgeedge2,275.0,0.001850504
+edgenode3,275.0,0.001822496
+edgeuser1,275.0,0.001648496
+Switch: edgecore,275.0,0.003608496
+edgenode1,275.0,9.0E-4
+Switch: edgeedge1,275.0,0.001648496
 Switch: edgeedge3,275.0,0.003608496
 edgenode4,275.0,0.002484992
-Switch: edgeedge1,275.0,0.001648496
-edgeuser1,275.0,0.001648496
-edgenode1,275.0,9.0E-4
-Switch: edgecore,275.0,0.003608496
-netcloudhost3,275.0,0.0
-Switch: netcloudedge1,275.0,0.0
-netcloudhost1,275.0,0.0
-netcloudhost2,275.0,0.0
+edgenode2,275.0,0.001786
 Switch: netcloudedge2,275.0,0.0
 netcloudhost4,275.0,0.0
 Switch: netcloudcore,275.0,0.0
-Switch: internetgw,275.0,0.0
-Switch: netcloudgw,275.0,0.0
+netcloudhost2,275.0,0.0
+Switch: netcloudedge1,275.0,0.0
+netcloudhost1,275.0,0.0
+netcloudhost3,275.0,0.0
 Switch: edgegw,275.0,0.003608496
+Switch: netcloudgw,275.0,0.0
+Switch: internetgw,275.0,0.0
 Switch: edge2gw,275.0,0.0
 Switch: inter2,275.0,0.0
 internethost,275.0,0.0
 Switch: internetcore,275.0,0.0
 Switch: internetedge,275.0,0.0
+Switch: edge2core,280.0,0.0
 edgeuser3,280.0,0.0
 Switch: edge2edge1,280.0,0.0
-Switch: edge2core,280.0,0.0
-edgenode3,280.0,0.001793496
 edgeuser2,280.0,0.001858008
-edgenode2,280.0,0.001817496
 Switch: edgeedge2,280.0,0.001858008
+edgenode3,280.0,0.001793496
+edgeuser1,280.0,0.001743496
+Switch: edgecore,280.0,0.003594496
+edgenode1,280.0,8.7E-4
+Switch: edgeedge1,280.0,0.001743496
 Switch: edgeedge3,280.0,0.003594496
 edgenode4,280.0,0.00246
-Switch: edgeedge1,280.0,0.001743496
-edgeuser1,280.0,0.001743496
-edgenode1,280.0,8.7E-4
-Switch: edgecore,280.0,0.003594496
-netcloudhost3,280.0,0.0
-Switch: netcloudedge1,280.0,0.0
-netcloudhost1,280.0,0.0
-netcloudhost2,280.0,0.0
+edgenode2,280.0,0.001817496
 Switch: netcloudedge2,280.0,0.0
 netcloudhost4,280.0,0.0
 Switch: netcloudcore,280.0,0.0
-Switch: internetgw,280.0,0.0
-Switch: netcloudgw,280.0,0.0
+netcloudhost2,280.0,0.0
+Switch: netcloudedge1,280.0,0.0
+netcloudhost1,280.0,0.0
+netcloudhost3,280.0,0.0
 Switch: edgegw,280.0,0.003594496
+Switch: netcloudgw,280.0,0.0
+Switch: internetgw,280.0,0.0
 Switch: edge2gw,280.0,0.0
 Switch: inter2,280.0,0.0
 internethost,280.0,0.0
 Switch: internetcore,280.0,0.0
 Switch: internetedge,280.0,0.0
+Switch: edge2core,285.0,0.0
 edgeuser3,285.0,0.0
 Switch: edge2edge1,285.0,0.0
-Switch: edge2core,285.0,0.0
-edgenode3,285.0,0.0015
 edgeuser2,285.0,0.00125
-edgenode2,285.0,0.00145
 Switch: edgeedge2,285.0,0.00125
+edgenode3,285.0,0.0015
+edgeuser1,285.0,0.00145
+Switch: edgecore,285.0,0.00295
+edgenode1,285.0,7.5E-4
+Switch: edgeedge1,285.0,0.00145
 Switch: edgeedge3,285.0,0.00295
 edgenode4,285.0,0.00185
-Switch: edgeedge1,285.0,0.00145
-edgeuser1,285.0,0.00145
-edgenode1,285.0,7.5E-4
-Switch: edgecore,285.0,0.00295
-netcloudhost3,285.0,0.0
-Switch: netcloudedge1,285.0,0.0
-netcloudhost1,285.0,0.0
-netcloudhost2,285.0,0.0
+edgenode2,285.0,0.00145
 Switch: netcloudedge2,285.0,0.0
 netcloudhost4,285.0,0.0
 Switch: netcloudcore,285.0,0.0
-Switch: internetgw,285.0,0.0
-Switch: netcloudgw,285.0,0.0
+netcloudhost2,285.0,0.0
+Switch: netcloudedge1,285.0,0.0
+netcloudhost1,285.0,0.0
+netcloudhost3,285.0,0.0
 Switch: edgegw,285.0,0.00295
+Switch: netcloudgw,285.0,0.0
+Switch: internetgw,285.0,0.0
 Switch: edge2gw,285.0,0.0
 Switch: inter2,285.0,0.0
 internethost,285.0,0.0
 Switch: internetcore,285.0,0.0
 Switch: internetedge,285.0,0.0
+Switch: edge2core,290.0,0.0
 edgeuser3,290.0,0.0
 Switch: edge2edge1,290.0,0.0
-Switch: edge2core,290.0,0.0
-edgenode3,290.0,0.001782992
 edgeuser2,290.0,0.002020992
-edgenode2,290.0,0.00185
 Switch: edgeedge2,290.0,0.002020992
+edgenode3,290.0,0.001782992
+edgeuser1,290.0,0.001703496
+Switch: edgecore,290.0,0.003632992
+edgenode1,290.0,9.0E-4
+Switch: edgeedge1,290.0,0.001703496
 Switch: edgeedge3,290.0,0.003632992
 edgenode4,290.0,0.002484
-Switch: edgeedge1,290.0,0.001703496
-edgeuser1,290.0,0.001703496
-edgenode1,290.0,9.0E-4
-Switch: edgecore,290.0,0.003632992
-netcloudhost3,290.0,0.0
-Switch: netcloudedge1,290.0,0.0
-netcloudhost1,290.0,0.0
-netcloudhost2,290.0,0.0
+edgenode2,290.0,0.00185
 Switch: netcloudedge2,290.0,0.0
 netcloudhost4,290.0,0.0
 Switch: netcloudcore,290.0,0.0
-Switch: internetgw,290.0,0.0
-Switch: netcloudgw,290.0,0.0
+netcloudhost2,290.0,0.0
+Switch: netcloudedge1,290.0,0.0
+netcloudhost1,290.0,0.0
+netcloudhost3,290.0,0.0
 Switch: edgegw,290.0,0.003632992
+Switch: netcloudgw,290.0,0.0
+Switch: internetgw,290.0,0.0
 Switch: edge2gw,290.0,0.0
 Switch: inter2,290.0,0.0
 internethost,290.0,0.0
 Switch: internetcore,290.0,0.0
 Switch: internetedge,290.0,0.0
+Switch: edge2core,295.0,0.0
 edgeuser3,295.0,0.0
 Switch: edge2edge1,295.0,0.0
-Switch: edge2core,295.0,0.0
-edgenode3,295.0,0.00165
 edgeuser2,295.0,0.001473504
-edgenode2,295.0,0.00161
 Switch: edgeedge2,295.0,0.001473504
+edgenode3,295.0,0.00165
+edgeuser1,295.0,0.001446496
+Switch: edgecore,295.0,0.00325
+edgenode1,295.0,8.0E-4
+Switch: edgeedge1,295.0,0.001446496
 Switch: edgeedge3,295.0,0.00325
 edgenode4,295.0,0.002111504
-Switch: edgeedge1,295.0,0.001446496
-edgeuser1,295.0,0.001446496
-edgenode1,295.0,8.0E-4
-Switch: edgecore,295.0,0.00325
-netcloudhost3,295.0,0.0
-Switch: netcloudedge1,295.0,0.0
-netcloudhost1,295.0,0.0
-netcloudhost2,295.0,0.0
+edgenode2,295.0,0.00161
 Switch: netcloudedge2,295.0,0.0
 netcloudhost4,295.0,0.0
 Switch: netcloudcore,295.0,0.0
-Switch: internetgw,295.0,0.0
-Switch: netcloudgw,295.0,0.0
+netcloudhost2,295.0,0.0
+Switch: netcloudedge1,295.0,0.0
+netcloudhost1,295.0,0.0
+netcloudhost3,295.0,0.0
 Switch: edgegw,295.0,0.00325
+Switch: netcloudgw,295.0,0.0
+Switch: internetgw,295.0,0.0
 Switch: edge2gw,295.0,0.0
 Switch: inter2,295.0,0.0
 internethost,295.0,0.0
 Switch: internetcore,295.0,0.0
 Switch: internetedge,295.0,0.0
+Switch: edge2core,300.0,0.0
 edgeuser3,300.0,0.0
 Switch: edge2edge1,300.0,0.0
-Switch: edge2core,300.0,0.0
-edgenode3,300.0,0.001730496
 edgeuser2,300.0,0.00208
-edgenode2,300.0,0.00183
 Switch: edgeedge2,300.0,0.00208
+edgenode3,300.0,0.001730496
+edgeuser1,300.0,0.001909504
+Switch: edgecore,300.0,0.003530496
+edgenode1,300.0,9.2E-4
+Switch: edgeedge1,300.0,0.001909504
 Switch: edgeedge3,300.0,0.003530496
 edgenode4,300.0,0.002408504
-Switch: edgeedge1,300.0,0.001909504
-edgeuser1,300.0,0.001909504
-edgenode1,300.0,9.2E-4
-Switch: edgecore,300.0,0.003530496
-netcloudhost3,300.0,0.0
-Switch: netcloudedge1,300.0,0.0
-netcloudhost1,300.0,0.0
-netcloudhost2,300.0,0.0
+edgenode2,300.0,0.00183
 Switch: netcloudedge2,300.0,0.0
 netcloudhost4,300.0,0.0
 Switch: netcloudcore,300.0,0.0
-Switch: internetgw,300.0,0.0
-Switch: netcloudgw,300.0,0.0
+netcloudhost2,300.0,0.0
+Switch: netcloudedge1,300.0,0.0
+netcloudhost1,300.0,0.0
+netcloudhost3,300.0,0.0
 Switch: edgegw,300.0,0.003530496
+Switch: netcloudgw,300.0,0.0
+Switch: internetgw,300.0,0.0
 Switch: edge2gw,300.0,0.0
 Switch: inter2,300.0,0.0
 internethost,300.0,0.0
 Switch: internetcore,300.0,0.0
 Switch: internetedge,300.0,0.0
+Switch: edge2core,305.0,0.0
 edgeuser3,305.0,0.0
 Switch: edge2edge1,305.0,0.0
-Switch: edge2core,305.0,0.0
-edgenode3,305.0,0.0017
 edgeuser2,305.0,0.001545
-edgenode2,305.0,0.001655
 Switch: edgeedge2,305.0,0.001545
+edgenode3,305.0,0.0017
+edgeuser1,305.0,0.00125
+Switch: edgecore,305.0,0.0034
+edgenode1,305.0,8.5E-4
+Switch: edgeedge1,305.0,0.00125
 Switch: edgeedge3,305.0,0.0034
 edgenode4,305.0,0.0022
-Switch: edgeedge1,305.0,0.00125
-edgeuser1,305.0,0.00125
-edgenode1,305.0,8.5E-4
-Switch: edgecore,305.0,0.0034
-netcloudhost3,305.0,0.0
-Switch: netcloudedge1,305.0,0.0
-netcloudhost1,305.0,0.0
-netcloudhost2,305.0,0.0
+edgenode2,305.0,0.001655
 Switch: netcloudedge2,305.0,0.0
 netcloudhost4,305.0,0.0
 Switch: netcloudcore,305.0,0.0
-Switch: internetgw,305.0,0.0
-Switch: netcloudgw,305.0,0.0
+netcloudhost2,305.0,0.0
+Switch: netcloudedge1,305.0,0.0
+netcloudhost1,305.0,0.0
+netcloudhost3,305.0,0.0
 Switch: edgegw,305.0,0.0034
+Switch: netcloudgw,305.0,0.0
+Switch: internetgw,305.0,0.0
 Switch: edge2gw,305.0,0.0
 Switch: inter2,305.0,0.0
 internethost,305.0,0.0
 Switch: internetcore,305.0,0.0
 Switch: internetedge,305.0,0.0
+Switch: edge2core,310.0,0.0
 edgeuser3,310.0,0.0
 Switch: edge2edge1,310.0,0.0
-Switch: edge2core,310.0,0.0
-edgenode3,310.0,0.001482
 edgeuser2,310.0,0.001591008
-edgenode2,310.0,0.0015
 Switch: edgeedge2,310.0,0.001591008
+edgenode3,310.0,0.001482
+edgeuser1,310.0,0.001539496
+Switch: edgecore,310.0,0.002914496
+edgenode1,310.0,6.82496E-4
+Switch: edgeedge1,310.0,0.001539496
 Switch: edgeedge3,310.0,0.002914496
 edgenode4,310.0,0.001958496
-Switch: edgeedge1,310.0,0.001539496
-edgeuser1,310.0,0.001539496
-edgenode1,310.0,6.82496E-4
-Switch: edgecore,310.0,0.002914496
-netcloudhost3,310.0,0.0
-Switch: netcloudedge1,310.0,0.0
-netcloudhost1,310.0,0.0
-netcloudhost2,310.0,0.0
+edgenode2,310.0,0.0015
 Switch: netcloudedge2,310.0,0.0
 netcloudhost4,310.0,0.0
 Switch: netcloudcore,310.0,0.0
-Switch: internetgw,310.0,0.0
-Switch: netcloudgw,310.0,0.0
+netcloudhost2,310.0,0.0
+Switch: netcloudedge1,310.0,0.0
+netcloudhost1,310.0,0.0
+netcloudhost3,310.0,0.0
 Switch: edgegw,310.0,0.002914496
+Switch: netcloudgw,310.0,0.0
+Switch: internetgw,310.0,0.0
 Switch: edge2gw,310.0,0.0
 Switch: inter2,310.0,0.0
 internethost,310.0,0.0
 Switch: internetcore,310.0,0.0
 Switch: internetedge,310.0,0.0
+Switch: edge2core,315.0,0.0
 edgeuser3,315.0,0.0
 Switch: edge2edge1,315.0,0.0
-Switch: edge2core,315.0,0.0
-edgenode3,315.0,0.0016
 edgeuser2,315.0,0.001196496
-edgenode2,315.0,0.00155
 Switch: edgeedge2,315.0,0.001196496
+edgenode3,315.0,0.0016
+edgeuser1,315.0,0.001553496
+Switch: edgecore,315.0,0.00325
+edgenode1,315.0,8.5E-4
+Switch: edgeedge1,315.0,0.001553496
 Switch: edgeedge3,315.0,0.00325
 edgenode4,315.0,0.002046496
-Switch: edgeedge1,315.0,0.001553496
-edgeuser1,315.0,0.001553496
-edgenode1,315.0,8.5E-4
-Switch: edgecore,315.0,0.00325
-netcloudhost3,315.0,0.0
-Switch: netcloudedge1,315.0,0.0
-netcloudhost1,315.0,0.0
-netcloudhost2,315.0,0.0
+edgenode2,315.0,0.00155
 Switch: netcloudedge2,315.0,0.0
 netcloudhost4,315.0,0.0
 Switch: netcloudcore,315.0,0.0
-Switch: internetgw,315.0,0.0
-Switch: netcloudgw,315.0,0.0
+netcloudhost2,315.0,0.0
+Switch: netcloudedge1,315.0,0.0
+netcloudhost1,315.0,0.0
+netcloudhost3,315.0,0.0
 Switch: edgegw,315.0,0.00325
+Switch: netcloudgw,315.0,0.0
+Switch: internetgw,315.0,0.0
 Switch: edge2gw,315.0,0.0
 Switch: inter2,315.0,0.0
 internethost,315.0,0.0
 Switch: internetcore,315.0,0.0
 Switch: internetedge,315.0,0.0
+Switch: edge2core,320.0,0.0
 edgeuser3,320.0,0.0
 Switch: edge2edge1,320.0,0.0
-Switch: edge2core,320.0,0.0
-edgenode3,320.0,0.00105
 edgeuser2,320.0,0.00178
-edgenode2,320.0,0.0011
 Switch: edgeedge2,320.0,0.00178
+edgenode3,320.0,0.00105
+edgeuser1,320.0,0.001351496
+Switch: edgecore,320.0,0.002022
+edgenode1,320.0,4.72E-4
+Switch: edgeedge1,320.0,0.001351496
 Switch: edgeedge3,320.0,0.002022
 edgenode4,320.0,0.001511496
-Switch: edgeedge1,320.0,0.001351496
-edgeuser1,320.0,0.001351496
-edgenode1,320.0,4.72E-4
-Switch: edgecore,320.0,0.002022
-netcloudhost3,320.0,0.0
-Switch: netcloudedge1,320.0,0.0
-netcloudhost1,320.0,0.0
-netcloudhost2,320.0,0.0
+edgenode2,320.0,0.0011
 Switch: netcloudedge2,320.0,0.0
 netcloudhost4,320.0,0.0
 Switch: netcloudcore,320.0,0.0
-Switch: internetgw,320.0,0.0
-Switch: netcloudgw,320.0,0.0
+netcloudhost2,320.0,0.0
+Switch: netcloudedge1,320.0,0.0
+netcloudhost1,320.0,0.0
+netcloudhost3,320.0,0.0
 Switch: edgegw,320.0,0.002022
+Switch: netcloudgw,320.0,0.0
+Switch: internetgw,320.0,0.0
 Switch: edge2gw,320.0,0.0
 Switch: inter2,320.0,0.0
 internethost,320.0,0.0
 Switch: internetcore,320.0,0.0
 Switch: internetedge,320.0,0.0
+Switch: edge2core,325.0,0.0
 edgeuser3,325.0,0.0
 Switch: edge2edge1,325.0,0.0
-Switch: edge2core,325.0,0.0
-edgenode3,325.0,0.00185
 edgeuser2,325.0,0.001770496
-edgenode2,325.0,0.001749
 Switch: edgeedge2,325.0,0.001770496
+edgenode3,325.0,0.00185
+edgeuser1,325.0,0.001634496
+Switch: edgecore,325.0,0.003689008
+edgenode1,325.0,9.09504E-4
+Switch: edgeedge1,325.0,0.001634496
 Switch: edgeedge3,325.0,0.003689008
 edgenode4,325.0,0.00237
-Switch: edgeedge1,325.0,0.001634496
-edgeuser1,325.0,0.001634496
-edgenode1,325.0,9.09504E-4
-Switch: edgecore,325.0,0.003689008
-netcloudhost3,325.0,0.0
-Switch: netcloudedge1,325.0,0.0
-netcloudhost1,325.0,0.0
-netcloudhost2,325.0,0.0
+edgenode2,325.0,0.001749
 Switch: netcloudedge2,325.0,0.0
 netcloudhost4,325.0,0.0
 Switch: netcloudcore,325.0,0.0
-Switch: internetgw,325.0,0.0
-Switch: netcloudgw,325.0,0.0
+netcloudhost2,325.0,0.0
+Switch: netcloudedge1,325.0,0.0
+netcloudhost1,325.0,0.0
+netcloudhost3,325.0,0.0
 Switch: edgegw,325.0,0.003689008
+Switch: netcloudgw,325.0,0.0
+Switch: internetgw,325.0,0.0
 Switch: edge2gw,325.0,0.0
 Switch: inter2,325.0,0.0
 internethost,325.0,0.0
 Switch: internetcore,325.0,0.0
 Switch: internetedge,325.0,0.0
+Switch: edge2core,330.0,0.0
 edgeuser3,330.0,0.0
 Switch: edge2edge1,330.0,0.0
-Switch: edge2core,330.0,0.0
-edgenode3,330.0,0.001830504
 edgeuser2,330.0,0.001998
-edgenode2,330.0,0.001842
 Switch: edgeedge2,330.0,0.001998
+edgenode3,330.0,0.001830504
+edgeuser1,330.0,0.001216496
+Switch: edgecore,330.0,0.003587504
+edgenode1,330.0,8.65E-4
+Switch: edgeedge1,330.0,0.001216496
 Switch: edgeedge3,330.0,0.003587504
 edgenode4,330.0,0.002498
-Switch: edgeedge1,330.0,0.001216496
-edgeuser1,330.0,0.001216496
-edgenode1,330.0,8.65E-4
-Switch: edgecore,330.0,0.003587504
-netcloudhost3,330.0,0.0
-Switch: netcloudedge1,330.0,0.0
-netcloudhost1,330.0,0.0
-netcloudhost2,330.0,0.0
+edgenode2,330.0,0.001842
 Switch: netcloudedge2,330.0,0.0
 netcloudhost4,330.0,0.0
 Switch: netcloudcore,330.0,0.0
-Switch: internetgw,330.0,0.0
-Switch: netcloudgw,330.0,0.0
+netcloudhost2,330.0,0.0
+Switch: netcloudedge1,330.0,0.0
+netcloudhost1,330.0,0.0
+netcloudhost3,330.0,0.0
 Switch: edgegw,330.0,0.003587504
+Switch: netcloudgw,330.0,0.0
+Switch: internetgw,330.0,0.0
 Switch: edge2gw,330.0,0.0
 Switch: inter2,330.0,0.0
 internethost,330.0,0.0
 Switch: internetcore,330.0,0.0
 Switch: internetedge,330.0,0.0
+Switch: edge2core,335.0,0.0
 edgeuser3,335.0,0.0
 Switch: edge2edge1,335.0,0.0
-Switch: edge2core,335.0,0.0
-edgenode3,335.0,0.001662496
 edgeuser2,335.0,0.001660496
-edgenode2,335.0,0.001694504
 Switch: edgeedge2,335.0,0.001660496
+edgenode3,335.0,0.001662496
+edgeuser1,335.0,0.001498496
+Switch: edgecore,335.0,0.003324992
+edgenode1,335.0,8.12496E-4
+Switch: edgeedge1,335.0,0.001498496
 Switch: edgeedge3,335.0,0.003324992
 edgenode4,335.0,0.002257504
-Switch: edgeedge1,335.0,0.001498496
-edgeuser1,335.0,0.001498496
-edgenode1,335.0,8.12496E-4
-Switch: edgecore,335.0,0.003324992
-netcloudhost3,335.0,0.0
-Switch: netcloudedge1,335.0,0.0
-netcloudhost1,335.0,0.0
-netcloudhost2,335.0,0.0
+edgenode2,335.0,0.001694504
 Switch: netcloudedge2,335.0,0.0
 netcloudhost4,335.0,0.0
 Switch: netcloudcore,335.0,0.0
-Switch: internetgw,335.0,0.0
-Switch: netcloudgw,335.0,0.0
+netcloudhost2,335.0,0.0
+Switch: netcloudedge1,335.0,0.0
+netcloudhost1,335.0,0.0
+netcloudhost3,335.0,0.0
 Switch: edgegw,335.0,0.003324992
+Switch: netcloudgw,335.0,0.0
+Switch: internetgw,335.0,0.0
 Switch: edge2gw,335.0,0.0
 Switch: inter2,335.0,0.0
 internethost,335.0,0.0
 Switch: internetcore,335.0,0.0
 Switch: internetedge,335.0,0.0
+Switch: edge2core,340.0,0.0
 edgeuser3,340.0,0.0
 Switch: edge2edge1,340.0,0.0
-Switch: edge2core,340.0,0.0
-edgenode3,340.0,0.001824008
 edgeuser2,340.0,0.00163
-edgenode2,340.0,0.00183
 Switch: edgeedge2,340.0,0.00163
+edgenode3,340.0,0.001824008
+edgeuser1,340.0,0.001925992
+Switch: edgecore,340.0,0.003654008
+edgenode1,340.0,9.0E-4
+Switch: edgeedge1,340.0,0.001925992
 Switch: edgeedge3,340.0,0.003654008
 edgenode4,340.0,0.00244
-Switch: edgeedge1,340.0,0.001925992
-edgeuser1,340.0,0.001925992
-edgenode1,340.0,9.0E-4
-Switch: edgecore,340.0,0.003654008
-netcloudhost3,340.0,0.0
-Switch: netcloudedge1,340.0,0.0
-netcloudhost1,340.0,0.0
-netcloudhost2,340.0,0.0
+edgenode2,340.0,0.00183
 Switch: netcloudedge2,340.0,0.0
 netcloudhost4,340.0,0.0
 Switch: netcloudcore,340.0,0.0
-Switch: internetgw,340.0,0.0
-Switch: netcloudgw,340.0,0.0
+netcloudhost2,340.0,0.0
+Switch: netcloudedge1,340.0,0.0
+netcloudhost1,340.0,0.0
+netcloudhost3,340.0,0.0
 Switch: edgegw,340.0,0.003654008
+Switch: netcloudgw,340.0,0.0
+Switch: internetgw,340.0,0.0
 Switch: edge2gw,340.0,0.0
 Switch: inter2,340.0,0.0
 internethost,340.0,0.0
 Switch: internetcore,340.0,0.0
 Switch: internetedge,340.0,0.0
+Switch: edge2core,345.0,0.0
 edgeuser3,345.0,0.0
 Switch: edge2edge1,345.0,0.0
-Switch: edge2core,345.0,0.0
-edgenode3,345.0,0.0018
 edgeuser2,345.0,0.001468
-edgenode2,345.0,0.0018
 Switch: edgeedge2,345.0,0.001468
+edgenode3,345.0,0.0018
+edgeuser1,345.0,0.001841
+Switch: edgecore,345.0,0.003636504
+edgenode1,345.0,9.36504E-4
+Switch: edgeedge1,345.0,0.001841
 Switch: edgeedge3,345.0,0.003636504
 edgenode4,345.0,0.002395496
-Switch: edgeedge1,345.0,0.001841
-edgeuser1,345.0,0.001841
-edgenode1,345.0,9.36504E-4
-Switch: edgecore,345.0,0.003636504
-netcloudhost3,345.0,0.0
-Switch: netcloudedge1,345.0,0.0
-netcloudhost1,345.0,0.0
-netcloudhost2,345.0,0.0
+edgenode2,345.0,0.0018
 Switch: netcloudedge2,345.0,0.0
 netcloudhost4,345.0,0.0
 Switch: netcloudcore,345.0,0.0
-Switch: internetgw,345.0,0.0
-Switch: netcloudgw,345.0,0.0
+netcloudhost2,345.0,0.0
+Switch: netcloudedge1,345.0,0.0
+netcloudhost1,345.0,0.0
+netcloudhost3,345.0,0.0
 Switch: edgegw,345.0,0.003636504
+Switch: netcloudgw,345.0,0.0
+Switch: internetgw,345.0,0.0
 Switch: edge2gw,345.0,0.0
 Switch: inter2,345.0,0.0
 internethost,345.0,0.0
 Switch: internetcore,345.0,0.0
 Switch: internetedge,345.0,0.0
+Switch: edge2core,350.0,0.0
 edgeuser3,350.0,0.0
 Switch: edge2edge1,350.0,0.0
-Switch: edge2core,350.0,0.0
-edgenode3,350.0,0.00165
 edgeuser2,350.0,0.001600008
-edgenode2,350.0,0.001652496
 Switch: edgeedge2,350.0,0.001600008
+edgenode3,350.0,0.00165
+edgeuser1,350.0,0.001569992
+Switch: edgecore,350.0,0.003272496
+edgenode1,350.0,8.0E-4
+Switch: edgeedge1,350.0,0.001569992
 Switch: edgeedge3,350.0,0.003272496
 edgenode4,350.0,0.002237496
-Switch: edgeedge1,350.0,0.001569992
-edgeuser1,350.0,0.001569992
-edgenode1,350.0,8.0E-4
-Switch: edgecore,350.0,0.003272496
-netcloudhost3,350.0,0.0
-Switch: netcloudedge1,350.0,0.0
-netcloudhost1,350.0,0.0
-netcloudhost2,350.0,0.0
+edgenode2,350.0,0.001652496
 Switch: netcloudedge2,350.0,0.0
 netcloudhost4,350.0,0.0
 Switch: netcloudcore,350.0,0.0
-Switch: internetgw,350.0,0.0
-Switch: netcloudgw,350.0,0.0
+netcloudhost2,350.0,0.0
+Switch: netcloudedge1,350.0,0.0
+netcloudhost1,350.0,0.0
+netcloudhost3,350.0,0.0
 Switch: edgegw,350.0,0.003272496
+Switch: netcloudgw,350.0,0.0
+Switch: internetgw,350.0,0.0
 Switch: edge2gw,350.0,0.0
 Switch: inter2,350.0,0.0
 internethost,350.0,0.0
 Switch: internetcore,350.0,0.0
 Switch: internetedge,350.0,0.0
+Switch: edge2core,355.0,0.0
 edgeuser3,355.0,0.0
 Switch: edge2edge1,355.0,0.0
-Switch: edge2core,355.0,0.0
-edgenode3,355.0,0.00164
 edgeuser2,355.0,0.00167
-edgenode2,355.0,0.0016
 Switch: edgeedge2,355.0,0.00167
+edgenode3,355.0,0.00164
+edgeuser1,355.0,0.001655
+Switch: edgecore,355.0,0.00329
+edgenode1,355.0,8.5E-4
+Switch: edgeedge1,355.0,0.001655
 Switch: edgeedge3,355.0,0.00329
 edgenode4,355.0,0.002109
-Switch: edgeedge1,355.0,0.001655
-edgeuser1,355.0,0.001655
-edgenode1,355.0,8.5E-4
-Switch: edgecore,355.0,0.00329
-netcloudhost3,355.0,0.0
-Switch: netcloudedge1,355.0,0.0
-netcloudhost1,355.0,0.0
-netcloudhost2,355.0,0.0
+edgenode2,355.0,0.0016
 Switch: netcloudedge2,355.0,0.0
 netcloudhost4,355.0,0.0
 Switch: netcloudcore,355.0,0.0
-Switch: internetgw,355.0,0.0
-Switch: netcloudgw,355.0,0.0
+netcloudhost2,355.0,0.0
+Switch: netcloudedge1,355.0,0.0
+netcloudhost1,355.0,0.0
+netcloudhost3,355.0,0.0
 Switch: edgegw,355.0,0.00329
+Switch: netcloudgw,355.0,0.0
+Switch: internetgw,355.0,0.0
 Switch: edge2gw,355.0,0.0
 Switch: inter2,355.0,0.0
 internethost,355.0,0.0
 Switch: internetcore,355.0,0.0
 Switch: internetedge,355.0,0.0
+Switch: edge2core,360.0,0.0
 edgeuser3,360.0,0.0
 Switch: edge2edge1,360.0,0.0
-Switch: edge2core,360.0,0.0
-edgenode3,360.0,0.00185
 edgeuser2,360.0,0.001682008
-edgenode2,360.0,0.0018
 Switch: edgeedge2,360.0,0.001682008
+edgenode3,360.0,0.00185
+edgeuser1,360.0,0.001472496
+Switch: edgecore,360.0,0.00365
+edgenode1,360.0,9.0E-4
+Switch: edgeedge1,360.0,0.001472496
 Switch: edgeedge3,360.0,0.00365
 edgenode4,360.0,0.00245
-Switch: edgeedge1,360.0,0.001472496
-edgeuser1,360.0,0.001472496
-edgenode1,360.0,9.0E-4
-Switch: edgecore,360.0,0.00365
-netcloudhost3,360.0,0.0
-Switch: netcloudedge1,360.0,0.0
-netcloudhost1,360.0,0.0
-netcloudhost2,360.0,0.0
+edgenode2,360.0,0.0018
 Switch: netcloudedge2,360.0,0.0
 netcloudhost4,360.0,0.0
 Switch: netcloudcore,360.0,0.0
-Switch: internetgw,360.0,0.0
-Switch: netcloudgw,360.0,0.0
+netcloudhost2,360.0,0.0
+Switch: netcloudedge1,360.0,0.0
+netcloudhost1,360.0,0.0
+netcloudhost3,360.0,0.0
 Switch: edgegw,360.0,0.00365
+Switch: netcloudgw,360.0,0.0
+Switch: internetgw,360.0,0.0
 Switch: edge2gw,360.0,0.0
 Switch: inter2,360.0,0.0
 internethost,360.0,0.0
 Switch: internetcore,360.0,0.0
 Switch: internetedge,360.0,0.0
+Switch: edge2core,365.0,0.0
 edgeuser3,365.0,0.0
 Switch: edge2edge1,365.0,0.0
-Switch: edge2core,365.0,0.0
-edgenode3,365.0,0.001004504
 edgeuser2,365.0,0.001172496
-edgenode2,365.0,9.85496E-4
 Switch: edgeedge2,365.0,0.001172496
+edgenode3,365.0,0.001004504
+edgeuser1,365.0,6.02504E-4
+Switch: edgecore,365.0,0.002004504
+edgenode1,365.0,5.0E-4
+Switch: edgeedge1,365.0,6.02504E-4
 Switch: edgeedge3,365.0,0.002004504
 edgenode4,365.0,0.001227504
-Switch: edgeedge1,365.0,6.02504E-4
-edgeuser1,365.0,6.02504E-4
-edgenode1,365.0,5.0E-4
-Switch: edgecore,365.0,0.002004504
-netcloudhost3,365.0,0.0
-Switch: netcloudedge1,365.0,0.0
-netcloudhost1,365.0,0.0
-netcloudhost2,365.0,0.0
+edgenode2,365.0,9.85496E-4
 Switch: netcloudedge2,365.0,0.0
 netcloudhost4,365.0,0.0
 Switch: netcloudcore,365.0,0.0
-Switch: internetgw,365.0,0.0
-Switch: netcloudgw,365.0,0.0
+netcloudhost2,365.0,0.0
+Switch: netcloudedge1,365.0,0.0
+netcloudhost1,365.0,0.0
+netcloudhost3,365.0,0.0
 Switch: edgegw,365.0,0.002004504
+Switch: netcloudgw,365.0,0.0
+Switch: internetgw,365.0,0.0
 Switch: edge2gw,365.0,0.0
 Switch: inter2,365.0,0.0
 internethost,365.0,0.0
 Switch: internetcore,365.0,0.0
 Switch: internetedge,365.0,0.0
+Switch: edge2core,370.0,0.0
 edgeuser3,370.0,0.0
 Switch: edge2edge1,370.0,0.0
-Switch: edge2core,370.0,0.0
-edgenode3,370.0,0.001605
 edgeuser2,370.0,0.001831496
-edgenode2,370.0,0.00175
 Switch: edgeedge2,370.0,0.001831496
+edgenode3,370.0,0.001605
+edgeuser1,370.0,0.002397
+Switch: edgecore,370.0,0.003284496
+edgenode1,370.0,8.29496E-4
+Switch: edgeedge1,370.0,0.002397
 Switch: edgeedge3,370.0,0.003284496
 edgenode4,370.0,0.00235
-Switch: edgeedge1,370.0,0.002397
-edgeuser1,370.0,0.002397
-edgenode1,370.0,8.29496E-4
-Switch: edgecore,370.0,0.003284496
-netcloudhost3,370.0,0.0
-Switch: netcloudedge1,370.0,0.0
-netcloudhost1,370.0,0.0
-netcloudhost2,370.0,0.0
+edgenode2,370.0,0.00175
 Switch: netcloudedge2,370.0,0.0
 netcloudhost4,370.0,0.0
 Switch: netcloudcore,370.0,0.0
-Switch: internetgw,370.0,0.0
-Switch: netcloudgw,370.0,0.0
+netcloudhost2,370.0,0.0
+Switch: netcloudedge1,370.0,0.0
+netcloudhost1,370.0,0.0
+netcloudhost3,370.0,0.0
 Switch: edgegw,370.0,0.003284496
+Switch: netcloudgw,370.0,0.0
+Switch: internetgw,370.0,0.0
 Switch: edge2gw,370.0,0.0
 Switch: inter2,370.0,0.0
 internethost,370.0,0.0
 Switch: internetcore,370.0,0.0
 Switch: internetedge,370.0,0.0
+Switch: edge2core,375.0,0.0
 edgeuser3,375.0,0.0
 Switch: edge2edge1,375.0,0.0
-Switch: edge2core,375.0,0.0
-edgenode3,375.0,0.00185
 edgeuser2,375.0,0.001564
-edgenode2,375.0,0.00175
 Switch: edgeedge2,375.0,0.001564
+edgenode3,375.0,0.00185
+edgeuser1,375.0,0.00165
+Switch: edgecore,375.0,0.00365
+edgenode1,375.0,9.0E-4
+Switch: edgeedge1,375.0,0.00165
 Switch: edgeedge3,375.0,0.00365
 edgenode4,375.0,0.0024
-Switch: edgeedge1,375.0,0.00165
-edgeuser1,375.0,0.00165
-edgenode1,375.0,9.0E-4
-Switch: edgecore,375.0,0.00365
-netcloudhost3,375.0,0.0
-Switch: netcloudedge1,375.0,0.0
-netcloudhost1,375.0,0.0
-netcloudhost2,375.0,0.0
+edgenode2,375.0,0.00175
 Switch: netcloudedge2,375.0,0.0
 netcloudhost4,375.0,0.0
 Switch: netcloudcore,375.0,0.0
-Switch: internetgw,375.0,0.0
-Switch: netcloudgw,375.0,0.0
+netcloudhost2,375.0,0.0
+Switch: netcloudedge1,375.0,0.0
+netcloudhost1,375.0,0.0
+netcloudhost3,375.0,0.0
 Switch: edgegw,375.0,0.00365
+Switch: netcloudgw,375.0,0.0
+Switch: internetgw,375.0,0.0
 Switch: edge2gw,375.0,0.0
 Switch: inter2,375.0,0.0
 internethost,375.0,0.0
 Switch: internetcore,375.0,0.0
 Switch: internetedge,375.0,0.0
+Switch: edge2core,380.0,0.0
 edgeuser3,380.0,0.0
 Switch: edge2edge1,380.0,0.0
-Switch: edge2core,380.0,0.0
-edgenode3,380.0,0.001785504
 edgeuser2,380.0,0.001835496
-edgenode2,380.0,0.00187
 Switch: edgeedge2,380.0,0.001835496
+edgenode3,380.0,0.001785504
+edgeuser1,380.0,0.001359496
+Switch: edgecore,380.0,0.003635504
+edgenode1,380.0,9.0E-4
+Switch: edgeedge1,380.0,0.001359496
 Switch: edgeedge3,380.0,0.003635504
 edgenode4,380.0,0.002462504
-Switch: edgeedge1,380.0,0.001359496
-edgeuser1,380.0,0.001359496
-edgenode1,380.0,9.0E-4
-Switch: edgecore,380.0,0.003635504
-netcloudhost3,380.0,0.0
-Switch: netcloudedge1,380.0,0.0
-netcloudhost1,380.0,0.0
-netcloudhost2,380.0,0.0
+edgenode2,380.0,0.00187
 Switch: netcloudedge2,380.0,0.0
 netcloudhost4,380.0,0.0
 Switch: netcloudcore,380.0,0.0
-Switch: internetgw,380.0,0.0
-Switch: netcloudgw,380.0,0.0
+netcloudhost2,380.0,0.0
+Switch: netcloudedge1,380.0,0.0
+netcloudhost1,380.0,0.0
+netcloudhost3,380.0,0.0
 Switch: edgegw,380.0,0.003635504
+Switch: netcloudgw,380.0,0.0
+Switch: internetgw,380.0,0.0
 Switch: edge2gw,380.0,0.0
 Switch: inter2,380.0,0.0
 internethost,380.0,0.0
 Switch: internetcore,380.0,0.0
 Switch: internetedge,380.0,0.0
+Switch: edge2core,385.0,0.0
 edgeuser3,385.0,0.0
 Switch: edge2edge1,385.0,0.0
-Switch: edge2core,385.0,0.0
-edgenode3,385.0,0.00172
 edgeuser2,385.0,0.00165
-edgenode2,385.0,0.001647496
 Switch: edgeedge2,385.0,0.00165
+edgenode3,385.0,0.00172
+edgeuser1,385.0,0.001894
+Switch: edgecore,385.0,0.003469504
+edgenode1,385.0,8.99504E-4
+Switch: edgeedge1,385.0,0.001894
 Switch: edgeedge3,385.0,0.003469504
 edgenode4,385.0,0.002247
-Switch: edgeedge1,385.0,0.001894
-edgeuser1,385.0,0.001894
-edgenode1,385.0,8.99504E-4
-Switch: edgecore,385.0,0.003469504
-netcloudhost3,385.0,0.0
-Switch: netcloudedge1,385.0,0.0
-netcloudhost1,385.0,0.0
-netcloudhost2,385.0,0.0
+edgenode2,385.0,0.001647496
 Switch: netcloudedge2,385.0,0.0
 netcloudhost4,385.0,0.0
 Switch: netcloudcore,385.0,0.0
-Switch: internetgw,385.0,0.0
-Switch: netcloudgw,385.0,0.0
+netcloudhost2,385.0,0.0
+Switch: netcloudedge1,385.0,0.0
+netcloudhost1,385.0,0.0
+netcloudhost3,385.0,0.0
 Switch: edgegw,385.0,0.003469504
+Switch: netcloudgw,385.0,0.0
+Switch: internetgw,385.0,0.0
 Switch: edge2gw,385.0,0.0
 Switch: inter2,385.0,0.0
 internethost,385.0,0.0
 Switch: internetcore,385.0,0.0
 Switch: internetedge,385.0,0.0
+Switch: edge2core,390.0,0.0
 edgeuser3,390.0,0.0
 Switch: edge2edge1,390.0,0.0
-Switch: edge2core,390.0,0.0
-edgenode3,390.0,0.00165
 edgeuser2,390.0,0.001467496
-edgenode2,390.0,0.00175
 Switch: edgeedge2,390.0,0.001467496
+edgenode3,390.0,0.00165
+edgeuser1,390.0,0.001506
+Switch: edgecore,390.0,0.0033
+edgenode1,390.0,8.0E-4
+Switch: edgeedge1,390.0,0.001506
 Switch: edgeedge3,390.0,0.0033
 edgenode4,390.0,0.002176504
-Switch: edgeedge1,390.0,0.001506
-edgeuser1,390.0,0.001506
-edgenode1,390.0,8.0E-4
-Switch: edgecore,390.0,0.0033
-netcloudhost3,390.0,0.0
-Switch: netcloudedge1,390.0,0.0
-netcloudhost1,390.0,0.0
-netcloudhost2,390.0,0.0
+edgenode2,390.0,0.00175
 Switch: netcloudedge2,390.0,0.0
 netcloudhost4,390.0,0.0
 Switch: netcloudcore,390.0,0.0
-Switch: internetgw,390.0,0.0
-Switch: netcloudgw,390.0,0.0
+netcloudhost2,390.0,0.0
+Switch: netcloudedge1,390.0,0.0
+netcloudhost1,390.0,0.0
+netcloudhost3,390.0,0.0
 Switch: edgegw,390.0,0.0033
+Switch: netcloudgw,390.0,0.0
+Switch: internetgw,390.0,0.0
 Switch: edge2gw,390.0,0.0
 Switch: inter2,390.0,0.0
 internethost,390.0,0.0
 Switch: internetcore,390.0,0.0
 Switch: internetedge,390.0,0.0
+Switch: edge2core,395.0,0.0
 edgeuser3,395.0,0.0
 Switch: edge2edge1,395.0,0.0
-Switch: edge2core,395.0,0.0
-edgenode3,395.0,0.0015
 edgeuser2,395.0,0.001713
-edgenode2,395.0,0.001476
 Switch: edgeedge2,395.0,0.001713
+edgenode3,395.0,0.0015
+edgeuser1,395.0,0.001481496
+Switch: edgecore,395.0,0.003010504
+edgenode1,395.0,7.84504E-4
+Switch: edgeedge1,395.0,0.001481496
 Switch: edgeedge3,395.0,0.003010504
 edgenode4,395.0,0.001995
-Switch: edgeedge1,395.0,0.001481496
-edgeuser1,395.0,0.001481496
-edgenode1,395.0,7.84504E-4
-Switch: edgecore,395.0,0.003010504
-netcloudhost3,395.0,0.0
-Switch: netcloudedge1,395.0,0.0
-netcloudhost1,395.0,0.0
-netcloudhost2,395.0,0.0
+edgenode2,395.0,0.001476
 Switch: netcloudedge2,395.0,0.0
 netcloudhost4,395.0,0.0
 Switch: netcloudcore,395.0,0.0
-Switch: internetgw,395.0,0.0
-Switch: netcloudgw,395.0,0.0
+netcloudhost2,395.0,0.0
+Switch: netcloudedge1,395.0,0.0
+netcloudhost1,395.0,0.0
+netcloudhost3,395.0,0.0
 Switch: edgegw,395.0,0.003010504
+Switch: netcloudgw,395.0,0.0
+Switch: internetgw,395.0,0.0
 Switch: edge2gw,395.0,0.0
 Switch: inter2,395.0,0.0
 internethost,395.0,0.0
 Switch: internetcore,395.0,0.0
 Switch: internetedge,395.0,0.0
+Switch: edge2core,400.0,0.0
 edgeuser3,400.0,0.0
 Switch: edge2edge1,400.0,0.0
-Switch: edge2core,400.0,0.0
-edgenode3,400.0,0.001793
 edgeuser2,400.0,0.001637488
-edgenode2,400.0,0.001676504
 Switch: edgeedge2,400.0,0.001637488
+edgenode3,400.0,0.001793
+edgeuser1,400.0,0.001569
+Switch: edgecore,400.0,0.003504496
+edgenode1,400.0,8.23E-4
+Switch: edgeedge1,400.0,0.001569
 Switch: edgeedge3,400.0,0.003504496
 edgenode4,400.0,0.002343
-Switch: edgeedge1,400.0,0.001569
-edgeuser1,400.0,0.001569
-edgenode1,400.0,8.23E-4
-Switch: edgecore,400.0,0.003504496
-netcloudhost3,400.0,0.0
-Switch: netcloudedge1,400.0,0.0
-netcloudhost1,400.0,0.0
-netcloudhost2,400.0,0.0
+edgenode2,400.0,0.001676504
 Switch: netcloudedge2,400.0,0.0
 netcloudhost4,400.0,0.0
 Switch: netcloudcore,400.0,0.0
-Switch: internetgw,400.0,0.0
-Switch: netcloudgw,400.0,0.0
+netcloudhost2,400.0,0.0
+Switch: netcloudedge1,400.0,0.0
+netcloudhost1,400.0,0.0
+netcloudhost3,400.0,0.0
 Switch: edgegw,400.0,0.003504496
+Switch: netcloudgw,400.0,0.0
+Switch: internetgw,400.0,0.0
 Switch: edge2gw,400.0,0.0
 Switch: inter2,400.0,0.0
 internethost,400.0,0.0
 Switch: internetcore,400.0,0.0
 Switch: internetedge,400.0,0.0
+Switch: edge2core,405.0,0.0
 edgeuser3,405.0,0.0
 Switch: edge2edge1,405.0,0.0
-Switch: edge2core,405.0,0.0
-edgenode3,405.0,0.00165
 edgeuser2,405.0,0.001654008
-edgenode2,405.0,0.0016
 Switch: edgeedge2,405.0,0.001654008
+edgenode3,405.0,0.00165
+edgeuser1,405.0,0.001745992
+Switch: edgecore,405.0,0.0033
+edgenode1,405.0,8.5E-4
+Switch: edgeedge1,405.0,0.001745992
 Switch: edgeedge3,405.0,0.0033
 edgenode4,405.0,0.002178992
-Switch: edgeedge1,405.0,0.001745992
-edgeuser1,405.0,0.001745992
-edgenode1,405.0,8.5E-4
-Switch: edgecore,405.0,0.0033
-netcloudhost3,405.0,0.0
-Switch: netcloudedge1,405.0,0.0
-netcloudhost1,405.0,0.0
-netcloudhost2,405.0,0.0
+edgenode2,405.0,0.0016
 Switch: netcloudedge2,405.0,0.0
 netcloudhost4,405.0,0.0
 Switch: netcloudcore,405.0,0.0
-Switch: internetgw,405.0,0.0
-Switch: netcloudgw,405.0,0.0
+netcloudhost2,405.0,0.0
+Switch: netcloudedge1,405.0,0.0
+netcloudhost1,405.0,0.0
+netcloudhost3,405.0,0.0
 Switch: edgegw,405.0,0.0033
+Switch: netcloudgw,405.0,0.0
+Switch: internetgw,405.0,0.0
 Switch: edge2gw,405.0,0.0
 Switch: inter2,405.0,0.0
 internethost,405.0,0.0
 Switch: internetcore,405.0,0.0
 Switch: internetedge,405.0,0.0
+Switch: edge2core,410.0,0.0
 edgeuser3,410.0,0.0
 Switch: edge2edge1,410.0,0.0
-Switch: edge2core,410.0,0.0
-edgenode3,410.0,0.001729496
 edgeuser2,410.0,0.00161
-edgenode2,410.0,0.001764504
 Switch: edgeedge2,410.0,0.00161
+edgenode3,410.0,0.001729496
+edgeuser1,410.0,0.001908992
+Switch: edgecore,410.0,0.003526496
+edgenode1,410.0,8.97E-4
+Switch: edgeedge1,410.0,0.001908992
 Switch: edgeedge3,410.0,0.003526496
 edgenode4,410.0,0.002335
-Switch: edgeedge1,410.0,0.001908992
-edgeuser1,410.0,0.001908992
-edgenode1,410.0,8.97E-4
-Switch: edgecore,410.0,0.003526496
-netcloudhost3,410.0,0.0
-Switch: netcloudedge1,410.0,0.0
-netcloudhost1,410.0,0.0
-netcloudhost2,410.0,0.0
+edgenode2,410.0,0.001764504
 Switch: netcloudedge2,410.0,0.0
 netcloudhost4,410.0,0.0
 Switch: netcloudcore,410.0,0.0
-Switch: internetgw,410.0,0.0
-Switch: netcloudgw,410.0,0.0
+netcloudhost2,410.0,0.0
+Switch: netcloudedge1,410.0,0.0
+netcloudhost1,410.0,0.0
+netcloudhost3,410.0,0.0
 Switch: edgegw,410.0,0.003526496
+Switch: netcloudgw,410.0,0.0
+Switch: internetgw,410.0,0.0
 Switch: edge2gw,410.0,0.0
 Switch: inter2,410.0,0.0
 internethost,410.0,0.0
 Switch: internetcore,410.0,0.0
 Switch: internetedge,410.0,0.0
+Switch: edge2core,415.0,0.0
 edgeuser3,415.0,0.0
 Switch: edge2edge1,415.0,0.0
-Switch: edge2core,415.0,0.0
-edgenode3,415.0,0.00175
 edgeuser2,415.0,0.00215
-edgenode2,415.0,0.001724
 Switch: edgeedge2,415.0,0.00215
+edgenode3,415.0,0.00175
+edgeuser1,415.0,0.001161496
+Switch: edgecore,415.0,0.003448
+edgenode1,415.0,8.48E-4
+Switch: edgeedge1,415.0,0.001161496
 Switch: edgeedge3,415.0,0.003448
 edgenode4,415.0,0.002238496
-Switch: edgeedge1,415.0,0.001161496
-edgeuser1,415.0,0.001161496
-edgenode1,415.0,8.48E-4
-Switch: edgecore,415.0,0.003448
-netcloudhost3,415.0,0.0
-Switch: netcloudedge1,415.0,0.0
-netcloudhost1,415.0,0.0
-netcloudhost2,415.0,0.0
+edgenode2,415.0,0.001724
 Switch: netcloudedge2,415.0,0.0
 netcloudhost4,415.0,0.0
 Switch: netcloudcore,415.0,0.0
-Switch: internetgw,415.0,0.0
-Switch: netcloudgw,415.0,0.0
+netcloudhost2,415.0,0.0
+Switch: netcloudedge1,415.0,0.0
+netcloudhost1,415.0,0.0
+netcloudhost3,415.0,0.0
 Switch: edgegw,415.0,0.003448
+Switch: netcloudgw,415.0,0.0
+Switch: internetgw,415.0,0.0
 Switch: edge2gw,415.0,0.0
 Switch: inter2,415.0,0.0
 internethost,415.0,0.0
 Switch: internetcore,415.0,0.0
 Switch: internetedge,415.0,0.0
+Switch: edge2core,420.0,0.0
 edgeuser3,420.0,0.0
 Switch: edge2edge1,420.0,0.0
-Switch: edge2core,420.0,0.0
-edgenode3,420.0,0.001225496
 edgeuser2,420.0,0.001550008
-edgenode2,420.0,0.001262496
 Switch: edgeedge2,420.0,0.001550008
+edgenode3,420.0,0.001225496
+edgeuser1,420.0,0.002264504
+Switch: edgecore,420.0,0.002500992
+edgenode1,420.0,6.5E-4
+Switch: edgeedge1,420.0,0.002264504
 Switch: edgeedge3,420.0,0.002500992
 edgenode4,420.0,0.001785496
-Switch: edgeedge1,420.0,0.002264504
-edgeuser1,420.0,0.002264504
-edgenode1,420.0,6.5E-4
-Switch: edgecore,420.0,0.002500992
-netcloudhost3,420.0,0.0
-Switch: netcloudedge1,420.0,0.0
-netcloudhost1,420.0,0.0
-netcloudhost2,420.0,0.0
+edgenode2,420.0,0.001262496
 Switch: netcloudedge2,420.0,0.0
 netcloudhost4,420.0,0.0
 Switch: netcloudcore,420.0,0.0
-Switch: internetgw,420.0,0.0
-Switch: netcloudgw,420.0,0.0
+netcloudhost2,420.0,0.0
+Switch: netcloudedge1,420.0,0.0
+netcloudhost1,420.0,0.0
+netcloudhost3,420.0,0.0
 Switch: edgegw,420.0,0.002500992
+Switch: netcloudgw,420.0,0.0
+Switch: internetgw,420.0,0.0
 Switch: edge2gw,420.0,0.0
 Switch: inter2,420.0,0.0
 internethost,420.0,0.0
 Switch: internetcore,420.0,0.0
 Switch: internetedge,420.0,0.0
+Switch: edge2core,425.0,0.0
 edgeuser3,425.0,0.0
 Switch: edge2edge1,425.0,0.0
-Switch: edge2core,425.0,0.0
-edgenode3,425.0,0.00185
 edgeuser2,425.0,0.001708
-edgenode2,425.0,0.001835504
 Switch: edgeedge2,425.0,0.001708
+edgenode3,425.0,0.00185
+edgeuser1,425.0,0.001583504
+Switch: edgecore,425.0,0.003686
+edgenode1,425.0,9.00496E-4
+Switch: edgeedge1,425.0,0.001583504
 Switch: edgeedge3,425.0,0.003686
 edgenode4,425.0,0.00245
-Switch: edgeedge1,425.0,0.001583504
-edgeuser1,425.0,0.001583504
-edgenode1,425.0,9.00496E-4
-Switch: edgecore,425.0,0.003686
-netcloudhost3,425.0,0.0
-Switch: netcloudedge1,425.0,0.0
-netcloudhost1,425.0,0.0
-netcloudhost2,425.0,0.0
+edgenode2,425.0,0.001835504
 Switch: netcloudedge2,425.0,0.0
 netcloudhost4,425.0,0.0
 Switch: netcloudcore,425.0,0.0
-Switch: internetgw,425.0,0.0
-Switch: netcloudgw,425.0,0.0
+netcloudhost2,425.0,0.0
+Switch: netcloudedge1,425.0,0.0
+netcloudhost1,425.0,0.0
+netcloudhost3,425.0,0.0
 Switch: edgegw,425.0,0.003686
+Switch: netcloudgw,425.0,0.0
+Switch: internetgw,425.0,0.0
 Switch: edge2gw,425.0,0.0
 Switch: inter2,425.0,0.0
 internethost,425.0,0.0
 Switch: internetcore,425.0,0.0
 Switch: internetedge,425.0,0.0
+Switch: edge2core,430.0,0.0
 edgeuser3,430.0,0.0
 Switch: edge2edge1,430.0,0.0
-Switch: edge2core,430.0,0.0
-edgenode3,430.0,0.00185
 edgeuser2,430.0,0.001646
-edgenode2,430.0,0.001777
 Switch: edgeedge2,430.0,0.001646
+edgenode3,430.0,0.00185
+edgeuser1,430.0,0.001377
+Switch: edgecore,430.0,0.003627
+edgenode1,430.0,9.0E-4
+Switch: edgeedge1,430.0,0.001377
 Switch: edgeedge3,430.0,0.003627
 edgenode4,430.0,0.0024
-Switch: edgeedge1,430.0,0.001377
-edgeuser1,430.0,0.001377
-edgenode1,430.0,9.0E-4
-Switch: edgecore,430.0,0.003627
-netcloudhost3,430.0,0.0
-Switch: netcloudedge1,430.0,0.0
-netcloudhost1,430.0,0.0
-netcloudhost2,430.0,0.0
+edgenode2,430.0,0.001777
 Switch: netcloudedge2,430.0,0.0
 netcloudhost4,430.0,0.0
 Switch: netcloudcore,430.0,0.0
-Switch: internetgw,430.0,0.0
-Switch: netcloudgw,430.0,0.0
+netcloudhost2,430.0,0.0
+Switch: netcloudedge1,430.0,0.0
+netcloudhost1,430.0,0.0
+netcloudhost3,430.0,0.0
 Switch: edgegw,430.0,0.003627
+Switch: netcloudgw,430.0,0.0
+Switch: internetgw,430.0,0.0
 Switch: edge2gw,430.0,0.0
 Switch: inter2,430.0,0.0
 internethost,430.0,0.0
 Switch: internetcore,430.0,0.0
 Switch: internetedge,430.0,0.0
+Switch: edge2core,435.0,0.0
 edgeuser3,435.0,0.0
 Switch: edge2edge1,435.0,0.0
-Switch: edge2core,435.0,0.0
-edgenode3,435.0,0.00185
 edgeuser2,435.0,0.001697
-edgenode2,435.0,0.001848496
 Switch: edgeedge2,435.0,0.001697
+edgenode3,435.0,0.00185
+edgeuser1,435.0,0.001991504
+Switch: edgecore,435.0,0.003698496
+edgenode1,435.0,9.5E-4
+Switch: edgeedge1,435.0,0.001991504
 Switch: edgeedge3,435.0,0.003698496
 edgenode4,435.0,0.0025
-Switch: edgeedge1,435.0,0.001991504
-edgeuser1,435.0,0.001991504
-edgenode1,435.0,9.5E-4
-Switch: edgecore,435.0,0.003698496
-netcloudhost3,435.0,0.0
-Switch: netcloudedge1,435.0,0.0
-netcloudhost1,435.0,0.0
-netcloudhost2,435.0,0.0
+edgenode2,435.0,0.001848496
 Switch: netcloudedge2,435.0,0.0
 netcloudhost4,435.0,0.0
 Switch: netcloudcore,435.0,0.0
-Switch: internetgw,435.0,0.0
-Switch: netcloudgw,435.0,0.0
+netcloudhost2,435.0,0.0
+Switch: netcloudedge1,435.0,0.0
+netcloudhost1,435.0,0.0
+netcloudhost3,435.0,0.0
 Switch: edgegw,435.0,0.003698496
+Switch: netcloudgw,435.0,0.0
+Switch: internetgw,435.0,0.0
 Switch: edge2gw,435.0,0.0
 Switch: inter2,435.0,0.0
 internethost,435.0,0.0
 Switch: internetcore,435.0,0.0
 Switch: internetedge,435.0,0.0
+Switch: edge2core,440.0,0.0
 edgeuser3,440.0,0.0
 Switch: edge2edge1,440.0,0.0
-Switch: edge2core,440.0,0.0
-edgenode3,440.0,0.001788
 edgeuser2,440.0,0.001752
-edgenode2,440.0,0.0019
 Switch: edgeedge2,440.0,0.001752
+edgenode3,440.0,0.001788
+edgeuser1,440.0,0.002051
+Switch: edgecore,440.0,0.003608
+edgenode1,440.0,8.7E-4
+Switch: edgeedge1,440.0,0.002051
 Switch: edgeedge3,440.0,0.003608
 edgenode4,440.0,0.00243
-Switch: edgeedge1,440.0,0.002051
-edgeuser1,440.0,0.002051
-edgenode1,440.0,8.7E-4
-Switch: edgecore,440.0,0.003608
-netcloudhost3,440.0,0.0
-Switch: netcloudedge1,440.0,0.0
-netcloudhost1,440.0,0.0
-netcloudhost2,440.0,0.0
+edgenode2,440.0,0.0019
 Switch: netcloudedge2,440.0,0.0
 netcloudhost4,440.0,0.0
 Switch: netcloudcore,440.0,0.0
-Switch: internetgw,440.0,0.0
-Switch: netcloudgw,440.0,0.0
+netcloudhost2,440.0,0.0
+Switch: netcloudedge1,440.0,0.0
+netcloudhost1,440.0,0.0
+netcloudhost3,440.0,0.0
 Switch: edgegw,440.0,0.003608
+Switch: netcloudgw,440.0,0.0
+Switch: internetgw,440.0,0.0
 Switch: edge2gw,440.0,0.0
 Switch: inter2,440.0,0.0
 internethost,440.0,0.0
 Switch: internetcore,440.0,0.0
 Switch: internetedge,440.0,0.0
+Switch: edge2core,445.0,0.0
 edgeuser3,445.0,0.0
 Switch: edge2edge1,445.0,0.0
-Switch: edge2core,445.0,0.0
-edgenode3,445.0,0.0017
 edgeuser2,445.0,0.001513
-edgenode2,445.0,0.001587
 Switch: edgeedge2,445.0,0.001513
+edgenode3,445.0,0.0017
+edgeuser1,445.0,0.001606496
+Switch: edgecore,445.0,0.00335
+edgenode1,445.0,8.5E-4
+Switch: edgeedge1,445.0,0.001606496
 Switch: edgeedge3,445.0,0.00335
 edgenode4,445.0,0.002180504
-Switch: edgeedge1,445.0,0.001606496
-edgeuser1,445.0,0.001606496
-edgenode1,445.0,8.5E-4
-Switch: edgecore,445.0,0.00335
-netcloudhost3,445.0,0.0
-Switch: netcloudedge1,445.0,0.0
-netcloudhost1,445.0,0.0
-netcloudhost2,445.0,0.0
+edgenode2,445.0,0.001587
 Switch: netcloudedge2,445.0,0.0
 netcloudhost4,445.0,0.0
 Switch: netcloudcore,445.0,0.0
-Switch: internetgw,445.0,0.0
-Switch: netcloudgw,445.0,0.0
+netcloudhost2,445.0,0.0
+Switch: netcloudedge1,445.0,0.0
+netcloudhost1,445.0,0.0
+netcloudhost3,445.0,0.0
 Switch: edgegw,445.0,0.00335
+Switch: netcloudgw,445.0,0.0
+Switch: internetgw,445.0,0.0
 Switch: edge2gw,445.0,0.0
 Switch: inter2,445.0,0.0
 internethost,445.0,0.0
 Switch: internetcore,445.0,0.0
 Switch: internetedge,445.0,0.0
+Switch: edge2core,450.0,0.0
 edgeuser3,450.0,0.0
 Switch: edge2edge1,450.0,0.0
-Switch: edge2core,450.0,0.0
-edgenode3,450.0,0.0018
 edgeuser2,450.0,0.002062496
-edgenode2,450.0,0.0019
 Switch: edgeedge2,450.0,0.002062496
+edgenode3,450.0,0.0018
+edgeuser1,450.0,0.001234
+Switch: edgecore,450.0,0.00365
+edgenode1,450.0,9.0E-4
+Switch: edgeedge1,450.0,0.001234
 Switch: edgeedge3,450.0,0.00365
 edgenode4,450.0,0.002461496
-Switch: edgeedge1,450.0,0.001234
-edgeuser1,450.0,0.001234
-edgenode1,450.0,9.0E-4
-Switch: edgecore,450.0,0.00365
-netcloudhost3,450.0,0.0
-Switch: netcloudedge1,450.0,0.0
-netcloudhost1,450.0,0.0
-netcloudhost2,450.0,0.0
+edgenode2,450.0,0.0019
 Switch: netcloudedge2,450.0,0.0
 netcloudhost4,450.0,0.0
 Switch: netcloudcore,450.0,0.0
-Switch: internetgw,450.0,0.0
-Switch: netcloudgw,450.0,0.0
+netcloudhost2,450.0,0.0
+Switch: netcloudedge1,450.0,0.0
+netcloudhost1,450.0,0.0
+netcloudhost3,450.0,0.0
 Switch: edgegw,450.0,0.00365
+Switch: netcloudgw,450.0,0.0
+Switch: internetgw,450.0,0.0
 Switch: edge2gw,450.0,0.0
 Switch: inter2,450.0,0.0
 internethost,450.0,0.0
 Switch: internetcore,450.0,0.0
 Switch: internetedge,450.0,0.0
+Switch: edge2core,455.0,0.0
 edgeuser3,455.0,0.0
 Switch: edge2edge1,455.0,0.0
-Switch: edge2core,455.0,0.0
-edgenode3,455.0,0.001866
 edgeuser2,455.0,0.001574488
-edgenode2,455.0,0.001783
 Switch: edgeedge2,455.0,0.001574488
+edgenode3,455.0,0.001866
+edgeuser1,455.0,0.002141
+Switch: edgecore,455.0,0.003716
+edgenode1,455.0,9.5E-4
+Switch: edgeedge1,455.0,0.002141
 Switch: edgeedge3,455.0,0.003716
 edgenode4,455.0,0.002326
-Switch: edgeedge1,455.0,0.002141
-edgeuser1,455.0,0.002141
-edgenode1,455.0,9.5E-4
-Switch: edgecore,455.0,0.003716
-netcloudhost3,455.0,0.0
-Switch: netcloudedge1,455.0,0.0
-netcloudhost1,455.0,0.0
-netcloudhost2,455.0,0.0
+edgenode2,455.0,0.001783
 Switch: netcloudedge2,455.0,0.0
 netcloudhost4,455.0,0.0
 Switch: netcloudcore,455.0,0.0
-Switch: internetgw,455.0,0.0
-Switch: netcloudgw,455.0,0.0
+netcloudhost2,455.0,0.0
+Switch: netcloudedge1,455.0,0.0
+netcloudhost1,455.0,0.0
+netcloudhost3,455.0,0.0
 Switch: edgegw,455.0,0.003716
+Switch: netcloudgw,455.0,0.0
+Switch: internetgw,455.0,0.0
 Switch: edge2gw,455.0,0.0
 Switch: inter2,455.0,0.0
 internethost,455.0,0.0
 Switch: internetcore,455.0,0.0
 Switch: internetedge,455.0,0.0
+Switch: edge2core,460.0,0.0
 edgeuser3,460.0,0.0
 Switch: edge2edge1,460.0,0.0
-Switch: edge2core,460.0,0.0
-edgenode3,460.0,0.00165
 edgeuser2,460.0,0.001192496
-edgenode2,460.0,0.00165
 Switch: edgeedge2,460.0,0.001192496
+edgenode3,460.0,0.00165
+edgeuser1,460.0,0.001884496
+Switch: edgecore,460.0,0.00335
+edgenode1,460.0,8.5E-4
+Switch: edgeedge1,460.0,0.001884496
 Switch: edgeedge3,460.0,0.00335
 edgenode4,460.0,0.0023
-Switch: edgeedge1,460.0,0.001884496
-edgeuser1,460.0,0.001884496
-edgenode1,460.0,8.5E-4
-Switch: edgecore,460.0,0.00335
-netcloudhost3,460.0,0.0
-Switch: netcloudedge1,460.0,0.0
-netcloudhost1,460.0,0.0
-netcloudhost2,460.0,0.0
+edgenode2,460.0,0.00165
 Switch: netcloudedge2,460.0,0.0
 netcloudhost4,460.0,0.0
 Switch: netcloudcore,460.0,0.0
-Switch: internetgw,460.0,0.0
-Switch: netcloudgw,460.0,0.0
+netcloudhost2,460.0,0.0
+Switch: netcloudedge1,460.0,0.0
+netcloudhost1,460.0,0.0
+netcloudhost3,460.0,0.0
 Switch: edgegw,460.0,0.00335
+Switch: netcloudgw,460.0,0.0
+Switch: internetgw,460.0,0.0
 Switch: edge2gw,460.0,0.0
 Switch: inter2,460.0,0.0
 internethost,460.0,0.0
 Switch: internetcore,460.0,0.0
 Switch: internetedge,460.0,0.0
+Switch: edge2core,465.0,0.0
 edgeuser3,465.0,0.0
 Switch: edge2edge1,465.0,0.0
-Switch: edge2core,465.0,0.0
-edgenode3,465.0,0.001805
 edgeuser2,465.0,0.001802496
-edgenode2,465.0,0.001801
 Switch: edgeedge2,465.0,0.001802496
+edgenode3,465.0,0.001805
+edgeuser1,465.0,0.001982
+Switch: edgecore,465.0,0.003598504
+edgenode1,465.0,8.93504E-4
+Switch: edgeedge1,465.0,0.001982
 Switch: edgeedge3,465.0,0.003598504
 edgenode4,465.0,0.0024
-Switch: edgeedge1,465.0,0.001982
-edgeuser1,465.0,0.001982
-edgenode1,465.0,8.93504E-4
-Switch: edgecore,465.0,0.003598504
-netcloudhost3,465.0,0.0
-Switch: netcloudedge1,465.0,0.0
-netcloudhost1,465.0,0.0
-netcloudhost2,465.0,0.0
+edgenode2,465.0,0.001801
 Switch: netcloudedge2,465.0,0.0
 netcloudhost4,465.0,0.0
 Switch: netcloudcore,465.0,0.0
-Switch: internetgw,465.0,0.0
-Switch: netcloudgw,465.0,0.0
+netcloudhost2,465.0,0.0
+Switch: netcloudedge1,465.0,0.0
+netcloudhost1,465.0,0.0
+netcloudhost3,465.0,0.0
 Switch: edgegw,465.0,0.003598504
+Switch: netcloudgw,465.0,0.0
+Switch: internetgw,465.0,0.0
 Switch: edge2gw,465.0,0.0
 Switch: inter2,465.0,0.0
 internethost,465.0,0.0
 Switch: internetcore,465.0,0.0
 Switch: internetedge,465.0,0.0
+Switch: edge2core,470.0,0.0
 edgeuser3,470.0,0.0
 Switch: edge2edge1,470.0,0.0
-Switch: edge2core,470.0,0.0
-edgenode3,470.0,0.001785496
 edgeuser2,470.0,0.002102488
-edgenode2,470.0,0.001884496
 Switch: edgeedge2,470.0,0.002102488
+edgenode3,470.0,0.001785496
+edgeuser1,470.0,0.001780504
+Switch: edgecore,470.0,0.003601496
+edgenode1,470.0,8.81504E-4
+Switch: edgeedge1,470.0,0.001780504
 Switch: edgeedge3,470.0,0.003601496
 edgenode4,470.0,0.0025
-Switch: edgeedge1,470.0,0.001780504
-edgeuser1,470.0,0.001780504
-edgenode1,470.0,8.81504E-4
-Switch: edgecore,470.0,0.003601496
-netcloudhost3,470.0,0.0
-Switch: netcloudedge1,470.0,0.0
-netcloudhost1,470.0,0.0
-netcloudhost2,470.0,0.0
+edgenode2,470.0,0.001884496
 Switch: netcloudedge2,470.0,0.0
 netcloudhost4,470.0,0.0
 Switch: netcloudcore,470.0,0.0
-Switch: internetgw,470.0,0.0
-Switch: netcloudgw,470.0,0.0
+netcloudhost2,470.0,0.0
+Switch: netcloudedge1,470.0,0.0
+netcloudhost1,470.0,0.0
+netcloudhost3,470.0,0.0
 Switch: edgegw,470.0,0.003601496
+Switch: netcloudgw,470.0,0.0
+Switch: internetgw,470.0,0.0
 Switch: edge2gw,470.0,0.0
 Switch: inter2,470.0,0.0
 internethost,470.0,0.0
 Switch: internetcore,470.0,0.0
 Switch: internetedge,470.0,0.0
+Switch: edge2core,475.0,0.0
 edgeuser3,475.0,0.0
 Switch: edge2edge1,475.0,0.0
-Switch: edge2core,475.0,0.0
-edgenode3,475.0,0.001853504
 edgeuser2,475.0,0.001554
-edgenode2,475.0,0.001773
 Switch: edgeedge2,475.0,0.001554
+edgenode3,475.0,0.001853504
+edgeuser1,475.0,0.001696496
+Switch: edgecore,475.0,0.003676504
+edgenode1,475.0,9.5E-4
+Switch: edgeedge1,475.0,0.001696496
 Switch: edgeedge3,475.0,0.003676504
 edgenode4,475.0,0.00236
-Switch: edgeedge1,475.0,0.001696496
-edgeuser1,475.0,0.001696496
-edgenode1,475.0,9.5E-4
-Switch: edgecore,475.0,0.003676504
-netcloudhost3,475.0,0.0
-Switch: netcloudedge1,475.0,0.0
-netcloudhost1,475.0,0.0
-netcloudhost2,475.0,0.0
+edgenode2,475.0,0.001773
 Switch: netcloudedge2,475.0,0.0
 netcloudhost4,475.0,0.0
 Switch: netcloudcore,475.0,0.0
-Switch: internetgw,475.0,0.0
-Switch: netcloudgw,475.0,0.0
+netcloudhost2,475.0,0.0
+Switch: netcloudedge1,475.0,0.0
+netcloudhost1,475.0,0.0
+netcloudhost3,475.0,0.0
 Switch: edgegw,475.0,0.003676504
+Switch: netcloudgw,475.0,0.0
+Switch: internetgw,475.0,0.0
 Switch: edge2gw,475.0,0.0
 Switch: inter2,475.0,0.0
 internethost,475.0,0.0
 Switch: internetcore,475.0,0.0
 Switch: internetedge,475.0,0.0
+Switch: edge2core,480.0,0.0
 edgeuser3,480.0,0.0
 Switch: edge2edge1,480.0,0.0
-Switch: edge2core,480.0,0.0
-edgenode3,480.0,0.001792
 edgeuser2,480.0,0.001386496
-edgenode2,480.0,0.00185
 Switch: edgeedge2,480.0,0.001386496
+edgenode3,480.0,0.001792
+edgeuser1,480.0,0.001699496
+Switch: edgecore,480.0,0.003642
+edgenode1,480.0,9.0E-4
+Switch: edgeedge1,480.0,0.001699496
 Switch: edgeedge3,480.0,0.003642
 edgenode4,480.0,0.002460504
-Switch: edgeedge1,480.0,0.001699496
-edgeuser1,480.0,0.001699496
-edgenode1,480.0,9.0E-4
-Switch: edgecore,480.0,0.003642
-netcloudhost3,480.0,0.0
-Switch: netcloudedge1,480.0,0.0
-netcloudhost1,480.0,0.0
-netcloudhost2,480.0,0.0
+edgenode2,480.0,0.00185
 Switch: netcloudedge2,480.0,0.0
 netcloudhost4,480.0,0.0
 Switch: netcloudcore,480.0,0.0
-Switch: internetgw,480.0,0.0
-Switch: netcloudgw,480.0,0.0
+netcloudhost2,480.0,0.0
+Switch: netcloudedge1,480.0,0.0
+netcloudhost1,480.0,0.0
+netcloudhost3,480.0,0.0
 Switch: edgegw,480.0,0.003642
+Switch: netcloudgw,480.0,0.0
+Switch: internetgw,480.0,0.0
 Switch: edge2gw,480.0,0.0
 Switch: inter2,480.0,0.0
 internethost,480.0,0.0
 Switch: internetcore,480.0,0.0
 Switch: internetedge,480.0,0.0
+Switch: edge2core,485.0,0.0
 edgeuser3,485.0,0.0
 Switch: edge2edge1,485.0,0.0
-Switch: edge2core,485.0,0.0
-edgenode3,485.0,0.001367504
 edgeuser2,485.0,0.001712496
-edgenode2,485.0,0.001325
 Switch: edgeedge2,485.0,0.001712496
+edgenode3,485.0,0.001367504
+edgeuser1,485.0,0.001924
+Switch: edgecore,485.0,0.002682504
+edgenode1,485.0,6.9E-4
+Switch: edgeedge1,485.0,0.001924
 Switch: edgeedge3,485.0,0.002682504
 edgenode4,485.0,0.001793
-Switch: edgeedge1,485.0,0.001924
-edgeuser1,485.0,0.001924
-edgenode1,485.0,6.9E-4
-Switch: edgecore,485.0,0.002682504
-netcloudhost3,485.0,0.0
-Switch: netcloudedge1,485.0,0.0
-netcloudhost1,485.0,0.0
-netcloudhost2,485.0,0.0
+edgenode2,485.0,0.001325
 Switch: netcloudedge2,485.0,0.0
 netcloudhost4,485.0,0.0
 Switch: netcloudcore,485.0,0.0
-Switch: internetgw,485.0,0.0
-Switch: netcloudgw,485.0,0.0
+netcloudhost2,485.0,0.0
+Switch: netcloudedge1,485.0,0.0
+netcloudhost1,485.0,0.0
+netcloudhost3,485.0,0.0
 Switch: edgegw,485.0,0.002682504
+Switch: netcloudgw,485.0,0.0
+Switch: internetgw,485.0,0.0
 Switch: edge2gw,485.0,0.0
 Switch: inter2,485.0,0.0
 internethost,485.0,0.0
 Switch: internetcore,485.0,0.0
 Switch: internetedge,485.0,0.0
+Switch: edge2core,490.0,0.0
 edgeuser3,490.0,0.0
 Switch: edge2edge1,490.0,0.0
-Switch: edge2core,490.0,0.0
-edgenode3,490.0,0.001838496
 edgeuser2,490.0,0.001507496
-edgenode2,490.0,0.001821504
 Switch: edgeedge2,490.0,0.001507496
+edgenode3,490.0,0.001838496
+edgeuser1,490.0,0.001629992
+Switch: edgecore,490.0,0.003710504
+edgenode1,490.0,9.24504E-4
+Switch: edgeedge1,490.0,0.001629992
 Switch: edgeedge3,490.0,0.003710504
 edgenode4,490.0,0.002444
-Switch: edgeedge1,490.0,0.001629992
-edgeuser1,490.0,0.001629992
-edgenode1,490.0,9.24504E-4
-Switch: edgecore,490.0,0.003710504
-netcloudhost3,490.0,0.0
-Switch: netcloudedge1,490.0,0.0
-netcloudhost1,490.0,0.0
-netcloudhost2,490.0,0.0
+edgenode2,490.0,0.001821504
 Switch: netcloudedge2,490.0,0.0
 netcloudhost4,490.0,0.0
 Switch: netcloudcore,490.0,0.0
-Switch: internetgw,490.0,0.0
-Switch: netcloudgw,490.0,0.0
+netcloudhost2,490.0,0.0
+Switch: netcloudedge1,490.0,0.0
+netcloudhost1,490.0,0.0
+netcloudhost3,490.0,0.0
 Switch: edgegw,490.0,0.003710504
+Switch: netcloudgw,490.0,0.0
+Switch: internetgw,490.0,0.0
 Switch: edge2gw,490.0,0.0
 Switch: inter2,490.0,0.0
 internethost,490.0,0.0
 Switch: internetcore,490.0,0.0
 Switch: internetedge,490.0,0.0
+Switch: edge2core,495.0,0.0
 edgeuser3,495.0,0.0
 Switch: edge2edge1,495.0,0.0
-Switch: edge2core,495.0,0.0
-edgenode3,495.0,0.001708496
 edgeuser2,495.0,0.00165
-edgenode2,495.0,0.001696496
 Switch: edgeedge2,495.0,0.00165
+edgenode3,495.0,0.001708496
+edgeuser1,495.0,0.001501504
+Switch: edgecore,495.0,0.003408496
+edgenode1,495.0,8.5E-4
+Switch: edgeedge1,495.0,0.001501504
 Switch: edgeedge3,495.0,0.003408496
 edgenode4,495.0,0.002283504
-Switch: edgeedge1,495.0,0.001501504
-edgeuser1,495.0,0.001501504
-edgenode1,495.0,8.5E-4
-Switch: edgecore,495.0,0.003408496
-netcloudhost3,495.0,0.0
-Switch: netcloudedge1,495.0,0.0
-netcloudhost1,495.0,0.0
-netcloudhost2,495.0,0.0
+edgenode2,495.0,0.001696496
 Switch: netcloudedge2,495.0,0.0
 netcloudhost4,495.0,0.0
 Switch: netcloudcore,495.0,0.0
-Switch: internetgw,495.0,0.0
-Switch: netcloudgw,495.0,0.0
+netcloudhost2,495.0,0.0
+Switch: netcloudedge1,495.0,0.0
+netcloudhost1,495.0,0.0
+netcloudhost3,495.0,0.0
 Switch: edgegw,495.0,0.003408496
+Switch: netcloudgw,495.0,0.0
+Switch: internetgw,495.0,0.0
 Switch: edge2gw,495.0,0.0
 Switch: inter2,495.0,0.0
 internethost,495.0,0.0
 Switch: internetcore,495.0,0.0
 Switch: internetedge,495.0,0.0
+Switch: edge2core,500.0,0.0
 edgeuser3,500.0,0.0
 Switch: edge2edge1,500.0,0.0
-Switch: edge2core,500.0,0.0
-edgenode3,500.0,0.001852
 edgeuser2,500.0,0.001528992
-edgenode2,500.0,0.001831
 Switch: edgeedge2,500.0,0.001528992
+edgenode3,500.0,0.001852
+edgeuser1,500.0,0.001746008
+Switch: edgecore,500.0,0.003652504
+edgenode1,500.0,9.0E-4
+Switch: edgeedge1,500.0,0.001746008
 Switch: edgeedge3,500.0,0.003652504
 edgenode4,500.0,0.002414008
-Switch: edgeedge1,500.0,0.001746008
-edgeuser1,500.0,0.001746008
-edgenode1,500.0,9.0E-4
-Switch: edgecore,500.0,0.003652504
-netcloudhost3,500.0,0.0
-Switch: netcloudedge1,500.0,0.0
-netcloudhost1,500.0,0.0
-netcloudhost2,500.0,0.0
+edgenode2,500.0,0.001831
 Switch: netcloudedge2,500.0,0.0
 netcloudhost4,500.0,0.0
 Switch: netcloudcore,500.0,0.0
-Switch: internetgw,500.0,0.0
-Switch: netcloudgw,500.0,0.0
+netcloudhost2,500.0,0.0
+Switch: netcloudedge1,500.0,0.0
+netcloudhost1,500.0,0.0
+netcloudhost3,500.0,0.0
 Switch: edgegw,500.0,0.003652504
+Switch: netcloudgw,500.0,0.0
+Switch: internetgw,500.0,0.0
 Switch: edge2gw,500.0,0.0
 Switch: inter2,500.0,0.0
 internethost,500.0,0.0
 Switch: internetcore,500.0,0.0
 Switch: internetedge,500.0,0.0
+Switch: edge2core,505.0,0.0
 edgeuser3,505.0,0.0
 Switch: edge2edge1,505.0,0.0
-Switch: edge2core,505.0,0.0
-edgenode3,505.0,0.0014
 edgeuser2,505.0,0.001763
-edgenode2,505.0,0.00135
 Switch: edgeedge2,505.0,0.001763
+edgenode3,505.0,0.0014
+edgeuser1,505.0,9.39E-4
+Switch: edgecore,505.0,0.00274
+edgenode1,505.0,6.9E-4
+Switch: edgeedge1,505.0,9.39E-4
 Switch: edgeedge3,505.0,0.00274
 edgenode4,505.0,0.00175
-Switch: edgeedge1,505.0,9.39E-4
-edgeuser1,505.0,9.39E-4
-edgenode1,505.0,6.9E-4
-Switch: edgecore,505.0,0.00274
-netcloudhost3,505.0,0.0
-Switch: netcloudedge1,505.0,0.0
-netcloudhost1,505.0,0.0
-netcloudhost2,505.0,0.0
+edgenode2,505.0,0.00135
 Switch: netcloudedge2,505.0,0.0
 netcloudhost4,505.0,0.0
 Switch: netcloudcore,505.0,0.0
-Switch: internetgw,505.0,0.0
-Switch: netcloudgw,505.0,0.0
+netcloudhost2,505.0,0.0
+Switch: netcloudedge1,505.0,0.0
+netcloudhost1,505.0,0.0
+netcloudhost3,505.0,0.0
 Switch: edgegw,505.0,0.00274
+Switch: netcloudgw,505.0,0.0
+Switch: internetgw,505.0,0.0
 Switch: edge2gw,505.0,0.0
 Switch: inter2,505.0,0.0
 internethost,505.0,0.0
 Switch: internetcore,505.0,0.0
 Switch: internetedge,505.0,0.0
+Switch: edge2core,510.0,0.0
 edgeuser3,510.0,0.0
 Switch: edge2edge1,510.0,0.0
-Switch: edge2core,510.0,0.0
-edgenode3,510.0,0.001398
 edgeuser2,510.0,0.001442
-edgenode2,510.0,0.00148
 Switch: edgeedge2,510.0,0.001442
+edgenode3,510.0,0.001398
+edgeuser1,510.0,0.00275
+Switch: edgecore,510.0,0.002898
+edgenode1,510.0,7.5E-4
+Switch: edgeedge1,510.0,0.00275
 Switch: edgeedge3,510.0,0.002898
 edgenode4,510.0,0.002
-Switch: edgeedge1,510.0,0.00275
-edgeuser1,510.0,0.00275
-edgenode1,510.0,7.5E-4
-Switch: edgecore,510.0,0.002898
-netcloudhost3,510.0,0.0
-Switch: netcloudedge1,510.0,0.0
-netcloudhost1,510.0,0.0
-netcloudhost2,510.0,0.0
+edgenode2,510.0,0.00148
 Switch: netcloudedge2,510.0,0.0
 netcloudhost4,510.0,0.0
 Switch: netcloudcore,510.0,0.0
-Switch: internetgw,510.0,0.0
-Switch: netcloudgw,510.0,0.0
+netcloudhost2,510.0,0.0
+Switch: netcloudedge1,510.0,0.0
+netcloudhost1,510.0,0.0
+netcloudhost3,510.0,0.0
 Switch: edgegw,510.0,0.002898
+Switch: netcloudgw,510.0,0.0
+Switch: internetgw,510.0,0.0
 Switch: edge2gw,510.0,0.0
 Switch: inter2,510.0,0.0
 internethost,510.0,0.0
 Switch: internetcore,510.0,0.0
 Switch: internetedge,510.0,0.0
+Switch: edge2core,515.0,0.0
 edgeuser3,515.0,0.0
 Switch: edge2edge1,515.0,0.0
-Switch: edge2core,515.0,0.0
-edgenode3,515.0,0.001837496
 edgeuser2,515.0,0.001113496
-edgenode2,515.0,0.001837504
 Switch: edgeedge2,515.0,0.001113496
+edgenode3,515.0,0.001837496
+edgeuser1,515.0,0.001744512
+Switch: edgecore,515.0,0.003675
+edgenode1,515.0,9.0E-4
+Switch: edgeedge1,515.0,0.001744512
 Switch: edgeedge3,515.0,0.003675
 edgenode4,515.0,0.002473008
-Switch: edgeedge1,515.0,0.001744512
-edgeuser1,515.0,0.001744512
-edgenode1,515.0,9.0E-4
-Switch: edgecore,515.0,0.003675
-netcloudhost3,515.0,0.0
-Switch: netcloudedge1,515.0,0.0
-netcloudhost1,515.0,0.0
-netcloudhost2,515.0,0.0
+edgenode2,515.0,0.001837504
 Switch: netcloudedge2,515.0,0.0
 netcloudhost4,515.0,0.0
 Switch: netcloudcore,515.0,0.0
-Switch: internetgw,515.0,0.0
-Switch: netcloudgw,515.0,0.0
+netcloudhost2,515.0,0.0
+Switch: netcloudedge1,515.0,0.0
+netcloudhost1,515.0,0.0
+netcloudhost3,515.0,0.0
 Switch: edgegw,515.0,0.003675
+Switch: netcloudgw,515.0,0.0
+Switch: internetgw,515.0,0.0
 Switch: edge2gw,515.0,0.0
 Switch: inter2,515.0,0.0
 internethost,515.0,0.0
 Switch: internetcore,515.0,0.0
 Switch: internetedge,515.0,0.0
+Switch: edge2core,520.0,0.0
 edgeuser3,520.0,0.0
 Switch: edge2edge1,520.0,0.0
-Switch: edge2core,520.0,0.0
-edgenode3,520.0,0.00165
 edgeuser2,520.0,0.00145
-edgenode2,520.0,0.0016
 Switch: edgeedge2,520.0,0.00145
+edgenode3,520.0,0.00165
+edgeuser1,520.0,0.0012
+Switch: edgecore,520.0,0.0033
+edgenode1,520.0,8.5E-4
+Switch: edgeedge1,520.0,0.0012
 Switch: edgeedge3,520.0,0.0033
 edgenode4,520.0,0.0021
-Switch: edgeedge1,520.0,0.0012
-edgeuser1,520.0,0.0012
-edgenode1,520.0,8.5E-4
-Switch: edgecore,520.0,0.0033
-netcloudhost3,520.0,0.0
-Switch: netcloudedge1,520.0,0.0
-netcloudhost1,520.0,0.0
-netcloudhost2,520.0,0.0
+edgenode2,520.0,0.0016
 Switch: netcloudedge2,520.0,0.0
 netcloudhost4,520.0,0.0
 Switch: netcloudcore,520.0,0.0
-Switch: internetgw,520.0,0.0
-Switch: netcloudgw,520.0,0.0
+netcloudhost2,520.0,0.0
+Switch: netcloudedge1,520.0,0.0
+netcloudhost1,520.0,0.0
+netcloudhost3,520.0,0.0
 Switch: edgegw,520.0,0.0033
+Switch: netcloudgw,520.0,0.0
+Switch: internetgw,520.0,0.0
 Switch: edge2gw,520.0,0.0
 Switch: inter2,520.0,0.0
 internethost,520.0,0.0
 Switch: internetcore,520.0,0.0
 Switch: internetedge,520.0,0.0
+Switch: edge2core,525.0,0.0
 edgeuser3,525.0,0.0
 Switch: edge2edge1,525.0,0.0
-Switch: edge2core,525.0,0.0
-edgenode3,525.0,0.001640504
 edgeuser2,525.0,0.001843496
-edgenode2,525.0,0.001582496
 Switch: edgeedge2,525.0,0.001843496
+edgenode3,525.0,0.001640504
+edgeuser1,525.0,0.001471008
+Switch: edgecore,525.0,0.003229504
+edgenode1,525.0,7.89E-4
+Switch: edgeedge1,525.0,0.001471008
 Switch: edgeedge3,525.0,0.003229504
 edgenode4,525.0,0.002289496
-Switch: edgeedge1,525.0,0.001471008
-edgeuser1,525.0,0.001471008
-edgenode1,525.0,7.89E-4
-Switch: edgecore,525.0,0.003229504
-netcloudhost3,525.0,0.0
-Switch: netcloudedge1,525.0,0.0
-netcloudhost1,525.0,0.0
-netcloudhost2,525.0,0.0
+edgenode2,525.0,0.001582496
 Switch: netcloudedge2,525.0,0.0
 netcloudhost4,525.0,0.0
 Switch: netcloudcore,525.0,0.0
-Switch: internetgw,525.0,0.0
-Switch: netcloudgw,525.0,0.0
+netcloudhost2,525.0,0.0
+Switch: netcloudedge1,525.0,0.0
+netcloudhost1,525.0,0.0
+netcloudhost3,525.0,0.0
 Switch: edgegw,525.0,0.003229504
+Switch: netcloudgw,525.0,0.0
+Switch: internetgw,525.0,0.0
 Switch: edge2gw,525.0,0.0
 Switch: inter2,525.0,0.0
 internethost,525.0,0.0
 Switch: internetcore,525.0,0.0
 Switch: internetedge,525.0,0.0
+Switch: edge2core,530.0,0.0
 edgeuser3,530.0,0.0
 Switch: edge2edge1,530.0,0.0
-Switch: edge2core,530.0,0.0
-edgenode3,530.0,0.00165
 edgeuser2,530.0,0.00165
-edgenode2,530.0,0.00165
 Switch: edgeedge2,530.0,0.00165
+edgenode3,530.0,0.00165
+edgeuser1,530.0,0.00145
+Switch: edgecore,530.0,0.0033
+edgenode1,530.0,8.0E-4
+Switch: edgeedge1,530.0,0.00145
 Switch: edgeedge3,530.0,0.0033
 edgenode4,530.0,0.00215
-Switch: edgeedge1,530.0,0.00145
-edgeuser1,530.0,0.00145
-edgenode1,530.0,8.0E-4
-Switch: edgecore,530.0,0.0033
-netcloudhost3,530.0,0.0
-Switch: netcloudedge1,530.0,0.0
-netcloudhost1,530.0,0.0
-netcloudhost2,530.0,0.0
+edgenode2,530.0,0.00165
 Switch: netcloudedge2,530.0,0.0
 netcloudhost4,530.0,0.0
 Switch: netcloudcore,530.0,0.0
-Switch: internetgw,530.0,0.0
-Switch: netcloudgw,530.0,0.0
+netcloudhost2,530.0,0.0
+Switch: netcloudedge1,530.0,0.0
+netcloudhost1,530.0,0.0
+netcloudhost3,530.0,0.0
 Switch: edgegw,530.0,0.0033
+Switch: netcloudgw,530.0,0.0
+Switch: internetgw,530.0,0.0
 Switch: edge2gw,530.0,0.0
 Switch: inter2,530.0,0.0
 internethost,530.0,0.0
 Switch: internetcore,530.0,0.0
 Switch: internetedge,530.0,0.0
+Switch: edge2core,535.0,0.0
 edgeuser3,535.0,0.0
 Switch: edge2edge1,535.0,0.0
-Switch: edge2core,535.0,0.0
-edgenode3,535.0,0.00115
 edgeuser2,535.0,0.001756
-edgenode2,535.0,0.0011
 Switch: edgeedge2,535.0,0.001756
+edgenode3,535.0,0.00115
+edgeuser1,535.0,3.87496E-4
+Switch: edgecore,535.0,0.0023
+edgenode1,535.0,6.0E-4
+Switch: edgeedge1,535.0,3.87496E-4
 Switch: edgeedge3,535.0,0.0023
 edgenode4,535.0,0.001385008
-Switch: edgeedge1,535.0,3.87496E-4
-edgeuser1,535.0,3.87496E-4
-edgenode1,535.0,6.0E-4
-Switch: edgecore,535.0,0.0023
-netcloudhost3,535.0,0.0
-Switch: netcloudedge1,535.0,0.0
-netcloudhost1,535.0,0.0
-netcloudhost2,535.0,0.0
+edgenode2,535.0,0.0011
 Switch: netcloudedge2,535.0,0.0
 netcloudhost4,535.0,0.0
 Switch: netcloudcore,535.0,0.0
-Switch: internetgw,535.0,0.0
-Switch: netcloudgw,535.0,0.0
+netcloudhost2,535.0,0.0
+Switch: netcloudedge1,535.0,0.0
+netcloudhost1,535.0,0.0
+netcloudhost3,535.0,0.0
 Switch: edgegw,535.0,0.0023
+Switch: netcloudgw,535.0,0.0
+Switch: internetgw,535.0,0.0
 Switch: edge2gw,535.0,0.0
 Switch: inter2,535.0,0.0
 internethost,535.0,0.0
 Switch: internetcore,535.0,0.0
 Switch: internetedge,535.0,0.0
+Switch: edge2core,540.0,0.0
 edgeuser3,540.0,0.0
 Switch: edge2edge1,540.0,0.0
-Switch: edge2core,540.0,0.0
-edgenode3,540.0,0.001132
 edgeuser2,540.0,0.001441992
-edgenode2,540.0,0.001118504
 Switch: edgeedge2,540.0,0.001441992
+edgenode3,540.0,0.001132
+edgeuser1,540.0,0.001433
+Switch: edgecore,540.0,0.002237
+edgenode1,540.0,5.5E-4
+Switch: edgeedge1,540.0,0.001433
 Switch: edgeedge3,540.0,0.002237
 edgenode4,540.0,0.0017
-Switch: edgeedge1,540.0,0.001433
-edgeuser1,540.0,0.001433
-edgenode1,540.0,5.5E-4
-Switch: edgecore,540.0,0.002237
-netcloudhost3,540.0,0.0
-Switch: netcloudedge1,540.0,0.0
-netcloudhost1,540.0,0.0
-netcloudhost2,540.0,0.0
+edgenode2,540.0,0.001118504
 Switch: netcloudedge2,540.0,0.0
 netcloudhost4,540.0,0.0
 Switch: netcloudcore,540.0,0.0
-Switch: internetgw,540.0,0.0
-Switch: netcloudgw,540.0,0.0
+netcloudhost2,540.0,0.0
+Switch: netcloudedge1,540.0,0.0
+netcloudhost1,540.0,0.0
+netcloudhost3,540.0,0.0
 Switch: edgegw,540.0,0.002237
+Switch: netcloudgw,540.0,0.0
+Switch: internetgw,540.0,0.0
 Switch: edge2gw,540.0,0.0
 Switch: inter2,540.0,0.0
 internethost,540.0,0.0
 Switch: internetcore,540.0,0.0
 Switch: internetedge,540.0,0.0
+Switch: edge2core,545.0,0.0
 edgeuser3,545.0,0.0
 Switch: edge2edge1,545.0,0.0
-Switch: edge2core,545.0,0.0
-edgenode3,545.0,0.00185
 edgeuser2,545.0,0.001382496
-edgenode2,545.0,0.00185
 Switch: edgeedge2,545.0,0.001382496
+edgenode3,545.0,0.00185
+edgeuser1,545.0,0.003
+Switch: edgecore,545.0,0.0037
+edgenode1,545.0,9.5E-4
+Switch: edgeedge1,545.0,0.003
 Switch: edgeedge3,545.0,0.0037
 edgenode4,545.0,0.0024
-Switch: edgeedge1,545.0,0.003
-edgeuser1,545.0,0.003
-edgenode1,545.0,9.5E-4
-Switch: edgecore,545.0,0.0037
-netcloudhost3,545.0,0.0
-Switch: netcloudedge1,545.0,0.0
-netcloudhost1,545.0,0.0
-netcloudhost2,545.0,0.0
+edgenode2,545.0,0.00185
 Switch: netcloudedge2,545.0,0.0
 netcloudhost4,545.0,0.0
 Switch: netcloudcore,545.0,0.0
-Switch: internetgw,545.0,0.0
-Switch: netcloudgw,545.0,0.0
+netcloudhost2,545.0,0.0
+Switch: netcloudedge1,545.0,0.0
+netcloudhost1,545.0,0.0
+netcloudhost3,545.0,0.0
 Switch: edgegw,545.0,0.0037
+Switch: netcloudgw,545.0,0.0
+Switch: internetgw,545.0,0.0
 Switch: edge2gw,545.0,0.0
 Switch: inter2,545.0,0.0
 internethost,545.0,0.0
 Switch: internetcore,545.0,0.0
 Switch: internetedge,545.0,0.0
+Switch: edge2core,550.0,0.0
 edgeuser3,550.0,0.0
 Switch: edge2edge1,550.0,0.0
-Switch: edge2core,550.0,0.0
-edgenode3,550.0,0.001817
 edgeuser2,550.0,0.001457992
-edgenode2,550.0,0.00185
 Switch: edgeedge2,550.0,0.001457992
+edgenode3,550.0,0.001817
+edgeuser1,550.0,0.001644504
+Switch: edgecore,550.0,0.003686
+edgenode1,550.0,9.19E-4
+Switch: edgeedge1,550.0,0.001644504
 Switch: edgeedge3,550.0,0.003686
 edgenode4,550.0,0.0025
-Switch: edgeedge1,550.0,0.001644504
-edgeuser1,550.0,0.001644504
-edgenode1,550.0,9.19E-4
-Switch: edgecore,550.0,0.003686
-netcloudhost3,550.0,0.0
-Switch: netcloudedge1,550.0,0.0
-netcloudhost1,550.0,0.0
-netcloudhost2,550.0,0.0
+edgenode2,550.0,0.00185
 Switch: netcloudedge2,550.0,0.0
 netcloudhost4,550.0,0.0
 Switch: netcloudcore,550.0,0.0
-Switch: internetgw,550.0,0.0
-Switch: netcloudgw,550.0,0.0
+netcloudhost2,550.0,0.0
+Switch: netcloudedge1,550.0,0.0
+netcloudhost1,550.0,0.0
+netcloudhost3,550.0,0.0
 Switch: edgegw,550.0,0.003686
+Switch: netcloudgw,550.0,0.0
+Switch: internetgw,550.0,0.0
 Switch: edge2gw,550.0,0.0
 Switch: inter2,550.0,0.0
 internethost,550.0,0.0
 Switch: internetcore,550.0,0.0
 Switch: internetedge,550.0,0.0
+Switch: edge2core,555.0,0.0
 edgeuser3,555.0,0.0
 Switch: edge2edge1,555.0,0.0
-Switch: edge2core,555.0,0.0
-edgenode3,555.0,0.001823504
 edgeuser2,555.0,0.00165
-edgenode2,555.0,0.001763
 Switch: edgeedge2,555.0,0.00165
+edgenode3,555.0,0.001823504
+edgeuser1,555.0,0.001368496
+Switch: edgecore,555.0,0.003586504
+edgenode1,555.0,9.0E-4
+Switch: edgeedge1,555.0,0.001368496
 Switch: edgeedge3,555.0,0.003586504
 edgenode4,555.0,0.0024
-Switch: edgeedge1,555.0,0.001368496
-edgeuser1,555.0,0.001368496
-edgenode1,555.0,9.0E-4
-Switch: edgecore,555.0,0.003586504
-netcloudhost3,555.0,0.0
-Switch: netcloudedge1,555.0,0.0
-netcloudhost1,555.0,0.0
-netcloudhost2,555.0,0.0
+edgenode2,555.0,0.001763
 Switch: netcloudedge2,555.0,0.0
 netcloudhost4,555.0,0.0
 Switch: netcloudcore,555.0,0.0
-Switch: internetgw,555.0,0.0
-Switch: netcloudgw,555.0,0.0
+netcloudhost2,555.0,0.0
+Switch: netcloudedge1,555.0,0.0
+netcloudhost1,555.0,0.0
+netcloudhost3,555.0,0.0
 Switch: edgegw,555.0,0.003586504
+Switch: netcloudgw,555.0,0.0
+Switch: internetgw,555.0,0.0
 Switch: edge2gw,555.0,0.0
 Switch: inter2,555.0,0.0
 internethost,555.0,0.0
 Switch: internetcore,555.0,0.0
 Switch: internetedge,555.0,0.0
+Switch: edge2core,560.0,0.0
 edgeuser3,560.0,0.0
 Switch: edge2edge1,560.0,0.0
-Switch: edge2core,560.0,0.0
-edgenode3,560.0,0.001597
 edgeuser2,560.0,0.001728488
-edgenode2,560.0,0.001618008
 Switch: edgeedge2,560.0,0.001728488
+edgenode3,560.0,0.001597
+edgeuser1,560.0,0.0014
+Switch: edgecore,560.0,0.003197
+edgenode1,560.0,8.0E-4
+Switch: edgeedge1,560.0,0.0014
 Switch: edgeedge3,560.0,0.003197
 edgenode4,560.0,0.00215
-Switch: edgeedge1,560.0,0.0014
-edgeuser1,560.0,0.0014
-edgenode1,560.0,8.0E-4
-Switch: edgecore,560.0,0.003197
-netcloudhost3,560.0,0.0
-Switch: netcloudedge1,560.0,0.0
-netcloudhost1,560.0,0.0
-netcloudhost2,560.0,0.0
+edgenode2,560.0,0.001618008
 Switch: netcloudedge2,560.0,0.0
 netcloudhost4,560.0,0.0
 Switch: netcloudcore,560.0,0.0
-Switch: internetgw,560.0,0.0
-Switch: netcloudgw,560.0,0.0
+netcloudhost2,560.0,0.0
+Switch: netcloudedge1,560.0,0.0
+netcloudhost1,560.0,0.0
+netcloudhost3,560.0,0.0
 Switch: edgegw,560.0,0.003197
+Switch: netcloudgw,560.0,0.0
+Switch: internetgw,560.0,0.0
 Switch: edge2gw,560.0,0.0
 Switch: inter2,560.0,0.0
 internethost,560.0,0.0
 Switch: internetcore,560.0,0.0
 Switch: internetedge,560.0,0.0
+Switch: edge2core,565.0,0.0
 edgeuser3,565.0,0.0
 Switch: edge2edge1,565.0,0.0
-Switch: edge2core,565.0,0.0
-edgenode3,565.0,0.001699504
 edgeuser2,565.0,0.001865504
-edgenode2,565.0,0.001725504
 Switch: edgeedge2,565.0,0.001865504
+edgenode3,565.0,0.001699504
+edgeuser1,565.0,0.001724488
+Switch: edgecore,565.0,0.003384016
+edgenode1,565.0,8.09008E-4
+Switch: edgeedge1,565.0,0.001724488
 Switch: edgeedge3,565.0,0.003384016
 edgenode4,565.0,0.002349
-Switch: edgeedge1,565.0,0.001724488
-edgeuser1,565.0,0.001724488
-edgenode1,565.0,8.09008E-4
-Switch: edgecore,565.0,0.003384016
-netcloudhost3,565.0,0.0
-Switch: netcloudedge1,565.0,0.0
-netcloudhost1,565.0,0.0
-netcloudhost2,565.0,0.0
+edgenode2,565.0,0.001725504
 Switch: netcloudedge2,565.0,0.0
 netcloudhost4,565.0,0.0
 Switch: netcloudcore,565.0,0.0
-Switch: internetgw,565.0,0.0
-Switch: netcloudgw,565.0,0.0
+netcloudhost2,565.0,0.0
+Switch: netcloudedge1,565.0,0.0
+netcloudhost1,565.0,0.0
+netcloudhost3,565.0,0.0
 Switch: edgegw,565.0,0.003384016
+Switch: netcloudgw,565.0,0.0
+Switch: internetgw,565.0,0.0
 Switch: edge2gw,565.0,0.0
 Switch: inter2,565.0,0.0
 internethost,565.0,0.0
 Switch: internetcore,565.0,0.0
 Switch: internetedge,565.0,0.0
+Switch: edge2core,570.0,0.0
 edgeuser3,570.0,0.0
 Switch: edge2edge1,570.0,0.0
-Switch: edge2core,570.0,0.0
-edgenode3,570.0,0.001645
 edgeuser2,570.0,0.001558
-edgenode2,570.0,0.001587
 Switch: edgeedge2,570.0,0.001558
+edgenode3,570.0,0.001645
+edgeuser1,570.0,0.001405
+Switch: edgecore,570.0,0.003232
+edgenode1,570.0,8.0E-4
+Switch: edgeedge1,570.0,0.001405
 Switch: edgeedge3,570.0,0.003232
 edgenode4,570.0,0.0021
-Switch: edgeedge1,570.0,0.001405
-edgeuser1,570.0,0.001405
-edgenode1,570.0,8.0E-4
-Switch: edgecore,570.0,0.003232
-netcloudhost3,570.0,0.0
-Switch: netcloudedge1,570.0,0.0
-netcloudhost1,570.0,0.0
-netcloudhost2,570.0,0.0
+edgenode2,570.0,0.001587
 Switch: netcloudedge2,570.0,0.0
 netcloudhost4,570.0,0.0
 Switch: netcloudcore,570.0,0.0
-Switch: internetgw,570.0,0.0
-Switch: netcloudgw,570.0,0.0
+netcloudhost2,570.0,0.0
+Switch: netcloudedge1,570.0,0.0
+netcloudhost1,570.0,0.0
+netcloudhost3,570.0,0.0
 Switch: edgegw,570.0,0.003232
+Switch: netcloudgw,570.0,0.0
+Switch: internetgw,570.0,0.0
 Switch: edge2gw,570.0,0.0
 Switch: inter2,570.0,0.0
 internethost,570.0,0.0
 Switch: internetcore,570.0,0.0
 Switch: internetedge,570.0,0.0
+Switch: edge2core,575.0,0.0
 edgeuser3,575.0,0.0
 Switch: edge2edge1,575.0,0.0
-Switch: edge2core,575.0,0.0
-edgenode3,575.0,0.001473
 edgeuser2,575.0,0.001641496
-edgenode2,575.0,0.001438
 Switch: edgeedge2,575.0,0.001641496
+edgenode3,575.0,0.001473
+edgeuser1,575.0,0.001577504
+Switch: edgecore,575.0,0.003006
+edgenode1,575.0,7.83E-4
+Switch: edgeedge1,575.0,0.001577504
 Switch: edgeedge3,575.0,0.003006
 edgenode4,575.0,0.002025
-Switch: edgeedge1,575.0,0.001577504
-edgeuser1,575.0,0.001577504
-edgenode1,575.0,7.83E-4
-Switch: edgecore,575.0,0.003006
-netcloudhost3,575.0,0.0
-Switch: netcloudedge1,575.0,0.0
-netcloudhost1,575.0,0.0
-netcloudhost2,575.0,0.0
+edgenode2,575.0,0.001438
 Switch: netcloudedge2,575.0,0.0
 netcloudhost4,575.0,0.0
 Switch: netcloudcore,575.0,0.0
-Switch: internetgw,575.0,0.0
-Switch: netcloudgw,575.0,0.0
+netcloudhost2,575.0,0.0
+Switch: netcloudedge1,575.0,0.0
+netcloudhost1,575.0,0.0
+netcloudhost3,575.0,0.0
 Switch: edgegw,575.0,0.003006
+Switch: netcloudgw,575.0,0.0
+Switch: internetgw,575.0,0.0
 Switch: edge2gw,575.0,0.0
 Switch: inter2,575.0,0.0
 internethost,575.0,0.0
 Switch: internetcore,575.0,0.0
 Switch: internetedge,575.0,0.0
+Switch: edge2core,580.0,0.0
 edgeuser3,580.0,0.0
 Switch: edge2edge1,580.0,0.0
-Switch: edge2core,580.0,0.0
-edgenode3,580.0,0.00165
 edgeuser2,580.0,0.001302496
-edgenode2,580.0,0.001635504
 Switch: edgeedge2,580.0,0.001302496
+edgenode3,580.0,0.00165
+edgeuser1,580.0,0.001503504
+Switch: edgecore,580.0,0.003238
+edgenode1,580.0,8.0E-4
+Switch: edgeedge1,580.0,0.001503504
 Switch: edgeedge3,580.0,0.003238
 edgenode4,580.0,0.002106
-Switch: edgeedge1,580.0,0.001503504
-edgeuser1,580.0,0.001503504
-edgenode1,580.0,8.0E-4
-Switch: edgecore,580.0,0.003238
-netcloudhost3,580.0,0.0
-Switch: netcloudedge1,580.0,0.0
-netcloudhost1,580.0,0.0
-netcloudhost2,580.0,0.0
+edgenode2,580.0,0.001635504
 Switch: netcloudedge2,580.0,0.0
 netcloudhost4,580.0,0.0
 Switch: netcloudcore,580.0,0.0
-Switch: internetgw,580.0,0.0
-Switch: netcloudgw,580.0,0.0
+netcloudhost2,580.0,0.0
+Switch: netcloudedge1,580.0,0.0
+netcloudhost1,580.0,0.0
+netcloudhost3,580.0,0.0
 Switch: edgegw,580.0,0.003238
+Switch: netcloudgw,580.0,0.0
+Switch: internetgw,580.0,0.0
 Switch: edge2gw,580.0,0.0
 Switch: inter2,580.0,0.0
 internethost,580.0,0.0
 Switch: internetcore,580.0,0.0
 Switch: internetedge,580.0,0.0
+Switch: edge2core,585.0,0.0
 edgeuser3,585.0,0.0
 Switch: edge2edge1,585.0,0.0
-Switch: edge2core,585.0,0.0
-edgenode3,585.0,0.001491
 edgeuser2,585.0,0.001472
-edgenode2,585.0,0.001484496
 Switch: edgeedge2,585.0,0.001472
+edgenode3,585.0,0.001491
+edgeuser1,585.0,0.001665504
+Switch: edgecore,585.0,0.002991
+edgenode1,585.0,7.5E-4
+Switch: edgeedge1,585.0,0.001665504
 Switch: edgeedge3,585.0,0.002991
 edgenode4,585.0,0.002019
-Switch: edgeedge1,585.0,0.001665504
-edgeuser1,585.0,0.001665504
-edgenode1,585.0,7.5E-4
-Switch: edgecore,585.0,0.002991
-netcloudhost3,585.0,0.0
-Switch: netcloudedge1,585.0,0.0
-netcloudhost1,585.0,0.0
-netcloudhost2,585.0,0.0
+edgenode2,585.0,0.001484496
 Switch: netcloudedge2,585.0,0.0
 netcloudhost4,585.0,0.0
 Switch: netcloudcore,585.0,0.0
-Switch: internetgw,585.0,0.0
-Switch: netcloudgw,585.0,0.0
+netcloudhost2,585.0,0.0
+Switch: netcloudedge1,585.0,0.0
+netcloudhost1,585.0,0.0
+netcloudhost3,585.0,0.0
 Switch: edgegw,585.0,0.002991
+Switch: netcloudgw,585.0,0.0
+Switch: internetgw,585.0,0.0
 Switch: edge2gw,585.0,0.0
 Switch: inter2,585.0,0.0
 internethost,585.0,0.0
 Switch: internetcore,585.0,0.0
 Switch: internetedge,585.0,0.0
+Switch: edge2core,590.0,0.0
 edgeuser3,590.0,0.0
 Switch: edge2edge1,590.0,0.0
-Switch: edge2core,590.0,0.0
-edgenode3,590.0,0.001632504
 edgeuser2,590.0,0.001501992
-edgenode2,590.0,0.00157
 Switch: edgeedge2,590.0,0.001501992
+edgenode3,590.0,0.001632504
+edgeuser1,590.0,0.001678496
+Switch: edgecore,590.0,0.003317008
+edgenode1,590.0,8.34504E-4
+Switch: edgeedge1,590.0,0.001678496
 Switch: edgeedge3,590.0,0.003317008
 edgenode4,590.0,0.002229504
-Switch: edgeedge1,590.0,0.001678496
-edgeuser1,590.0,0.001678496
-edgenode1,590.0,8.34504E-4
-Switch: edgecore,590.0,0.003317008
-netcloudhost3,590.0,0.0
-Switch: netcloudedge1,590.0,0.0
-netcloudhost1,590.0,0.0
-netcloudhost2,590.0,0.0
+edgenode2,590.0,0.00157
 Switch: netcloudedge2,590.0,0.0
 netcloudhost4,590.0,0.0
 Switch: netcloudcore,590.0,0.0
-Switch: internetgw,590.0,0.0
-Switch: netcloudgw,590.0,0.0
+netcloudhost2,590.0,0.0
+Switch: netcloudedge1,590.0,0.0
+netcloudhost1,590.0,0.0
+netcloudhost3,590.0,0.0
 Switch: edgegw,590.0,0.003317008
+Switch: netcloudgw,590.0,0.0
+Switch: internetgw,590.0,0.0
 Switch: edge2gw,590.0,0.0
 Switch: inter2,590.0,0.0
 internethost,590.0,0.0
 Switch: internetcore,590.0,0.0
 Switch: internetedge,590.0,0.0
+Switch: edge2core,595.0,0.0
 edgeuser3,595.0,0.0
 Switch: edge2edge1,595.0,0.0
-Switch: edge2core,595.0,0.0
-edgenode3,595.0,0.00155
 edgeuser2,595.0,0.001638496
-edgenode2,595.0,0.0016
 Switch: edgeedge2,595.0,0.001638496
+edgenode3,595.0,0.00155
+edgeuser1,595.0,0.0015
+Switch: edgecore,595.0,0.0031
+edgenode1,595.0,7.5E-4
+Switch: edgeedge1,595.0,0.0015
 Switch: edgeedge3,595.0,0.0031
 edgenode4,595.0,0.002
-Switch: edgeedge1,595.0,0.0015
-edgeuser1,595.0,0.0015
-edgenode1,595.0,7.5E-4
-Switch: edgecore,595.0,0.0031
-netcloudhost3,595.0,0.0
-Switch: netcloudedge1,595.0,0.0
-netcloudhost1,595.0,0.0
-netcloudhost2,595.0,0.0
+edgenode2,595.0,0.0016
 Switch: netcloudedge2,595.0,0.0
 netcloudhost4,595.0,0.0
 Switch: netcloudcore,595.0,0.0
-Switch: internetgw,595.0,0.0
-Switch: netcloudgw,595.0,0.0
+netcloudhost2,595.0,0.0
+Switch: netcloudedge1,595.0,0.0
+netcloudhost1,595.0,0.0
+netcloudhost3,595.0,0.0
 Switch: edgegw,595.0,0.0031
+Switch: netcloudgw,595.0,0.0
+Switch: internetgw,595.0,0.0
 Switch: edge2gw,595.0,0.0
 Switch: inter2,595.0,0.0
 internethost,595.0,0.0
 Switch: internetcore,595.0,0.0
 Switch: internetedge,595.0,0.0
+Switch: edge2core,600.0,0.0
 edgeuser3,600.0,0.0
 Switch: edge2edge1,600.0,0.0
-Switch: edge2core,600.0,0.0
-edgenode3,600.0,0.00145
 edgeuser2,600.0,0.001484496
-edgenode2,600.0,0.001396504
 Switch: edgeedge2,600.0,0.001484496
+edgenode3,600.0,0.00145
+edgeuser1,600.0,0.001401496
+Switch: edgecore,600.0,0.0029
+edgenode1,600.0,7.5E-4
+Switch: edgeedge1,600.0,0.001401496
 Switch: edgeedge3,600.0,0.0029
 edgenode4,600.0,0.001994008
-Switch: edgeedge1,600.0,0.001401496
-edgeuser1,600.0,0.001401496
-edgenode1,600.0,7.5E-4
-Switch: edgecore,600.0,0.0029
-netcloudhost3,600.0,0.0
-Switch: netcloudedge1,600.0,0.0
-netcloudhost1,600.0,0.0
-netcloudhost2,600.0,0.0
+edgenode2,600.0,0.001396504
 Switch: netcloudedge2,600.0,0.0
 netcloudhost4,600.0,0.0
 Switch: netcloudcore,600.0,0.0
-Switch: internetgw,600.0,0.0
-Switch: netcloudgw,600.0,0.0
+netcloudhost2,600.0,0.0
+Switch: netcloudedge1,600.0,0.0
+netcloudhost1,600.0,0.0
+netcloudhost3,600.0,0.0
 Switch: edgegw,600.0,0.0029
+Switch: netcloudgw,600.0,0.0
+Switch: internetgw,600.0,0.0
 Switch: edge2gw,600.0,0.0
 Switch: inter2,600.0,0.0
 internethost,600.0,0.0
 Switch: internetcore,600.0,0.0
 Switch: internetedge,600.0,0.0
+Switch: edge2core,605.0,0.0
 edgeuser3,605.0,0.0
 Switch: edge2edge1,605.0,0.0
-Switch: edge2core,605.0,0.0
-edgenode3,605.0,5.5E-4
 edgeuser2,605.0,3.5E-4
-edgenode2,605.0,5.0E-4
 Switch: edgeedge2,605.0,3.5E-4
+edgenode3,605.0,5.5E-4
+edgeuser1,605.0,3.0E-4
+Switch: edgecore,605.0,0.00105
+edgenode1,605.0,2.5E-4
+Switch: edgeedge1,605.0,3.0E-4
 Switch: edgeedge3,605.0,0.00105
 edgenode4,605.0,5.5E-4
-Switch: edgeedge1,605.0,3.0E-4
-edgeuser1,605.0,3.0E-4
-edgenode1,605.0,2.5E-4
-Switch: edgecore,605.0,0.00105
-netcloudhost3,605.0,0.0
-Switch: netcloudedge1,605.0,0.0
-netcloudhost1,605.0,0.0
-netcloudhost2,605.0,0.0
+edgenode2,605.0,5.0E-4
 Switch: netcloudedge2,605.0,0.0
 netcloudhost4,605.0,0.0
 Switch: netcloudcore,605.0,0.0
-Switch: internetgw,605.0,0.0
-Switch: netcloudgw,605.0,0.0
+netcloudhost2,605.0,0.0
+Switch: netcloudedge1,605.0,0.0
+netcloudhost1,605.0,0.0
+netcloudhost3,605.0,0.0
 Switch: edgegw,605.0,0.00105
+Switch: netcloudgw,605.0,0.0
+Switch: internetgw,605.0,0.0
 Switch: edge2gw,605.0,0.0
 Switch: inter2,605.0,0.0
 internethost,605.0,0.0
 Switch: internetcore,605.0,0.0
 Switch: internetedge,605.0,0.0
-edgenode3,610.0,0.0
 edgeuser2,610.0,0.0
-edgenode2,610.0,0.0
 Switch: edgeedge2,610.0,0.0
+edgenode3,610.0,0.0
+edgeuser1,610.0,0.0
+Switch: edgecore,610.0,0.0
+edgenode1,610.0,0.0
+Switch: edgeedge1,610.0,0.0
 Switch: edgeedge3,610.0,0.0
 edgenode4,610.0,0.0
-Switch: edgeedge1,610.0,0.0
-edgeuser1,610.0,0.0
-edgenode1,610.0,0.0
-Switch: edgecore,610.0,0.0
-netcloudhost3,610.0,0.0
-Switch: netcloudedge1,610.0,0.0
-netcloudhost1,610.0,0.0
-netcloudhost2,610.0,0.0
+edgenode2,610.0,0.0
 Switch: netcloudedge2,610.0,0.0
 netcloudhost4,610.0,0.0
 Switch: netcloudcore,610.0,0.0
-Switch: internetgw,610.0,0.0
-Switch: netcloudgw,610.0,0.0
+netcloudhost2,610.0,0.0
+Switch: netcloudedge1,610.0,0.0
+netcloudhost1,610.0,0.0
+netcloudhost3,610.0,0.0
 Switch: edgegw,610.0,0.0
+Switch: netcloudgw,610.0,0.0
+Switch: internetgw,610.0,0.0
 Switch: edge2gw,610.0,0.0
 Switch: inter2,610.0,0.0
 internethost,610.0,0.0
 Switch: internetcore,610.0,0.0
 Switch: internetedge,610.0,0.0
-edgenode3,615.0,0.0
 edgeuser2,615.0,0.0
-edgenode2,615.0,0.0
 Switch: edgeedge2,615.0,0.0
+edgenode3,615.0,0.0
+edgeuser1,615.0,0.0
+Switch: edgecore,615.0,0.0
+edgenode1,615.0,0.0
+Switch: edgeedge1,615.0,0.0
 Switch: edgeedge3,615.0,0.0
 edgenode4,615.0,0.0
-Switch: edgeedge1,615.0,0.0
-edgeuser1,615.0,0.0
-edgenode1,615.0,0.0
-Switch: edgecore,615.0,0.0
-netcloudhost3,615.0,0.0
-Switch: netcloudedge1,615.0,0.0
-netcloudhost1,615.0,0.0
-netcloudhost2,615.0,0.0
+edgenode2,615.0,0.0
 Switch: netcloudedge2,615.0,0.0
 netcloudhost4,615.0,0.0
 Switch: netcloudcore,615.0,0.0
-Switch: internetgw,615.0,0.0
-Switch: netcloudgw,615.0,0.0
+netcloudhost2,615.0,0.0
+Switch: netcloudedge1,615.0,0.0
+netcloudhost1,615.0,0.0
+netcloudhost3,615.0,0.0
 Switch: edgegw,615.0,0.0
+Switch: netcloudgw,615.0,0.0
+Switch: internetgw,615.0,0.0
 Switch: edge2gw,615.0,0.0
 Switch: inter2,615.0,0.0
 internethost,615.0,0.0
 Switch: internetcore,615.0,0.0
 Switch: internetedge,615.0,0.0
-edgenode3,620.0,0.0
 edgeuser2,620.0,0.0
-edgenode2,620.0,0.0
 Switch: edgeedge2,620.0,0.0
+edgenode3,620.0,0.0
+edgeuser1,620.0,0.0
+Switch: edgecore,620.0,0.0
+edgenode1,620.0,0.0
+Switch: edgeedge1,620.0,0.0
 Switch: edgeedge3,620.0,0.0
 edgenode4,620.0,0.0
-Switch: edgeedge1,620.0,0.0
-edgeuser1,620.0,0.0
-edgenode1,620.0,0.0
-Switch: edgecore,620.0,0.0
-netcloudhost3,620.0,0.0
-Switch: netcloudedge1,620.0,0.0
-netcloudhost1,620.0,0.0
-netcloudhost2,620.0,0.0
+edgenode2,620.0,0.0
 Switch: netcloudedge2,620.0,0.0
 netcloudhost4,620.0,0.0
 Switch: netcloudcore,620.0,0.0
-Switch: internetgw,620.0,0.0
-Switch: netcloudgw,620.0,0.0
+netcloudhost2,620.0,0.0
+Switch: netcloudedge1,620.0,0.0
+netcloudhost1,620.0,0.0
+netcloudhost3,620.0,0.0
 Switch: edgegw,620.0,0.0
+Switch: netcloudgw,620.0,0.0
+Switch: internetgw,620.0,0.0
 Switch: edge2gw,620.0,0.0
 Switch: inter2,620.0,0.0
 internethost,620.0,0.0
